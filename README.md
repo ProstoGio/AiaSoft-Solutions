@@ -17,8 +17,9 @@
 This repository contains my solutions to problems from **[AiaSoft.ge](https://aiasoft.ge)** — a Georgian competitive programming platform.
 
 Each solution includes:
-- ✅ Working **C++ source code** (`sol.cpp`)
-- 📝 **Explanation** with approach, complexity analysis, and key insights (`README.md`)
+- 📋 **Problem statement** copied from AiaSoft.ge (`statement.md`)
+- ✅ **C++ source code** (`sol.cpp`)
+- 📝 **Explanation** with approach, complexity, and insights (`explanation.md`)
 
 > Looking for AiaSoft solutions? You're in the right place.
 
@@ -64,11 +65,13 @@ Each solution includes:
 aiasoft-solutions/
 ├── solutions/
 │   └── NNN. პრობლემის სახელი/
-│       ├── sol.cpp       ← C++ solution
-│       └── README.md     ← explanation & analysis
+│       ├── README.md       ← summary: title, difficulty, topics, links
+│       ├── statement.md    ← problem statement from aiasoft.ge
+│       ├── explanation.md  ← approach, complexity, insights
+│       └── sol.cpp         ← C++ solution
 ├── by-topic/
-│   └── README.md         ← problems grouped by topic
-└── README.md             ← you are here
+│   └── README.md           ← problems grouped by topic
+└── README.md               ← you are here
 ```
 
 ---
