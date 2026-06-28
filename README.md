@@ -5,7 +5,7 @@ Clean and well-documented solutions to programming problems from AiaSoft.
 
 ## Structure
 
-- `solutions/` — Organized by difficulty (`easy/`, `medium/`, `hard/`) and `by-topic/`
+- `solutions/` — Contains solutions of problems
 - Each problem folder contains:
   - `sol.cpp`
   - `expl.md` with explanation, complexity, and insights
