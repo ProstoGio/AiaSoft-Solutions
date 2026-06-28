@@ -1,4 +1,4 @@
-# 528. <!-- problem name -->
+# 528. ფერადი ბურთები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#528](https://aiasoft.ge/problem/528)
 

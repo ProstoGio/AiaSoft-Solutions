@@ -1,10 +1,12 @@
-# Problem Statement
+# Problem Statement — 906. ფიფქების სამკუთხედი -1
 
 > Copied from [AiaSoft.ge #906](https://aiasoft.ge/problem/906)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია არაუარყოფითი მთელი რიცხვი $N, N<=30$ რიცხვი, დაბეჭდეთ ფიფქების მარცხენა სამკუთხედი, რომლის ფუძის სიგრძეა N რაოდენობის ფიფქი, ოღონდ `bფუძით მაღლა` (იხ. ნიმუში)
 
 ## Input
 
@@ -13,19 +15,3 @@
 ## Output
 
 <!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```

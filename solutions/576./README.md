@@ -1,4 +1,4 @@
-# 576. <!-- problem name -->
+# 576. ლუწი ინდექსები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#576](https://aiasoft.ge/problem/576)
 

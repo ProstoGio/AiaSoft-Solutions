@@ -1,4 +1,4 @@
-# 419. <!-- problem name -->
+# 419. ავზი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#419](https://aiasoft.ge/problem/419)
 

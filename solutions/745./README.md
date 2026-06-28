@@ -1,4 +1,4 @@
-# 745. <!-- problem name -->
+# 745. ციფრთა ჯამი - 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#745](https://aiasoft.ge/problem/745)
 

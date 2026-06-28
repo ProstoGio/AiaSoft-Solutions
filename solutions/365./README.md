@@ -1,4 +1,4 @@
-# 365. <!-- problem name -->
+# 365. გაასწორეთ წინადადება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#365](https://aiasoft.ge/problem/365)
 

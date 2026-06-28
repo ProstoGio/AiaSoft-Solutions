@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 313. 0 და 1
 
 > Copied from [AiaSoft.ge #313](https://aiasoft.ge/problem/313)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+დაადგინეთ, რამდენი განსხვავებული $N$ წევრიანი მიმდევრობა არსებობს, რომელიც შედგება მხოლოდ ნულებისა და ერთებისაგან და ერთმანეთის გვერდით ორი `bერთიანი` არ დგას.
 
 ## Input
 
-<!-- input format -->
+მოცემულია ერთი მთელი რიცხვი: $N$,  $(1 <= N <= 40)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი მთელი რიცხვი, მოთხოვნილი მიმდევრობების რაოდენობა.

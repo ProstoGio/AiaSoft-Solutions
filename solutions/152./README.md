@@ -1,4 +1,4 @@
-# 152. <!-- problem name -->
+# 152. ცათამბჯენი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#152](https://aiasoft.ge/problem/152)
 

@@ -1,4 +1,4 @@
-# 120. <!-- problem name -->
+# 120. ყუთები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#120](https://aiasoft.ge/problem/120)
 

@@ -1,4 +1,4 @@
-# 188. <!-- problem name -->
+# 188. ჩქარა, ბაბი, ჩქარა!
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#188](https://aiasoft.ge/problem/188)
 

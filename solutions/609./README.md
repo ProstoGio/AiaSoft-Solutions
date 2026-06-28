@@ -1,4 +1,4 @@
-# 609. <!-- problem name -->
+# 609. i-ური ბიტი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#609](https://aiasoft.ge/problem/609)
 

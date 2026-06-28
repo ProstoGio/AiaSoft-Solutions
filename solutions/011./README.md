@@ -1,6 +1,6 @@
-# 011. <!-- problem name -->
+# 011. საყვარელი რიცხვები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#011](https://aiasoft.ge/problem/011)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#011](https://aiasoft.ge/problem/11)
 
 | Field | Info |
 |-------|------|

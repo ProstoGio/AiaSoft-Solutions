@@ -1,31 +1,21 @@
-# Problem Statement
+# Problem Statement — 861. წაშალეთ სიმბოლო
 
 > Copied from [AiaSoft.ge #861](https://aiasoft.ge/problem/861)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $S$ სტრიქონი და $K$ სიმბოლო. თქვენი დავალებაა $S$ სტრიქონში წაშალოთ ყველა $K$ სიმბოლო და შედეგი გამობეჭდოთ.
 
 ## Input
 
-<!-- input format -->
+ერთადერთ ხაზზე მოცემულია $S$ სტრიქონი და $K$ სიმბოლო.
+
+$1<=|S|<=100$
+
+*$S$ სტრიქონი შედგება ლათინური ანბანის პატარა და დიდი ასოებისგან, ისევე როგორც $K$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთადერთ ხაზზე გამობეჭდეთ წაშლის შედეგად მიღებული სტრიქონი

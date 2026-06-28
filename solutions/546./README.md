@@ -1,4 +1,4 @@
-# 546. <!-- problem name -->
+# 546. ყველაზე შორს
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#546](https://aiasoft.ge/problem/546)
 

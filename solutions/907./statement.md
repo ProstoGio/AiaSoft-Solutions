@@ -1,10 +1,12 @@
-# Problem Statement
+# Problem Statement — 907. ფიფქების კვადრატი
 
 > Copied from [AiaSoft.ge #907](https://aiasoft.ge/problem/907)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია არაუარყოფითი მთელი რიცხვი $N, N<=30$ რიცხვი, დაბეჭდეთ ფიფქების კვადრატი, რომლის გვერდის სიგრძეა N რაოდენობის ფიფქი (იხ. ნიმუში)
 
 ## Input
 
@@ -13,19 +15,3 @@
 ## Output
 
 <!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```

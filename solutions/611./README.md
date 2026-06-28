@@ -1,4 +1,4 @@
-# 611. <!-- problem name -->
+# 611. XOR ოპერაცია
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#611](https://aiasoft.ge/problem/611)
 

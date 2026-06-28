@@ -1,4 +1,4 @@
-# 333. <!-- problem name -->
+# 333. გამყოფები 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#333](https://aiasoft.ge/problem/333)
 

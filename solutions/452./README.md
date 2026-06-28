@@ -1,4 +1,4 @@
-# 452. <!-- problem name -->
+# 452. კვადრების ქვეყანა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#452](https://aiasoft.ge/problem/452)
 

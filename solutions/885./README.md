@@ -1,4 +1,4 @@
-# 885. <!-- problem name -->
+# 885. წრის ფართობი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#885](https://aiasoft.ge/problem/885)
 

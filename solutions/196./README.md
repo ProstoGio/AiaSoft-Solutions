@@ -1,4 +1,4 @@
-# 196. <!-- problem name -->
+# 196. სიმბოლოთა ამომცნობი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#196](https://aiasoft.ge/problem/196)
 

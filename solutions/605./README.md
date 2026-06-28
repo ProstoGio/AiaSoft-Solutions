@@ -1,4 +1,4 @@
-# 605. <!-- problem name -->
+# 605. გადაიყვანე ორობითში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#605](https://aiasoft.ge/problem/605)
 

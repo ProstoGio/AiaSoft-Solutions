@@ -1,4 +1,4 @@
-# 863. <!-- problem name -->
+# 863. დაითვალე კენტები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#863](https://aiasoft.ge/problem/863)
 

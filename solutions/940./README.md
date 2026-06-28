@@ -1,4 +1,4 @@
-# 940. <!-- problem name -->
+# 940. მარტივი ციკლები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#940](https://aiasoft.ge/problem/940)
 

@@ -1,6 +1,6 @@
-# 068. <!-- problem name -->
+# 068. ბიოლოგიური რიტმები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#068](https://aiasoft.ge/problem/068)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#068](https://aiasoft.ge/problem/68)
 
 | Field | Info |
 |-------|------|

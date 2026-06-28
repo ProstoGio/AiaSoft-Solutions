@@ -1,4 +1,4 @@
-# 337. <!-- problem name -->
+# 337. რეგისტრის ცვლილება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#337](https://aiasoft.ge/problem/337)
 

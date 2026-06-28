@@ -1,4 +1,4 @@
-# 299. <!-- problem name -->
+# 299. კიბე და ბურთულა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#299](https://aiasoft.ge/problem/299)
 

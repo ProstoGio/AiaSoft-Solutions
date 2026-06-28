@@ -1,4 +1,4 @@
-# 458. <!-- problem name -->
+# 458. პასკალის სამკუთხედი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#458](https://aiasoft.ge/problem/458)
 

@@ -1,4 +1,4 @@
-# 376. <!-- problem name -->
+# 376. კომპონენტები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#376](https://aiasoft.ge/problem/376)
 

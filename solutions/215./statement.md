@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 215. მატრიცის შევსება
 
 > Copied from [AiaSoft.ge #215](https://aiasoft.ge/problem/215)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია კვადრატული მატრიცა, შეავსეთ იგი წინასწარ მოცემული რიცხვით.
 
 ## Input
 
-<!-- input format -->
+შემომავალი ფაილის ერთ სტრიქონში ჩაწერილია $n$,  მატრიცის სტრიქონების რაოდენობა და $x$, ნატურალური რიცხვი, რომლითაც უნდა შეივსოს მატრიცა.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ შევსებული მატრიცა.

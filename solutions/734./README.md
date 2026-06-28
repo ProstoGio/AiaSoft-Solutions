@@ -1,4 +1,4 @@
-# 734. <!-- problem name -->
+# 734. შებრუნებული რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#734](https://aiasoft.ge/problem/734)
 

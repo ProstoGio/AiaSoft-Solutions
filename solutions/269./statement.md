@@ -1,31 +1,22 @@
-# Problem Statement
+# Problem Statement — 269. ხე
 
 > Copied from [AiaSoft.ge #269](https://aiasoft.ge/problem/269)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია არაორიენტირებული გრაფი. დაადგინეთ, არის თუ არა მოცემული გრაფი ხე.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის $N$ და $M$, შესაბამისად გრაფში წვეროებისა და წიბოების რაოდენობა.
+მომდევნო $M$ ხაზზე მოცემულია ორ-ორი რიცხვი. კერძოდ $i$-ურ ხაზზე შემოვა $v_i$ და $u_i$ - მეზობელი წვეროების ნომრები. (გრაფის წვეროები დანომრილია 1-დან $N$-მდე)
+
+$1 <= N <= 20$
+$0 <= M <= N*(N-1) / 2$
+$1 <= v_i, u_i <= N$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+თუ შემოსული გრაფი წარმოადგენს ხეს, გამოიტანეთ `bYES`, წინააღმდეგ შემთხვევაში - `bNO`

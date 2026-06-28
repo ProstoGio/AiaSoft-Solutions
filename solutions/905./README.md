@@ -1,4 +1,4 @@
-# 905. <!-- problem name -->
+# 905. ფიფქების სამკუთხედი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#905](https://aiasoft.ge/problem/905)
 

@@ -1,4 +1,4 @@
-# 903. <!-- problem name -->
+# 903. ქალაქ ბაიას მერი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#903](https://aiasoft.ge/problem/903)
 

@@ -1,4 +1,4 @@
-# 843. <!-- problem name -->
+# 843. ევკლიდური საბავშვო ბაღი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#843](https://aiasoft.ge/problem/843)
 

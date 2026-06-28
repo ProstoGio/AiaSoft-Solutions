@@ -1,31 +1,21 @@
-# Problem Statement
+# Problem Statement — 087. N რიცხვის ჯამი
 
-> Copied from [AiaSoft.ge #087](https://aiasoft.ge/problem/087)
+> Copied from [AiaSoft.ge #87](https://aiasoft.ge/problem/87)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ რაოდენობის მთელი რიცხვი. გამოიტანეთ მათი ჯამი.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის ერთი მთელი რიცხვი $N$
+მეორე ხაზზე შემოდის ჰარით გამოყოფილი $N$ ცალი მთელი რიცხვი: $a_1, a_2, ..., a_n$
+
+$1 <= N <= 20$
+$0 <= a_i <= 10^9$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი რიცხვი, შემოსული რიცხვების ჯამი.

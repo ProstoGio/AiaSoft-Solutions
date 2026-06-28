@@ -1,4 +1,4 @@
-# 762. <!-- problem name -->
+# 762. კონგრუენტულობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#762](https://aiasoft.ge/problem/762)
 

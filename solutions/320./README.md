@@ -1,4 +1,4 @@
-# 320. <!-- problem name -->
+# 320. ტალღა მატრიცაში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#320](https://aiasoft.ge/problem/320)
 

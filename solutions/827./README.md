@@ -1,4 +1,4 @@
-# 827. <!-- problem name -->
+# 827. პალინდრომია?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#827](https://aiasoft.ge/problem/827)
 

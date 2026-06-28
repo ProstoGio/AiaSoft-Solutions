@@ -1,4 +1,4 @@
-# 671. <!-- problem name -->
+# 671. ბილეთების გაყიდვა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#671](https://aiasoft.ge/problem/671)
 

@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 605. გადაიყვანე ორობითში
 
 > Copied from [AiaSoft.ge #605](https://aiasoft.ge/problem/605)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+გადაიყვანეთ მოცემული ათობითი რიცხვი ორობითში.
 
 ## Input
 
-<!-- input format -->
+მოცემულია ერთი მთელი რიცხვი: $N$ $(0 <= N <= 10^18)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი რიცხვი: $N$-ის ორობითი ჩანაწერი.

@@ -1,4 +1,4 @@
-# 514. <!-- problem name -->
+# 514. მიიღე მესამე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#514](https://aiasoft.ge/problem/514)
 

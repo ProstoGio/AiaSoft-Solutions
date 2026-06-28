@@ -1,6 +1,6 @@
-# 055. <!-- problem name -->
+# 055. გაფუჭებული ვაშლები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#055](https://aiasoft.ge/problem/055)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#055](https://aiasoft.ge/problem/55)
 
 | Field | Info |
 |-------|------|

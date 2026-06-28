@@ -1,4 +1,4 @@
-# 868. <!-- problem name -->
+# 868. დაბეჭდე ლუწები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#868](https://aiasoft.ge/problem/868)
 

@@ -1,4 +1,4 @@
-# 446. <!-- problem name -->
+# 446. დაკარგული რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#446](https://aiasoft.ge/problem/446)
 

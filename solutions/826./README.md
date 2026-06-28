@@ -1,4 +1,4 @@
-# 826. <!-- problem name -->
+# 826. სამნიშნას უდიდესი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#826](https://aiasoft.ge/problem/826)
 

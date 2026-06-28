@@ -1,4 +1,4 @@
-# 138. <!-- problem name -->
+# 138. მასივი 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#138](https://aiasoft.ge/problem/138)
 

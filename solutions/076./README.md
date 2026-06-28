@@ -1,6 +1,6 @@
-# 076. <!-- problem name -->
+# 076. ეგოისტი ბავშვები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#076](https://aiasoft.ge/problem/076)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#076](https://aiasoft.ge/problem/76)
 
 | Field | Info |
 |-------|------|

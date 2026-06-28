@@ -1,4 +1,4 @@
-# 217. <!-- problem name -->
+# 217. მთავარი დიაგონალები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#217](https://aiasoft.ge/problem/217)
 

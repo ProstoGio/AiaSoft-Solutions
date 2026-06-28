@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 862. ნახევარმატრიცა
 
 > Copied from [AiaSoft.ge #862](https://aiasoft.ge/problem/862)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია კვადრატული მატრიცა, შეავსეთ იგი მარცხენა მთავარი დიაგონალის ზევით (დიაგონალის ჩათვლით) წინასწარ მოცემული რიცხვით. სხვა დანარჩენი ელემენტები უნდა უდრიდეს 0-ს.
 
 ## Input
 
-<!-- input format -->
+შემომავალი ფაილის ერთ სტრიქონში ჩაწერილია $n$,  მატრიცის სტრიქონების რაოდენობა და $x$, ნატურალური რიცხვი, რომლითაც უნდა შეივსოს მატრიცა.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ნახევრადშევსებული მატრიცა.

@@ -1,4 +1,4 @@
-# 312. <!-- problem name -->
+# 312. უბრალოდ უმოკლესი მანძილი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#312](https://aiasoft.ge/problem/312)
 

@@ -1,4 +1,4 @@
-# 179. <!-- problem name -->
+# 179. ცხრილი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#179](https://aiasoft.ge/problem/179)
 

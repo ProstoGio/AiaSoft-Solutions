@@ -1,4 +1,4 @@
-# 548. <!-- problem name -->
+# 548. ოთახების დათვლა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#548](https://aiasoft.ge/problem/548)
 

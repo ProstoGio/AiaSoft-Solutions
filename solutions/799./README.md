@@ -1,4 +1,4 @@
-# 799. <!-- problem name -->
+# 799. კარგი სამეული
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#799](https://aiasoft.ge/problem/799)
 

@@ -1,4 +1,4 @@
-# 475. <!-- problem name -->
+# 475. ორის ხარისხების ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#475](https://aiasoft.ge/problem/475)
 

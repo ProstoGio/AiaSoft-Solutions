@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 248. მასივის შემობრუნება
 
 > Copied from [AiaSoft.ge #248](https://aiasoft.ge/problem/248)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია მთელი რიცხვებისგან შედგენილი მასივი. შემოაბრუნეთ მასივი და გამობეჭდეთ. (ანუ ჩაალაგეთ მასივში რიცხვები უკუთანმიმდევრობით).
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის ერთი მთელი რიცხვი: $N$ - მასივის სიგრძე $(1 <= N <= 100)$
+მეორე ხაზზე შემოდის $N$ ცალი მთელი რიცხვი: $a_1, a_2, ..., a_n$ - მასივის წევრები. $(1 <= a_i <= 1000)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთ ხაზზე გამობეჭდეთ შემოსული მასივი უკუთანმიმდევრობით.

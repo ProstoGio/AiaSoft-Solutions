@@ -1,4 +1,4 @@
-# 361. <!-- problem name -->
+# 361. ციფრთა ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#361](https://aiasoft.ge/problem/361)
 

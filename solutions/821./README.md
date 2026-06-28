@@ -1,4 +1,4 @@
-# 821. <!-- problem name -->
+# 821. ნულების გადასმა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#821](https://aiasoft.ge/problem/821)
 

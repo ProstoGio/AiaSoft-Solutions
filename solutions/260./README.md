@@ -1,4 +1,4 @@
-# 260. <!-- problem name -->
+# 260. მარყუჟი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#260](https://aiasoft.ge/problem/260)
 

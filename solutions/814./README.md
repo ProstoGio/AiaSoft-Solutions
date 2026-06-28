@@ -1,4 +1,4 @@
-# 814. <!-- problem name -->
+# 814. ლამაზი წევრები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#814](https://aiasoft.ge/problem/814)
 

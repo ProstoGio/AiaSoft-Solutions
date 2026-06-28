@@ -1,4 +1,4 @@
-# 213. <!-- problem name -->
+# 213. სიმბოლოს გარდაქმნა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#213](https://aiasoft.ge/problem/213)
 

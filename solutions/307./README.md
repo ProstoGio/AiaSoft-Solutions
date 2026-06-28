@@ -1,4 +1,4 @@
-# 307. <!-- problem name -->
+# 307. ჯამი მატრიცაში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#307](https://aiasoft.ge/problem/307)
 

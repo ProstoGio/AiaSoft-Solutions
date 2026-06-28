@@ -1,31 +1,24 @@
-# Problem Statement
+# Problem Statement — 088. გადაჭერი ლენტი
 
-> Copied from [AiaSoft.ge #088](https://aiasoft.ge/problem/088)
+> Copied from [AiaSoft.ge #88](https://aiasoft.ge/problem/88)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ლენტი, რომლის სიგრძეც არის $N$. დაადგინეთ, შეიძლება თუ არა გადაიჭრას ლენტი ორ ნაწილად ისე, რომ სრულდებოდეს შემდეგი ორი პირობა:
+
+     * ორივე ლენტის სიგრძე თანაბარი უნდა იყოს
+     * ორივე ლენტის სიგრძე უნდა იყოს მთელი რიცხვი
+
+დადებითი პასუხის შემთხვევაში გამოიტანეთ "yes", წინააღმდეგ შემთხვევაში "no".
 
 ## Input
 
-<!-- input format -->
+მოცემულია ერთადერთი მთელი რიცხვი: $N$ - საწყისი ლენტის სიგრძე.
+
+$1 <= N <= 500$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი სიტყვა: "yes" ან "no"

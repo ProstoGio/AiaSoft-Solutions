@@ -1,4 +1,4 @@
-# 139. <!-- problem name -->
+# 139. პირველი ნომერი ცელქობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#139](https://aiasoft.ge/problem/139)
 

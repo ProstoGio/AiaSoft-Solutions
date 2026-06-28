@@ -1,4 +1,4 @@
-# 346. <!-- problem name -->
+# 346. შეტყობინება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#346](https://aiasoft.ge/problem/346)
 

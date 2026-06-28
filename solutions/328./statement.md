@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 328. ლუწი რიცხვები
 
 > Copied from [AiaSoft.ge #328](https://aiasoft.ge/problem/328)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+გამობეჭდეთ ყველა ლუწი რიცხვი, რომლებიც მოთავსებულია მოცემულ $a$ და $b$ რიცხვებს შორის.
 
 ## Input
 
-<!-- input format -->
+შემოდის ორი ნატურალური რიცხვი $a$ და $b$.
+
+$1 <= a <=b <= 20$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ყველა ლუწი რიცხვი ზრდადი თანმიმდევრობით, რომლებიც მოთავსებულია  $a$ და $b$ რიცხვებს შორის (თვით $a$ და $b$ რიცხვების ჩათვლით, თუ რომელიმე მათგანი ლუწია).

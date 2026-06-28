@@ -1,4 +1,4 @@
-# 334. <!-- problem name -->
+# 334. ბაბის სიმბოლო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#334](https://aiasoft.ge/problem/334)
 

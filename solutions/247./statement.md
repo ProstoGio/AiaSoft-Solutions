@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 247. უდიდესი ციფრი
 
 > Copied from [AiaSoft.ge #247](https://aiasoft.ge/problem/247)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+იპოვეთ ორნიშნა რიცხვის უდიდესი ციფრი.
 
 ## Input
 
-<!-- input format -->
+შემოდის ორნიშნა რიცხვი.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ მისი უდიდესი ციფრი.

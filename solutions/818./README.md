@@ -1,4 +1,4 @@
-# 818. <!-- problem name -->
+# 818. ელემენტები დიაპაზონიდან
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#818](https://aiasoft.ge/problem/818)
 

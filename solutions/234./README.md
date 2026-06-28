@@ -1,4 +1,4 @@
-# 234. <!-- problem name -->
+# 234. მოზაიკა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#234](https://aiasoft.ge/problem/234)
 

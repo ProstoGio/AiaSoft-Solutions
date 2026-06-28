@@ -1,6 +1,6 @@
-# 001. <!-- problem name -->
+# 001. ორი რიცხვის ჯამი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#001](https://aiasoft.ge/problem/001)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#001](https://aiasoft.ge/problem/1)
 
 | Field | Info |
 |-------|------|

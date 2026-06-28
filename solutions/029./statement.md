@@ -1,31 +1,23 @@
-# Problem Statement
+# Problem Statement — 029. ნულების ჯგუფები
 
-> Copied from [AiaSoft.ge #029](https://aiasoft.ge/problem/029)
+> Copied from [AiaSoft.ge #29](https://aiasoft.ge/problem/29)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთგანზომილებიანი მასივი, რომელშიც მოთავსებულია ნულების ჯგუფები. იპოვეთ ყველაზე გრძელ ჯგუფში ნულების რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+პირველ სტრიქონზე შემოდის მასივის სიგრძე: $ n $
+
+მომდევნო სტრიქონზე შემოდის მასივის ელემენტები: $ a_1, a_2, ..., a_n $
+
+$ 1 \leq n \leq 100 $
+
+$ 0 \leq a_i \leq 100 $
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი ნატურალური რიცხვი - ნულების ყველაზე დიდი ჯგუფის სიგრძე.

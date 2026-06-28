@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 540. უდიდესი AND
 
 > Copied from [AiaSoft.ge #540](https://aiasoft.ge/problem/540)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 128 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ რიცხვისგან შედგენილი მიმდევრობა. დაადგინეთ, რა მაქსიმალური მნიშვნელობა შეუძლება ჰქონდეს ამ მიმდევრობის რომელიმე ორი ელემენტის AND-ს (ანუ ლოგიკურ "და" ოპერაციას).
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე მოცემულია ერთი მთელი რიცხვი: $N$, $(2 <= N <= 2*10^5)$
+მეორე ხაზზე მოცემულია $N$ რაოდენობის მთელი რიცხვი: $a_1, a_2, ..., a_N$, $(0 <= a_i <= 10^9)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+იპოვეთ და გამობეჭდეთ ერთი რიცხვი: მიმდევრობის ორი ელემენტის მაქსიმალური AND.

@@ -1,4 +1,4 @@
-# 262. <!-- problem name -->
+# 262. წიბოების რაოდენობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#262](https://aiasoft.ge/problem/262)
 

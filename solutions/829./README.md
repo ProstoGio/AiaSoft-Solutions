@@ -1,4 +1,4 @@
-# 829. <!-- problem name -->
+# 829. კატო და საყვარელი სიმბოლოები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#829](https://aiasoft.ge/problem/829)
 

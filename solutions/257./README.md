@@ -1,4 +1,4 @@
-# 257. <!-- problem name -->
+# 257. რიცხვის ძიება მასივში - 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#257](https://aiasoft.ge/problem/257)
 

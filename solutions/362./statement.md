@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 362. მკაცრი ლუწი რიცხვი
 
 > Copied from [AiaSoft.ge #362](https://aiasoft.ge/problem/362)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+ლუწ რიცხვს იმ შემთხვევაში ეძახიან მკაცრს, თუ მისი ყველა ციფრი ლუწია. 
+მაგალითად, რიცხვი 246 მკაცრია, 234 კი - მკაცრი არაა. 
+დაადგინეთ, არის თუ არა მოცემული ნატურალური რიცხვი მკაცრი.
 
 ## Input
 
-<!-- input format -->
+კლავიატურიდან შემოდის ერთი ნატურალური რიცხვი $n, 1<=n<=10^9$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ სიტყვა YES, თუ მოცემული რიცხვი მკაცრია, და სიტყვა NO - წინააღმდეგ შემთხვევაში.

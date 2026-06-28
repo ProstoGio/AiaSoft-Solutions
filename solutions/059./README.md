@@ -1,6 +1,6 @@
-# 059. <!-- problem name -->
+# 059. კბილის ექიმი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#059](https://aiasoft.ge/problem/059)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#059](https://aiasoft.ge/problem/59)
 
 | Field | Info |
 |-------|------|

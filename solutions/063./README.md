@@ -1,6 +1,6 @@
-# 063. <!-- problem name -->
+# 063. ციფრების ჯამი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#063](https://aiasoft.ge/problem/063)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#063](https://aiasoft.ge/problem/63)
 
 | Field | Info |
 |-------|------|

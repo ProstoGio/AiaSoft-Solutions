@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 827. პალინდრომია?
 
 > Copied from [AiaSoft.ge #827](https://aiasoft.ge/problem/827)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ლათინური ანბანის პატარა ასოებისაგან შედგენილი სტრიქონი $S$.
+დაადგინეთ არის თუ არა $S$ სტრიქონი პალინდრომი.
 
 ## Input
 
-<!-- input format -->
+შემოდის სტრიქონი: $S$ $(1 <= |S| <= 20)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი სიტყვა - "yes",  თუ სტრიქონი წარმოადგენს პალინდრომს, ან "no" - წინააღმდეგ შემთხვევაში.

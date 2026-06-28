@@ -1,31 +1,26 @@
-# Problem Statement
+# Problem Statement — 880. გრძელი მოედანი
 
 > Copied from [AiaSoft.ge #880](https://aiasoft.ge/problem/880)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოედანს აქვს ფორმა, რომელიც მიიღება მართკუთხედისა და ორი ნახევარწრის შეერთების შედეგად
+
+
+`~https://storage.googleapis.com/problems_api_photos/images/Xd6104Tt78VDEztV1T7B.png`
+
+იპოვეთ მისი ფართობი თუ ცნობილია ნახევარწრის რადიუსი $r$ და მართკუთხედის სიგრძე $x$
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე შემოდის ორი მთელი რიცხვი $r$ და $x$
+
+$1<=r,x<=1000$
 
 ## Output
 
-<!-- output format -->
+გამობეჭდეთ მოედნის ფართობი
 
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+პასუხი გამოიტანეთ $10^{−4}$ სიზუსტით და წერტილის შემდეგ გამობეჭდეთ ზუსტად ოთხი ციფრი

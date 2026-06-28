@@ -1,4 +1,4 @@
-# 350. <!-- problem name -->
+# 350. იძებნება თუ არა?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#350](https://aiasoft.ge/problem/350)
 

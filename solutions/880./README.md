@@ -1,4 +1,4 @@
-# 880. <!-- problem name -->
+# 880. გრძელი მოედანი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#880](https://aiasoft.ge/problem/880)
 

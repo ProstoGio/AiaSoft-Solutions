@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 122. სტრიქონი
 
 > Copied from [AiaSoft.ge #122](https://aiasoft.ge/problem/122)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სტრიქონი, რომელიც შეიცავს ლათინური ანბანის სიმბოლოებს და ციფრებს.
+დაწერეთ ფუნქცია, რომელის დათვლის ციფრების რაოდენობას.
 
 ## Input
 
-<!-- input format -->
+შემოდის სტრიქონი, რომლის სიგრძე არ აღემატება 200 სიმბოლოს.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი მთელი რიცხვი - სტრიქონში ციფრების რაოდენობა.

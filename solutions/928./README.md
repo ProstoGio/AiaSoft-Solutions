@@ -1,4 +1,4 @@
-# 928. <!-- problem name -->
+# 928. მიმდევრობები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#928](https://aiasoft.ge/problem/928)
 

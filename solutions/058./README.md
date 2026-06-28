@@ -1,6 +1,6 @@
-# 058. <!-- problem name -->
+# 058. ფხაჭუნა კატები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#058](https://aiasoft.ge/problem/058)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#058](https://aiasoft.ge/problem/58)
 
 | Field | Info |
 |-------|------|

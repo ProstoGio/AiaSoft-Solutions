@@ -1,4 +1,4 @@
-# 287. <!-- problem name -->
+# 287. არჩევნები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#287](https://aiasoft.ge/problem/287)
 

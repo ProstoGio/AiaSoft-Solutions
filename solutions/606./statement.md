@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 606. დათვალე ერთები
 
 > Copied from [AiaSoft.ge #606](https://aiasoft.ge/problem/606)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ რაოდენობის მთელი რიცხვი: $x_1, x_2, ..., x_n$. თითოეული მოცემული რიცხვის ორობით ჩანაწერში დათვალეთ ერთების რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე მოცემულია ერთი მთელი რიცხვი: $N$ $(1 <= N <= 1000)$
+მომდევნო $N$ ხაზზე მოცემულია თითო მთელი რიცხვი: $x_i$ $(0 <= x_i <= 1000)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ყოველი მოცემული რიცხვისთვის ცალკე ხაზზე გამობეჭდეთ პასუხი: ამ რიცხვის ორობით ჩანაწერში ერთების რაოდენობა.

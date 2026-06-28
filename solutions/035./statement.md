@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 035. ორი რიცხვის უდიდესი საერთო გამყოფი
 
-> Copied from [AiaSoft.ge #035](https://aiasoft.ge/problem/035)
+> Copied from [AiaSoft.ge #35](https://aiasoft.ge/problem/35)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემული $a$ და $b$ რიცხვების უდიდესი საერთო გამყოფი ეწოდება ისეთ უდიდეს მთელ რიცხვს, რომელზეც უნაშთოდ იყოფა როგორც $a$, ასევე $b$ რიცხვი. მაგალითად: 6 - ის და 9 - ის უდიდესი საერთო გამყოფი არის 3.
+
+მოცემულია ორი ნატურალური რიცხვი $a$ და $b$. იპოვეთ მათი უდიდესი საერთო გამყოფი.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის ორი ნატურალური რიცხვი $a$ და $b$
+$1 <= a,  b <= 10^18$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთადერთ ხაზზე გამოიტანეთ უსგ(a, b)

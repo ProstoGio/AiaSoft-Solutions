@@ -1,4 +1,4 @@
-# 604. <!-- problem name -->
+# 604. შეკითხვები ტყეზე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#604](https://aiasoft.ge/problem/604)
 

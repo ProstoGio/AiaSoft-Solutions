@@ -1,31 +1,29 @@
-# Problem Statement
+# Problem Statement — 618. მართკუთხედების თანაკვეთა - 2
 
 > Copied from [AiaSoft.ge #618](https://aiasoft.ge/problem/618)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+საკოორდინატო სიბრტყეზე მოცემულია $N$ მართკუთხედი, რომელთა გვერდებიც საკოორდინატო ღერძების პარალელურია.
+
+გამოთვალეთ მოცემული მართკუთხედების თანაკვეთის ფართობი.
+
+
+`~https://storage.googleapis.com/problems_api_photos/images/FsVWCEm7tNJlgHbUL38Z.png`
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე მოცემულია ერთი ნატურალური რიცხვი: $N$ - მართკუთხედების რაოდენობა
+
+მომედევნო $N$ ხაზზე მოცემულია ოთხ-ოთხი მთელი რიცხვი: $x1_i, y1_i, x2_i, y2_i$ - $i$-ურ ხაზზე შესაბამისად მოცემული იქნება $i$-ური მართკუთხედის ქვედა მარცხენა და ზედა მარჯვენა წვეროების კოორდინატები.
+
+$2 <= N <= 2*10^5$
+$0 <= |x1_i|, |y1_i|, |x2_i|, |y2_i| <= 10^6$
+$x1_i < x2_i$
+$y1_i < y2_i$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი მთელი რიცხვი: მოცემული მართკუთხედების თანაკვეთის ფართობი.

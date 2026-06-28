@@ -1,4 +1,4 @@
-# 301. <!-- problem name -->
+# 301. ლაბირინთი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#301](https://aiasoft.ge/problem/301)
 

@@ -1,4 +1,4 @@
-# 253. <!-- problem name -->
+# 253. დიპლომები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#253](https://aiasoft.ge/problem/253)
 

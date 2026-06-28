@@ -1,4 +1,4 @@
-# 912. <!-- problem name -->
+# 912. საახალწლო ნათურები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#912](https://aiasoft.ge/problem/912)
 

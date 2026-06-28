@@ -1,4 +1,4 @@
-# 149. <!-- problem name -->
+# 149. განსხვავებული სიმბოლოების რაოდენობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#149](https://aiasoft.ge/problem/149)
 

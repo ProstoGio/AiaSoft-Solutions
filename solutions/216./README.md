@@ -1,4 +1,4 @@
-# 216. <!-- problem name -->
+# 216. მარცხენა მთავარი დიაგონალი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#216](https://aiasoft.ge/problem/216)
 

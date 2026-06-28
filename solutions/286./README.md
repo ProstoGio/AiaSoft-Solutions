@@ -1,4 +1,4 @@
-# 286. <!-- problem name -->
+# 286. სინონიმები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#286](https://aiasoft.ge/problem/286)
 

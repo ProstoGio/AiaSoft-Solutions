@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 121. ციფრების ჯამი
 
 > Copied from [AiaSoft.ge #121](https://aiasoft.ge/problem/121)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია მთელი რიცხვი $a$, $0 leq |a| leq 10^{200}$. 
+სასურველია, დაწეროთ რეკურსიული ფუნქცია, რომელიც გამოთვლის მოცემული რიცხვის ციფრების ჯამს.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი მთელი რიცხვი.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი ნატურალური რიცხვი - შემოსული რიცხვის ციფრების ჯამი.

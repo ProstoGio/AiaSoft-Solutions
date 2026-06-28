@@ -1,4 +1,4 @@
-# 798. <!-- problem name -->
+# 798. დათვალე ბურთები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#798](https://aiasoft.ge/problem/798)
 

@@ -1,4 +1,4 @@
-# 887. <!-- problem name -->
+# 887. πრველი კენტების ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#887](https://aiasoft.ge/problem/887)
 

@@ -1,4 +1,4 @@
-# 867. <!-- problem name -->
+# 867. დაბეჭდე კენტები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#867](https://aiasoft.ge/problem/867)
 

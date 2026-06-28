@@ -1,6 +1,6 @@
-# 088. <!-- problem name -->
+# 088. გადაჭერი ლენტი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#088](https://aiasoft.ge/problem/088)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#088](https://aiasoft.ge/problem/88)
 
 | Field | Info |
 |-------|------|

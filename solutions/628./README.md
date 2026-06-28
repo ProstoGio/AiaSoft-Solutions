@@ -1,4 +1,4 @@
-# 628. <!-- problem name -->
+# 628. კლონების არმია
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#628](https://aiasoft.ge/problem/628)
 

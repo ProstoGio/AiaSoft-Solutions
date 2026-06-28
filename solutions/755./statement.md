@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 755. 2-ის ახარისხება
 
 > Copied from [AiaSoft.ge #755](https://aiasoft.ge/problem/755)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთი დადებითი რიცხვი $N$, თქვენი დავალებაა იპოვოთ $2^N$.
 
 ## Input
 
-<!-- input format -->
+ერთადერთ ხაზზე მოცმეულია ერთი დადებითი რიცხვი $N$.
+$0<=N<=31$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთადერთ ხაზზე გამობეჭდეთ $2^N$

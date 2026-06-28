@@ -1,4 +1,4 @@
-# 902. <!-- problem name -->
+# 902. ერთის გამოკლება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#902](https://aiasoft.ge/problem/902)
 

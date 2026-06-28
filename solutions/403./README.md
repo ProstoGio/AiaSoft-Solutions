@@ -1,4 +1,4 @@
-# 403. <!-- problem name -->
+# 403. ბატები და ბატკნები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#403](https://aiasoft.ge/problem/403)
 

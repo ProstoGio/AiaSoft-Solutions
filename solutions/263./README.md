@@ -1,4 +1,4 @@
-# 263. <!-- problem name -->
+# 263. წვეროების რაოდენობა კომპონენტში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#263](https://aiasoft.ge/problem/263)
 

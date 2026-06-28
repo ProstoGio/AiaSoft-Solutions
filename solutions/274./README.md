@@ -1,4 +1,4 @@
-# 274. <!-- problem name -->
+# 274. ციკლები გრაფში - 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#274](https://aiasoft.ge/problem/274)
 

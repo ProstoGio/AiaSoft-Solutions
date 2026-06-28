@@ -1,4 +1,4 @@
-# 362. <!-- problem name -->
+# 362. მკაცრი ლუწი რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#362](https://aiasoft.ge/problem/362)
 

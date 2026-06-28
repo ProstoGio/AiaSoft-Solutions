@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 211. სიმბოლო
 
 > Copied from [AiaSoft.ge #211](https://aiasoft.ge/problem/211)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთი სიმბოლო, დაწერეთ პროგრამა, რომელიც დაადგენს, არის თუ არა ეს სიმბოლო ციფრი.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი სიმბოლო.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ სიტყვა YES, თუ ეს ციმბოლო ციფრია. წინააღმდეგ შემთხვევაში გამოიტანეთ სიტყვა NO.

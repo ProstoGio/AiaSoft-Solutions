@@ -1,4 +1,4 @@
-# 142. <!-- problem name -->
+# 142. ისევ ბორანი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#142](https://aiasoft.ge/problem/142)
 

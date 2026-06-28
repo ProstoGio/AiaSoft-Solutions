@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 866. ლუწი რიცხვების ჯამი
 
 > Copied from [AiaSoft.ge #866](https://aiasoft.ge/problem/866)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია N ელემენტიანი მასივი. თქვენი მიზანია მოცემულ მასივში დაადგინოთ ლუწი ელემენტების ჯამი.
 
 ## Input
 
-<!-- input format -->
+პირველ სტრიქონზე შემოდის ერთი მთელი დადებითი რიცხვი N, შემდეგ სტრიქონზე შემოდის N ცალი მთელი დადებითი რიცხვი.
+$1<=N<=100$
+$1<=a_i<=100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+დაბეჭდეთ მოცემულ მასივში ლუწი რიცხვების ჯამი

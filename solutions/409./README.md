@@ -1,4 +1,4 @@
-# 409. <!-- problem name -->
+# 409. გუგლიკო და შერჩევა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#409](https://aiasoft.ge/problem/409)
 

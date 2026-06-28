@@ -1,4 +1,4 @@
-# 473. <!-- problem name -->
+# 473. არითმეტიკული ქვემიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#473](https://aiasoft.ge/problem/473)
 

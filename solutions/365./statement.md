@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 365. გაასწორეთ წინადადება
 
 > Copied from [AiaSoft.ge #365](https://aiasoft.ge/problem/365)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია წინადადება, რომლის სიტყვებს შორის ზედმეტი ჰარებია.
+დაწერეთ პროგრამა, რომელიც წაშლის ზედმეტ ჰარებს.
 
 ## Input
 
-<!-- input format -->
+შემოდის ლათინური ანბანის ასოებისაგან და ჰარებისაგან შედგენილი წინადადება, რომლის სიგრძე არ აღემატება 1000 სიმბოლოს.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ იგივე წინადადება ზედმეტი ჰარების გარეშე.

@@ -1,4 +1,4 @@
-# 219. <!-- problem name -->
+# 219. შავუჯროვანი კუ
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#219](https://aiasoft.ge/problem/219)
 

@@ -1,4 +1,4 @@
-# 790. <!-- problem name -->
+# 790. ბევრად ბევრი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#790](https://aiasoft.ge/problem/790)
 

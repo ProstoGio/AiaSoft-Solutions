@@ -1,4 +1,4 @@
-# 412. <!-- problem name -->
+# 412. ავტობუსის გაჩერება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#412](https://aiasoft.ge/problem/412)
 

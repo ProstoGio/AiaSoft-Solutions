@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 329. კენტი რიცხვები 2
 
 > Copied from [AiaSoft.ge #329](https://aiasoft.ge/problem/329)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+გამოიტანეთ ეკრანზე ყველა კენტი რიცხვი მოცემული $N$ ნატურალური რიცხვიდან 1 მდე.
 
 ## Input
 
-<!-- input format -->
+შემოდის $N$ ნატურალური რიცხვი.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ყველა კენტი რიცხვი კლებადი თანმიმდევრობით $N$ რიცხვიდან (თუ $N$ კენტია, მაშინ $N$-ც) 1-ის ჩათვლით.

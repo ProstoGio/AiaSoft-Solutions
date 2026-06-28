@@ -1,6 +1,6 @@
-# 043. <!-- problem name -->
+# 043. მასივის ქვესეგმენტის შეტრიალება
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#043](https://aiasoft.ge/problem/043)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#043](https://aiasoft.ge/problem/43)
 
 | Field | Info |
 |-------|------|

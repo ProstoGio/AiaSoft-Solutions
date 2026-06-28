@@ -1,6 +1,6 @@
-# 086. <!-- problem name -->
+# 086. სტრიქონის სიგრძე
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#086](https://aiasoft.ge/problem/086)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#086](https://aiasoft.ge/problem/86)
 
 | Field | Info |
 |-------|------|

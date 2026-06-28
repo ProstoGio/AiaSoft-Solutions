@@ -1,6 +1,6 @@
-# 008. <!-- problem name -->
+# 008. ბავშვები და სტრიქონები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#008](https://aiasoft.ge/problem/008)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#008](https://aiasoft.ge/problem/8)
 
 | Field | Info |
 |-------|------|

@@ -1,4 +1,4 @@
-# 627. <!-- problem name -->
+# 627. ნიკოს მიმდევრობა - 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#627](https://aiasoft.ge/problem/627)
 

@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 086. სტრიქონის სიგრძე
 
-> Copied from [AiaSoft.ge #086](https://aiasoft.ge/problem/086)
+> Copied from [AiaSoft.ge #86](https://aiasoft.ge/problem/86)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სტრიქონი. გამოიტანეთ მასში სიმბოლოების რაოდენობა.
+სტრიქონი შეიცავს ლათინური ანბანის დიდ/პატარა სიმბოლოებს და ასევე ჰარის.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე შემოდის ერთი სტრიქონი: $s$
+
+$1<=|s|<=100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ $s$-ში სიმბოლოების რაოდენობა

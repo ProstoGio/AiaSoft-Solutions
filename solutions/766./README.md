@@ -1,4 +1,4 @@
-# 766. <!-- problem name -->
+# 766. ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#766](https://aiasoft.ge/problem/766)
 

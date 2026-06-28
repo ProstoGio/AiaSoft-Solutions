@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 327. კენტი რიცხვები
 
 > Copied from [AiaSoft.ge #327](https://aiasoft.ge/problem/327)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+გამობეჭდეთ ეკრანზე ყველა კენტი ნატურალური რიცხვი 1-დან მოცემულ $N$ რიცხვამდე (ჩათვლით).
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი ნატურალური რიცხვი $N, (0<=N<=20)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ეკრანზე ყველა კენტი რიცხვი 1-დან $N$ რიცხვის ჩათვლით (თუ $N$ კენტია).
+რიცხვებს შორის მოათავსეთ ერთი "ჰარი".

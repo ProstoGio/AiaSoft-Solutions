@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 470. 0-ები და 1-ები
 
 > Copied from [AiaSoft.ge #470](https://aiasoft.ge/problem/470)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სტრიქონი, რომელიც შეიცავს მხოლოდ 0-ებს და 1-ებს.
+დათვალეთ მასში 1-იანების რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი სტრიქონი რომელის შეიცავს მხოლოდ 0-ებს და 1-ებს.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი რიცხვი - 1-იანების რაოდენობა მოცემულ რიცხვში.

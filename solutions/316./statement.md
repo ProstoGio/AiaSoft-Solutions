@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 316. ნაყინები
 
 > Copied from [AiaSoft.ge #316](https://aiasoft.ge/problem/316)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მაღაზიაში სამ ლარიანი და ხუთ ლარიანი ნაყინები იყიდება. წარმოიდგინეთ, რომ შეხვედით ამ მაღაზიაში $N$ ლარით. დაადგინეთ, შეძლებდით თუ არა მთლიანი თანხის დახარჯვას მხოლოდ ნაყინებში.
+
+* `iმაღაზიაში შეუზღუდავი რაოდენობითაა ორივე სახის ნაყინი`.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი რიცხვი: $N$ $(0 <= N <= 10^9)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ `bYES` თუ მთელი თანხის დახარჯვას შეძლებთ, წინააღმდეგ შემთხვევაში - `bNO`.

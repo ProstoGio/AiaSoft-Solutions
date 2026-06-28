@@ -1,4 +1,4 @@
-# 888. <!-- problem name -->
+# 888. πბონაჩის მიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#888](https://aiasoft.ge/problem/888)
 

@@ -1,4 +1,4 @@
-# 817. <!-- problem name -->
+# 817. მეგობრული წევრები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#817](https://aiasoft.ge/problem/817)
 

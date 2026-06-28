@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 197. სიტყვების დათვლა
 
 > Copied from [AiaSoft.ge #197](https://aiasoft.ge/problem/197)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია წინადადება, რომელიც შეიცავს ინგლიური სიმბოლოს დიდ/პატარა სიმბოლოებს და ჰარის.
+გამოთვალეთ რამდენი სიტყვისგან შედგება მოცემული წინადადება.
+
+* შესაძლოა სიტყვები რამდენიმე ჰარით იყოს გამოყოფილი ერთმანეთისგან.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე შემოდის ერთი სტრიქონი: $S$ ($1 <= |S| <= 50$)
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი მთელი რიცხვი - შემოსულ წინადადებაში სიტყვების რაოდენობა.

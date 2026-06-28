@@ -1,4 +1,4 @@
-# 608. <!-- problem name -->
+# 608. რიცხვების XOR - 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#608](https://aiasoft.ge/problem/608)
 

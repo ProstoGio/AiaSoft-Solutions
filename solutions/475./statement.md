@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 475. ორის ხარისხების ჯამი
 
 > Copied from [AiaSoft.ge #475](https://aiasoft.ge/problem/475)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ რაოდენობით მთელი რიცხვი: $a_1, a_2, ..., a_n$.
+გამოთვალეთ $2^(a_1)+2^(a_2)+...+2^(a_n)$ გამოსახულების შედეგი და გამობეჭდეთ მისი ორიბითი ჩანაწერი.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე მოცემულია ერთი მთელი რიცხვი: $N$. $(1 <= N <= 2*10^5)$
+მომდევნო ხაზზე მოცემულია $N$ რაოდენობის მთელი რიცხვი: $a_1, a_2, ..., a_n$. $(0 <= a_i <= 10^6)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი ორობითი რიცხვი: ზემოთ მოცემული გამოსახულების შედეგი.

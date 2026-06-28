@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 576. ლუწი ინდექსები
 
 > Copied from [AiaSoft.ge #576](https://aiasoft.ge/problem/576)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $n, 1<=n<=100 $ ელემენტიანი მასივი. ეკრანზე უნდა დაიბეჭდოს მასივის ლუწ ინდექსებზე მდგომი ელემენტები.
 
 ## Input
 
-<!-- input format -->
+პირველ სტრიქონზე შემოდის მასივის სიგრძე $n$.
+მეორე სტრიქონზე შემოდის $n$ ცალი ნატურალური რიცხვი, რომელთა მნიშვნელობა არ აღემატება 200-ს.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ამოცანის პასუხი - მოცემული მასივის ლუწ ინდექსებზე მდგომი ელემენტების მნიშვნელობები.

@@ -1,4 +1,4 @@
-# 570. <!-- problem name -->
+# 570. უახლოესი რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#570](https://aiasoft.ge/problem/570)
 

@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 870. კარგი სამეული - 2
 
 > Copied from [AiaSoft.ge #870](https://aiasoft.ge/problem/870)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+სამეულს ეწოდება კარგი, თუ მათგან ორი ერთმანეთის ტოლია, მესამე კი განსხვავებული.
+მოცემულია კარგი სამეული, თქვენ უნდა იპოვოთ მესამე განსხვავებული რიცხვი.
 
 ## Input
 
-<!-- input format -->
+ერთ სტრიქონზე შემოდის სამი მთელი დადებითი რიცხვი $a, b, c$.
+$1<=a,b,c<=100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+დაბეჭდეთ მოცემული სამი რიცხვიდან ისეთი, რომელიც მხოლოდ ერთხელ გვხვდება.

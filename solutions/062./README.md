@@ -1,6 +1,6 @@
-# 062. <!-- problem name -->
+# 062. პირველკლასელი (ოღონდ მეორე)
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#062](https://aiasoft.ge/problem/062)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#062](https://aiasoft.ge/problem/62)
 
 | Field | Info |
 |-------|------|

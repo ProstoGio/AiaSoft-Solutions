@@ -1,4 +1,4 @@
-# 123. <!-- problem name -->
+# 123. სტრიქონის შეტრიალება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#123](https://aiasoft.ge/problem/123)
 

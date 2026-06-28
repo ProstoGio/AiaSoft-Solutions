@@ -1,4 +1,4 @@
-# 146. <!-- problem name -->
+# 146. სამკუთხედის ფართობი (გვერდებით)
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#146](https://aiasoft.ge/problem/146)
 

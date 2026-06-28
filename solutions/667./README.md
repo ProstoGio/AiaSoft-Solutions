@@ -1,4 +1,4 @@
-# 667. <!-- problem name -->
+# 667. ბაბიმ თვლა ისწავლა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#667](https://aiasoft.ge/problem/667)
 

@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 611. XOR ოპერაცია
 
 > Copied from [AiaSoft.ge #611](https://aiasoft.ge/problem/611)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+დაადგინეთ რამდენი განსხვავებული $n$ ელემენტიანი ორობითი $a$ მიმდევრობა არსებობს ისეთი, რომ $a_1oplusa_2oplus...oplusa_n=1$ სადაც $a_i$ არის 0 ან 1.
+
+* ორი თანაბარი სიგრძის $a$ და $b$ მიმდევრობა განსხვავებულია, თუ არსებობს ერთი მაინც ისეთი ინდექსი $i$, რომ $a_i != b_i$
 
 ## Input
 
-<!-- input format -->
+მოცემულია ერთი ნატურალური რიცხვი: $N$ $(2 <= N <= 20)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი რიცხვი: განსხვავებული მიმდევრობების რაოდენობა, რომლებიც აკმაყოფილებენ ზემოთ მოცემულ პირობას.

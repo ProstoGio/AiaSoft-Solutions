@@ -1,4 +1,4 @@
-# 547. <!-- problem name -->
+# 547. ფოთლები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#547](https://aiasoft.ge/problem/547)
 

@@ -1,4 +1,4 @@
-# 204. <!-- problem name -->
+# 204. კალია გრასი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#204](https://aiasoft.ge/problem/204)
 

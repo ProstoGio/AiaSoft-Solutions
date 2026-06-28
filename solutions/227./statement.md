@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 227. შუათანა ძმა
 
 > Copied from [AiaSoft.ge #227](https://aiasoft.ge/problem/227)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სამი ძმის ასაკი. ცნობილია, რომ მათ შორის ტყუპები არ არიან. დაწერეთ პროგრამა, რომელიც დაადგენს შუათანა ძმის ასაკს.
 
 ## Input
 
-<!-- input format -->
+შემოდის სამი წყვილ-წყვილად განსხვავებული რიცხვი, სამი ძმის ასაკი. თითოეული მათგანის მნიშვნელობა არ აღემატება 100-ს.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი ნატურალური რიცხვი - შუათანა ძმის ასაკი.

@@ -1,10 +1,12 @@
-# Problem Statement
+# Problem Statement — 214. შეცვალეთ სიმბოლოები
 
 > Copied from [AiaSoft.ge #214](https://aiasoft.ge/problem/214)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ლათინური ანბანის სიმბოლოების მიმდევრობა. თითოეული მთავრული სიმბოლო უნდა შევცვალოთ მისი შესაბამისი პატარა სიმბოლოთი, ხოლო თითოეული პატარა სიმბოლო შევცვალოთ მისი შესაბამისი მთავრულით.
 
 ## Input
 
@@ -13,19 +15,3 @@
 ## Output
 
 <!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```

@@ -1,6 +1,6 @@
-# 014. <!-- problem name -->
+# 014. ლუწი ხე
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#014](https://aiasoft.ge/problem/014)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#014](https://aiasoft.ge/problem/14)
 
 | Field | Info |
 |-------|------|

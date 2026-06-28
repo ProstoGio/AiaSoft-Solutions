@@ -1,4 +1,4 @@
-# 106. <!-- problem name -->
+# 106. ლიდერები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#106](https://aiasoft.ge/problem/106)
 

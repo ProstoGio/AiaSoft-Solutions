@@ -1,4 +1,4 @@
-# 502. <!-- problem name -->
+# 502. პიცა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#502](https://aiasoft.ge/problem/502)
 

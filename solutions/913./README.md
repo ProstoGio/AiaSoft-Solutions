@@ -1,4 +1,4 @@
-# 913. <!-- problem name -->
+# 913. მანდარინები და ფორთოხლები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#913](https://aiasoft.ge/problem/913)
 

@@ -1,4 +1,4 @@
-# 389. <!-- problem name -->
+# 389. სრულყოფილი რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#389](https://aiasoft.ge/problem/389)
 

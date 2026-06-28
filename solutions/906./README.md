@@ -1,4 +1,4 @@
-# 906. <!-- problem name -->
+# 906. ფიფქების სამკუთხედი -1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#906](https://aiasoft.ge/problem/906)
 

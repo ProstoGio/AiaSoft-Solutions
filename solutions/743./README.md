@@ -1,4 +1,4 @@
-# 743. <!-- problem name -->
+# 743. ციფრთა ჯამი - 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#743](https://aiasoft.ge/problem/743)
 

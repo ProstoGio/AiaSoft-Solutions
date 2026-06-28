@@ -1,4 +1,4 @@
-# 860. <!-- problem name -->
+# 860. მასივის კენტები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#860](https://aiasoft.ge/problem/860)
 

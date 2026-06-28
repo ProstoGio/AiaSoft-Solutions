@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 126. ფიბონაჩის მიმდევრობა 1
 
 > Copied from [AiaSoft.ge #126](https://aiasoft.ge/problem/126)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+რიცხვით მიმდევრობას $F_1, F_2, F_3, ... $ რომლისთვისაც $F_1=1$, $F_2=1$ ხოლო ყოველი $i>2$  - თვის $F_i=F_{i-2} + F_{i-1}$ ფიბონაჩის მიმდევრობა ეწოდება. ანუ ფიბონაჩის მიმდევრობას აქვს სახე $1, 1, 2, 3, 5, 8, 13, 21, 34, ... $
+
+მოცემულია ნატურალური რიცხვი $n$. იპოვეთ და გამოიტანეთ $F_n$
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის ნატურალური რიცხვი $n$
+$1<=n<=90$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთადერთ სტრიქონში გამოიტანეთ ფიბონაჩის მიმდევრობის $n$ - ური წევრი ანუ $F_n$

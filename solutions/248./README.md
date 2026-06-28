@@ -1,4 +1,4 @@
-# 248. <!-- problem name -->
+# 248. მასივის შემობრუნება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#248](https://aiasoft.ge/problem/248)
 

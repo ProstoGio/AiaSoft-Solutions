@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 609. i-ური ბიტი
 
 > Copied from [AiaSoft.ge #609](https://aiasoft.ge/problem/609)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია არაუარყოფითი მთელი რიცხვი $X$. დაადგინეთ $X$-ის ბიტურ (ანუ ორობით) ჩანაწერში $i$-ურ თანრიგზე (ათვალა იწყება მარჯვნიდან) მდგომი ბიტის მნიშვნელობა.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე მოცემულია ჰარით გამოყოფილი ორი მთელი რიცხვი: $X$  და $i$
+
+$0 <= X <= 10^18$
+$0 <= i <= 60$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ $X$-ის ორობით ჩანაწერში $i$-ურ თანრიგზე მდგომი ბიტის მნიშვნელობა.

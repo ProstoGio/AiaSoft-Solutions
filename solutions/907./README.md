@@ -1,4 +1,4 @@
-# 907. <!-- problem name -->
+# 907. ფიფქების კვადრატი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#907](https://aiasoft.ge/problem/907)
 

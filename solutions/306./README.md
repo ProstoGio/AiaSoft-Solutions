@@ -1,4 +1,4 @@
-# 306. <!-- problem name -->
+# 306. მარიამის დაბადების დღე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#306](https://aiasoft.ge/problem/306)
 

@@ -1,4 +1,4 @@
-# 468. <!-- problem name -->
+# 468. ირაკლის კვადრატი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#468](https://aiasoft.ge/problem/468)
 

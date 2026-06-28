@@ -1,4 +1,4 @@
-# 311. <!-- problem name -->
+# 311. ძლიერი სამეფო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#311](https://aiasoft.ge/problem/311)
 

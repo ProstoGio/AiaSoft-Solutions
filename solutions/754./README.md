@@ -1,4 +1,4 @@
-# 754. <!-- problem name -->
+# 754. ფაქტორიალი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#754](https://aiasoft.ge/problem/754)
 

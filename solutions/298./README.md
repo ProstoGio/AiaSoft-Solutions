@@ -1,4 +1,4 @@
-# 298. <!-- problem name -->
+# 298. ცხენის სვლა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#298](https://aiasoft.ge/problem/298)
 

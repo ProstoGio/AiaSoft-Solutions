@@ -1,4 +1,4 @@
-# 122. <!-- problem name -->
+# 122. სტრიქონი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#122](https://aiasoft.ge/problem/122)
 

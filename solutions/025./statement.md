@@ -1,31 +1,21 @@
-# Problem Statement
+# Problem Statement — 025. მასივი და მისი ორი ელემენტი
 
-> Copied from [AiaSoft.ge #025](https://aiasoft.ge/problem/025)
+> Copied from [AiaSoft.ge #25](https://aiasoft.ge/problem/25)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $n$ ელემენტიანი მასივი $a_1, a_2, ... , a_n$. აგრეთვე მოცემულია ნატურალური რიცხვი $s$. დაადგინეთ არსებობს თუ არა მასივში ორი ელემენტი ისეთი, რომ მათი ჯამი იყოს $s$.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის ჰარით გამოყოფილი ორი ნატურალური რიცხვი $n$ და $s$. მეორე ხაზზე შემოდის ჰარით გამოყოფილი მასივის ელემენტები $a_1, a_2, ... , a_n$
+
+$1 \leq n \leq 10^5$
+$1 \leq a_i \leq 10^9 $
+$1 \leq s \leq 2*10^9$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ YES თუ არსებობს მასივში ორი ელემენტი რომელთა ჯამი არის $s$. წინააღმდეგ შემთხვევაში გამოიტანეთ NO

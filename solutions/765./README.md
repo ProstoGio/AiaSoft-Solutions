@@ -1,4 +1,4 @@
-# 765. <!-- problem name -->
+# 765. დიაპაზონი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#765](https://aiasoft.ge/problem/765)
 

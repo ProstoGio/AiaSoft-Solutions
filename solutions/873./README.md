@@ -1,4 +1,4 @@
-# 873. <!-- problem name -->
+# 873. E = mc²
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#873](https://aiasoft.ge/problem/873)
 

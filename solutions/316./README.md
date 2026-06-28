@@ -1,4 +1,4 @@
-# 316. <!-- problem name -->
+# 316. ნაყინები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#316](https://aiasoft.ge/problem/316)
 

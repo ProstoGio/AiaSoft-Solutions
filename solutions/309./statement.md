@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 309. შუა ციფრები
 
 > Copied from [AiaSoft.ge #309](https://aiasoft.ge/problem/309)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+კლავიატურიდან შემოდის ოთხნიშნა ნატურალური რიცხვი. 
+იპოვეთ მისი შუა ციფრების ჯამი.
 
 ## Input
 
-<!-- input format -->
+ერთ სტრიქონზე შემოდის ერთი ოთხნიშნა ნატურალური რიცხვი.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ მისი შუა ციფრების ჯამი.

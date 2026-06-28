@@ -1,4 +1,4 @@
-# 540. <!-- problem name -->
+# 540. უდიდესი AND
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#540](https://aiasoft.ge/problem/540)
 

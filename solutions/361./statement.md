@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 361. ციფრთა ჯამი
 
 > Copied from [AiaSoft.ge #361](https://aiasoft.ge/problem/361)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+დაწერეთ პროგრამა რომელიც გამოთვლის მოცემული რიცხვის ციფრთა ჯამს.
 
 ## Input
 
-<!-- input format -->
+კლავიატურიდან შემოდის ერთი მთელი არაუარყოფითი რიცხვი $n, 0<=n<=10^9$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ მოცემული რიცხვის ციფრების ჯამი.

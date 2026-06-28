@@ -1,31 +1,23 @@
-# Problem Statement
+# Problem Statement — 051. შესაკრებთა წყვილების პოვნა
 
-> Copied from [AiaSoft.ge #051](https://aiasoft.ge/problem/051)
+> Copied from [AiaSoft.ge #51](https://aiasoft.ge/problem/51)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 128 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ წევრიანი მასივი. მასივის თითოეული წევრი განსხვავებულია დანარჩენებისგან. იპოვეთ მასივში ყველა ისეთი განსხვავებული წყვილი, რომლებიც ჯამში იძლევა $X$-ს და გამობეჭდეთ მათი რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის $N$ - მასივის სიგრძე.
+მეორე ხაზზე შემოდის მასივის წევრები - $a_1, a_2, ..., a_n$
+მესამე ხაზზე შემოდის X.
+
+$1 \leq N \leq 10^5$
+$0 \leq a_1, a_2, ..., a_n \leq 10^9$
+$0 \leq X \leq 2*10^9$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთ ხაზზე გამობეჭდეთ მასივის ელემენტთა განსხვავებული წყვილების რაოდენობა, რომლებიც ჯამში $X$-ს იძლევა.

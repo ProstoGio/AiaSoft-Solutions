@@ -1,4 +1,4 @@
-# 617. <!-- problem name -->
+# 617. მართკუთხედების თანაკვეთა - 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#617](https://aiasoft.ge/problem/617)
 

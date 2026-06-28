@@ -1,4 +1,4 @@
-# 900. <!-- problem name -->
+# 900. ორი მარტოხელა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#900](https://aiasoft.ge/problem/900)
 

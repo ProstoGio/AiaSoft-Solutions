@@ -1,4 +1,4 @@
-# 227. <!-- problem name -->
+# 227. შუათანა ძმა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#227](https://aiasoft.ge/problem/227)
 

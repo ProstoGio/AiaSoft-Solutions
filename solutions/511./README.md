@@ -1,4 +1,4 @@
-# 511. <!-- problem name -->
+# 511. 2 - ის ხარისხი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#511](https://aiasoft.ge/problem/511)
 

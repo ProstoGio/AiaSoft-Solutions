@@ -1,31 +1,21 @@
-# Problem Statement
+# Problem Statement — 816. ტყუპი წევრები
 
 > Copied from [AiaSoft.ge #816](https://aiasoft.ge/problem/816)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მასივში ტყუპი ელემენტები ეწოდება ისეთ ელემენტებს, რომლებიც გვერდიგვერდ დგანან და ამასთანავე ისინი ერთმანეთის მომდენო კენტი რიცხვებია.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე მოცემულია $N$ - მასივში ელემენტების რაოდენობა.
+მომდევნო ხაზზე მოცემულია $N$ მთელი დადებითი რიცხვები  - $a_1,a_2,a_3,...,a_n$
+
+$1<=N<=100$
+$1<=a_i<=10^3$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი რიცხვი - მოცემული მასივის ტყუპი წევრების რაოდენობა.

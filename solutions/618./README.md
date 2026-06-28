@@ -1,4 +1,4 @@
-# 618. <!-- problem name -->
+# 618. მართკუთხედების თანაკვეთა - 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#618](https://aiasoft.ge/problem/618)
 

@@ -1,6 +1,6 @@
-# 012. <!-- problem name -->
+# 012. მართკუთხედი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#012](https://aiasoft.ge/problem/012)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#012](https://aiasoft.ge/problem/12)
 
 | Field | Info |
 |-------|------|

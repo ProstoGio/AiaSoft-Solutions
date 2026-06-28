@@ -1,4 +1,4 @@
-# 224. <!-- problem name -->
+# 224. გადათხრილი გზები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#224](https://aiasoft.ge/problem/224)
 

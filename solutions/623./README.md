@@ -1,4 +1,4 @@
-# 623. <!-- problem name -->
+# 623. სტრიქონები წიგნში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#623](https://aiasoft.ge/problem/623)
 

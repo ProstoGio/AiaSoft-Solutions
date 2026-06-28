@@ -1,4 +1,4 @@
-# 786. <!-- problem name -->
+# 786. მარტივი რიცხვები N-მდე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#786](https://aiasoft.ge/problem/786)
 

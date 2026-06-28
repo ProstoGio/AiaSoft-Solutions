@@ -1,4 +1,4 @@
-# 809. <!-- problem name -->
+# 809. 1 და 7
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#809](https://aiasoft.ge/problem/809)
 

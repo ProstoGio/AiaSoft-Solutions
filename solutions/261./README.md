@@ -1,4 +1,4 @@
-# 261. <!-- problem name -->
+# 261. მეზობლების მატრიცა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#261](https://aiasoft.ge/problem/261)
 

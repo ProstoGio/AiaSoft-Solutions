@@ -1,4 +1,4 @@
-# 336. <!-- problem name -->
+# 336. მთავრული სიმბოლო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#336](https://aiasoft.ge/problem/336)
 

@@ -1,4 +1,4 @@
-# 850. <!-- problem name -->
+# 850. მინიმალური კენტი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#850](https://aiasoft.ge/problem/850)
 

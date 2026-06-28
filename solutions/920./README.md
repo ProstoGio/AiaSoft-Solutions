@@ -1,4 +1,4 @@
-# 920. <!-- problem name -->
+# 920. წყალდიდობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#920](https://aiasoft.ge/problem/920)
 

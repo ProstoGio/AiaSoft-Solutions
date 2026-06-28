@@ -1,4 +1,4 @@
-# 145. <!-- problem name -->
+# 145. სამკუთხედის ფართობი (კოორდინატებით)
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#145](https://aiasoft.ge/problem/145)
 

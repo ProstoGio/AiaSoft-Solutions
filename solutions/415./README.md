@@ -1,4 +1,4 @@
-# 415. <!-- problem name -->
+# 415. რა დღეა?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#415](https://aiasoft.ge/problem/415)
 

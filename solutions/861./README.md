@@ -1,4 +1,4 @@
-# 861. <!-- problem name -->
+# 861. წაშალეთ სიმბოლო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#861](https://aiasoft.ge/problem/861)
 

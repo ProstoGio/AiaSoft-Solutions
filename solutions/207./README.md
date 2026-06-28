@@ -1,4 +1,4 @@
-# 207. <!-- problem name -->
+# 207. ლებრონი და კალათბურთი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#207](https://aiasoft.ge/problem/207)
 

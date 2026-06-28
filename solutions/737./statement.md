@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 737. ცვლილება რიცხვში
 
 > Copied from [AiaSoft.ge #737](https://aiasoft.ge/problem/737)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთი რიცხვი $A$. შეცვალეთ $A$-ში მაქსიმუმ ერთი ციფრი სხვა ციფრით ისე, რომ მიღებული რიცხვი იყოს მაქსიმალური.
 
 ## Input
 
-<!-- input format -->
+მოცემულია ერთი არაუარყოფითი მთელი რიცხვი: $A$.
+* $A$ რიცხვის ციფრთა რაოდენობა მინიმუმ $1$ და მაქსიმუმ $10^3$-ია
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ მაქსიმალური შესაძლო რიცხვი, რომელიც შეიძლება მივიღოთ.

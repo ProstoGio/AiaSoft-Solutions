@@ -1,6 +1,6 @@
-# 048. <!-- problem name -->
+# 048. პირველკლასელი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#048](https://aiasoft.ge/problem/048)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#048](https://aiasoft.ge/problem/48)
 
 | Field | Info |
 |-------|------|

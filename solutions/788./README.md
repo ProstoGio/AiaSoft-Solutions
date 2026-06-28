@@ -1,4 +1,4 @@
-# 788. <!-- problem name -->
+# 788. ვინ დგას შუაში?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#788](https://aiasoft.ge/problem/788)
 

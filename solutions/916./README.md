@@ -1,4 +1,4 @@
-# 916. <!-- problem name -->
+# 916. კომპილატორის ახალი ვერსია
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#916](https://aiasoft.ge/problem/916)
 

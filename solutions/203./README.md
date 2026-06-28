@@ -1,4 +1,4 @@
-# 203. <!-- problem name -->
+# 203. ბაბის უყვარს კომბოსტო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#203](https://aiasoft.ge/problem/203)
 

@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 148. განსხვავებული რიცხვების რაოდენობა 2
 
 > Copied from [AiaSoft.ge #148](https://aiasoft.ge/problem/148)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $n$ ცალი მთელი რიცხვი $a_1,a_2,...,a_n$. დაადგინეთ და გამოიტანეთ რამდენი განსხვავებული რიცხვია მათ შორის.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის $n$ ($1<=n<=10^5$), რიცხვების რაოდენობა. მეორე ხაზზე შემოდის $n$ ცალი მთელი რიცხვი, რომლებიც მოთავსებულია $[-10^9, 10^9]$ შუალედში.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი რიცხვი, განსხვავებული რიცხვების რაოდენობა.

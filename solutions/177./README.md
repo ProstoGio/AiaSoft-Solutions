@@ -1,4 +1,4 @@
-# 177. <!-- problem name -->
+# 177. ჩატეხილი კიბე 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#177](https://aiasoft.ge/problem/177)
 

@@ -1,6 +1,6 @@
-# 025. <!-- problem name -->
+# 025. მასივი და მისი ორი ელემენტი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#025](https://aiasoft.ge/problem/025)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#025](https://aiasoft.ge/problem/25)
 
 | Field | Info |
 |-------|------|

@@ -1,6 +1,6 @@
-# 044. <!-- problem name -->
+# 044. კუბიკების კიბე
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#044](https://aiasoft.ge/problem/044)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#044](https://aiasoft.ge/problem/44)
 
 | Field | Info |
 |-------|------|

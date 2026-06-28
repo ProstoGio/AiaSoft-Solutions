@@ -1,4 +1,4 @@
-# 738. <!-- problem name -->
+# 738. ხელფასები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#738](https://aiasoft.ge/problem/738)
 

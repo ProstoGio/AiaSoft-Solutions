@@ -1,4 +1,4 @@
-# 811. <!-- problem name -->
+# 811. მასივის ორმოების რაოდენობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#811](https://aiasoft.ge/problem/811)
 

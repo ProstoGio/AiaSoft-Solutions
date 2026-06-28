@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 414. უდიდესი რიცხვი
 
 > Copied from [AiaSoft.ge #414](https://aiasoft.ge/problem/414)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოსწავლეს აქვს ორი ციფრი. მან ისინი ერთმანეთს მიუწერა და დაუმატა ერთი.
+რა უდიდესი რიცხვი შეიძლება მიიღოს მოსწავლემ?
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთმანეთისაგან ჰარით გამოყოფილი ორი ციფრი $a$ და $b$, $0<=a,b<=9$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი რიცხვი - მოსწავლის მიერ მიღებული უდიდესი რიცხვის მნიშვნელობა.

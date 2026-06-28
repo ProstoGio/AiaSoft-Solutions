@@ -1,4 +1,4 @@
-# 348. <!-- problem name -->
+# 348. ინდექსები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#348](https://aiasoft.ge/problem/348)
 

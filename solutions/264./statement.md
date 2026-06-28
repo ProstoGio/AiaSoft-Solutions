@@ -1,31 +1,22 @@
-# Problem Statement
+# Problem Statement — 264. კომპონენტების რაოდენობა
 
 > Copied from [AiaSoft.ge #264](https://aiasoft.ge/problem/264)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია არაორიენტირებული გრაფი. დათვალეთ გრაფის კომპონენტების რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის $N$ და $M$, გრაფის წვეროებისა და წიბოების რაოდენობა.
+მომდევნო $M$ ხაზზე მოცემულია ორ-ორი რიცხვი. $i$-ურ ხაზზე ჩაწერილია $v_i$ და $u_i$ - წიბოს ბოლოები. (გრაფის წვეროები დანომრილია 1-დან $N$-მდე)
+
+$1 <= N <= 20$
+$0 <= M <= N*(N-1) / 2$
+$1 <= v_i, u_i <= N$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი მთელი რიცხვი, კომპონენტების რაოდენობა გრაფში.

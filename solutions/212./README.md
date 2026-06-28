@@ -1,4 +1,4 @@
-# 212. <!-- problem name -->
+# 212. სიმბოლოთა ჯაჭვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#212](https://aiasoft.ge/problem/212)
 

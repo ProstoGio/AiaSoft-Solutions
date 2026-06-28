@@ -1,4 +1,4 @@
-# 121. <!-- problem name -->
+# 121. ციფრების ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#121](https://aiasoft.ge/problem/121)
 

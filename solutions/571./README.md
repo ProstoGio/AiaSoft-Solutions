@@ -1,4 +1,4 @@
-# 571. <!-- problem name -->
+# 571. ხაჭაპური
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#571](https://aiasoft.ge/problem/571)
 

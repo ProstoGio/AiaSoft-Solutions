@@ -1,4 +1,4 @@
-# 126. <!-- problem name -->
+# 126. ფიბონაჩის მიმდევრობა 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#126](https://aiasoft.ge/problem/126)
 

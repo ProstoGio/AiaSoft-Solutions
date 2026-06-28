@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 123. სტრიქონის შეტრიალება
 
 > Copied from [AiaSoft.ge #123](https://aiasoft.ge/problem/123)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სტრიქონი, რომლის სიგრძე არ აღემატება 200 სიმბოლოს და შედგება ლათინური ანბანის პატარა ასოებისაგან.
+შეატრიალეთ იგი სიმეტრიულად.  გამოიყენეთ რეკურსიული ფუნქცია.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი სტრიქონი
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ სიმეტრიულად შებრუნებული სტრიქონი.

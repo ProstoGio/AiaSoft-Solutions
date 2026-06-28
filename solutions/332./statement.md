@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 332. გამყოფები 1
 
 > Copied from [AiaSoft.ge #332](https://aiasoft.ge/problem/332)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+დაბეჭდეთ ეკრანზე მოცემული $N$ რიცხვის გამყოფების რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+შემოდის ნატურალური რიცხვი $N$. $1<=N<=10^9$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+დაბეჭდეთ ეკრანზე ერთი ნატურალური რიცხვი -  $N$-ის გამყოფების რაოდენობა.

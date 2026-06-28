@@ -1,4 +1,4 @@
-# 347. <!-- problem name -->
+# 347. ბაბი კინოთეატრში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#347](https://aiasoft.ge/problem/347)
 

@@ -1,4 +1,4 @@
-# 315. <!-- problem name -->
+# 315. ირაკლი და მიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#315](https://aiasoft.ge/problem/315)
 

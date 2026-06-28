@@ -1,4 +1,4 @@
-# 417. <!-- problem name -->
+# 417. ორი ბაჭია
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#417](https://aiasoft.ge/problem/417)
 

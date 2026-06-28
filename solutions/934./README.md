@@ -1,4 +1,4 @@
-# 934. <!-- problem name -->
+# 934. დიდი რიცხვები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#934](https://aiasoft.ge/problem/934)
 

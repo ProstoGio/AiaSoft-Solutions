@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 738. ხელფასები
 
 > Copied from [AiaSoft.ge #738](https://aiasoft.ge/problem/738)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+კომპანია AiaEngine-ს სულ 3 თანამშრომელი ჰყავს. რა თქმა უნდა კომპანია სამივე თანამშრომელს გარკვეულ ხელფასს უხდის. თქვენი დავალებაა დაადგინოთ განსხვავება მაქსიმალურ და მინიმალურ ხელფასებს შორის.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე მოცემულია 3 ნატურალური რიცხვი: $A, B, C$ $(1<=A,B,C<=10^5)$ - თანამშრომელთა ხელფასები.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+დაადგინეთ და გამობეჭდეთ რამხელა სხვაობაა მაქსიმალურ და მინიმალურ ხელფასებს შორის.

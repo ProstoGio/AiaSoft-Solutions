@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 334. ბაბის სიმბოლო
 
 > Copied from [AiaSoft.ge #334](https://aiasoft.ge/problem/334)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+პატარა ბაბის (ბაბი ბაჭიაა) დაბადების დღეზე კონვერტით ერთი სიმბოლო აჩუქეს. ბაბის ძალიან უნდა, ეს სიმბოლო ციფრი რომ არ აღმოჩნდეს, რადგან ბაჭიებს, საერთოდ არითმეტიკა არ უყვართ. 
+თქვენმა პროგრამამ უნდა გაარკვიოს, არის თუ არა ბაბის სიმბოლო ციფრი.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი სიმბოლო.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ სიტყვა YES, თუ სიმბოლო ციფრია. წინააღმდეგ შემთხვევაში გამოიტანეთ სიტყვა NO.

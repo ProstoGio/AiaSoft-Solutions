@@ -1,4 +1,4 @@
-# 339. <!-- problem name -->
+# 339. საბავშვო მოედანი 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#339](https://aiasoft.ge/problem/339)
 

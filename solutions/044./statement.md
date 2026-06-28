@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 044. კუბიკების კიბე
 
-> Copied from [AiaSoft.ge #044](https://aiasoft.ge/problem/044)
+> Copied from [AiaSoft.ge #44](https://aiasoft.ge/problem/44)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+პატარა ბიჭი კუბიკებით კიბეს აშენებს შემდეგი წესით: კიბის პირველ საფეხურად გაამწკრივებს რამდენიმე კუბიკს, ხოლო მეორე საფეხურად იყენებს უფრო ნაკლებ კუბიკს, ვიდრე წინა საფეხურზე გამოიყენა. ყოველ მომდევნო საფეხურს წინა საფეხურზე ნაკლებ კუბიკს ანდომებს.
+
+`~https://storage.googleapis.com/problems_api_photos/images/ZTOCwtxKRl045CHsQkxU.png`
+ბიჭს აქვს $N$ ცალი კუბიკი, რამდენი სხვადასხვა კიბის გაკეთებას მოახერხებს იგი ამ კუბიკებით?
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი ნატურალური რიცხვი $N (1 leq N leq 150)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი ნატურალური რიცხვი - კიბეების რაოდენობა.

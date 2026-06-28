@@ -1,4 +1,4 @@
-# 871. <!-- problem name -->
+# 871. კარგი სამეული - 3
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#871](https://aiasoft.ge/problem/871)
 

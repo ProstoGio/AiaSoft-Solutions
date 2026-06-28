@@ -1,4 +1,4 @@
-# 331. <!-- problem name -->
+# 331. გამყოფები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#331](https://aiasoft.ge/problem/331)
 

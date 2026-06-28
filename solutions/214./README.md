@@ -1,4 +1,4 @@
-# 214. <!-- problem name -->
+# 214. შეცვალეთ სიმბოლოები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#214](https://aiasoft.ge/problem/214)
 

@@ -1,4 +1,4 @@
-# 309. <!-- problem name -->
+# 309. შუა ციფრები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#309](https://aiasoft.ge/problem/309)
 

@@ -1,4 +1,4 @@
-# 532. <!-- problem name -->
+# 532. მოხეტიალე ცხენი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#532](https://aiasoft.ge/problem/532)
 

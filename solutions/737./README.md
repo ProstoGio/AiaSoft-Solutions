@@ -1,4 +1,4 @@
-# 737. <!-- problem name -->
+# 737. ცვლილება რიცხვში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#737](https://aiasoft.ge/problem/737)
 

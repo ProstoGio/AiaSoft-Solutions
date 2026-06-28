@@ -1,4 +1,4 @@
-# 854. <!-- problem name -->
+# 854. სრული პალინდრომი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#854](https://aiasoft.ge/problem/854)
 

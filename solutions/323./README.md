@@ -1,4 +1,4 @@
-# 323. <!-- problem name -->
+# 323. სიმბოლოს რიგითი ნომერი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#323](https://aiasoft.ge/problem/323)
 

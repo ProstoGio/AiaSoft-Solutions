@@ -1,4 +1,4 @@
-# 891. <!-- problem name -->
+# 891. დაითვალე ლიდერები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#891](https://aiasoft.ge/problem/891)
 

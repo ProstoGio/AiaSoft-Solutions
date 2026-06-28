@@ -1,4 +1,4 @@
-# 670. <!-- problem name -->
+# 670. ბანკომატი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#670](https://aiasoft.ge/problem/670)
 

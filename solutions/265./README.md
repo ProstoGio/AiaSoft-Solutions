@@ -1,4 +1,4 @@
-# 265. <!-- problem name -->
+# 265. უდიდესი კომპონენტი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#265](https://aiasoft.ge/problem/265)
 

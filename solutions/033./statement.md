@@ -1,31 +1,21 @@
-# Problem Statement
+# Problem Statement — 033. მასივის მაქსიმალური ელემენტი
 
-> Copied from [AiaSoft.ge #033](https://aiasoft.ge/problem/033)
+> Copied from [AiaSoft.ge #33](https://aiasoft.ge/problem/33)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ წევრიანი მასივი. იპოვეთ და გამობეჭდეთ მაქსიმალური წევრი.
 
 ## Input
 
-<!-- input format -->
+პირვლ ხაზზე შემოდის $N$, მასივის ელემენების რაოდენობა.
+მეორე ხაზზე შემოდის ჰარით დაშორებული $N$ ცალი მთელი რიცხვი, მასივის ელემენტები.
+მასივის ელემენტების აბსოლუტური მნიშვნელობა (ანუ მოდული) არ აღემატება $10^9$-ს
+
+$1 <= N <= 10^3$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი მთელი რიცხვი, მასივის მაქსიმალური ელემენტი

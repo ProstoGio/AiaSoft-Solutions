@@ -1,4 +1,4 @@
-# 828. <!-- problem name -->
+# 828. კატო და საყვარელი სიმბოლო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#828](https://aiasoft.ge/problem/828)
 

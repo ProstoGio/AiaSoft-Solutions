@@ -1,4 +1,4 @@
-# 225. <!-- problem name -->
+# 225. ხალისოს დერეფანი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#225](https://aiasoft.ge/problem/225)
 

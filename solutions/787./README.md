@@ -1,4 +1,4 @@
-# 787. <!-- problem name -->
+# 787. დაადგინე არის თუ არა მარტივი(მარტივი ვერსია)
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#787](https://aiasoft.ge/problem/787)
 

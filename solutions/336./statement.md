@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 336. მთავრული სიმბოლო
 
 > Copied from [AiaSoft.ge #336](https://aiasoft.ge/problem/336)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ლათინური ანბანის პატარა სიმბოლო. საჭიროა მისი გამთავრულება.
 
 ## Input
 
-<!-- input format -->
+კლავიატურიდან შემოდის ერთი სიმბოლო - ლათინური ანბანის პატარა ასო.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ შემოსული სიმბოლოს მთავრული შესატყვისი.

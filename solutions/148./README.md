@@ -1,4 +1,4 @@
-# 148. <!-- problem name -->
+# 148. განსხვავებული რიცხვების რაოდენობა 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#148](https://aiasoft.ge/problem/148)
 

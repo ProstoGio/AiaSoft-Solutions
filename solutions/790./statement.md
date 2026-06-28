@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 790. ბევრად ბევრი
 
 > Copied from [AiaSoft.ge #790](https://aiasoft.ge/problem/790)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ რიცხვი, თქვენი მიზანია თითოეული $i$ რიცხვი $[1, N]$ შუალედში დაბეჭდოთ $i$-ჯერ.(1 უნდა დაიბეჭდოს ერთხელ, 2 - ორჯერ, ... , $N$ - $N$-ჯერ).
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის ერთი მთელი რიცხვი $N$
+$1<=N<=100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ $i$-ური რიცხვი $i$-ჯერ თითოეული $i$-სთვის 1-დან $N$-ის ჩათვლით.
+პასუხი დაბეჭდეთ ერთ ხაზზე და რიცხვები გამოყავით თითო ჰარით

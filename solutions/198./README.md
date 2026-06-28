@@ -1,4 +1,4 @@
-# 198. <!-- problem name -->
+# 198. რეაქტიული ბაბი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#198](https://aiasoft.ge/problem/198)
 

@@ -1,4 +1,4 @@
-# 275. <!-- problem name -->
+# 275. ცხოველები - 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#275](https://aiasoft.ge/problem/275)
 

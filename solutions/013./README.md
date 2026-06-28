@@ -1,6 +1,6 @@
-# 013. <!-- problem name -->
+# 013. მოქმედებები ვექტორზე
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#013](https://aiasoft.ge/problem/013)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#013](https://aiasoft.ge/problem/13)
 
 | Field | Info |
 |-------|------|

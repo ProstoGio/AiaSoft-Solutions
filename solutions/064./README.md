@@ -1,6 +1,6 @@
-# 064. <!-- problem name -->
+# 064. ფრჩხილებიანი მეორეკლასელები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#064](https://aiasoft.ge/problem/064)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#064](https://aiasoft.ge/problem/64)
 
 | Field | Info |
 |-------|------|

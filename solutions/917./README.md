@@ -1,4 +1,4 @@
-# 917. <!-- problem name -->
+# 917. ჭიანჭველები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#917](https://aiasoft.ge/problem/917)
 

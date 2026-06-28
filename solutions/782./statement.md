@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 782. სოკო
 
 > Copied from [AiaSoft.ge #782](https://aiasoft.ge/problem/782)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+ერთ კალათაში მაქსიმუმ $N$ კილოგრამი სოკო ეტევა. გამოთვალეთ, რამდენი კალათა დასჭირდება დიმას $M$ კილოგრამი სოკოს მოსათავსებლად.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე მოცემულია ორი მთელი  რიცხვი: $N$ $(1 <= N <= 100)$  - კალათას ტევადობა და $M$ $(0 <= M <= 100)$ - სოკოს საერთო რაოდენობა.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი რიცხვი: სოკოს მოსათავსებლად საჭირო კალათების რაოდენობა.

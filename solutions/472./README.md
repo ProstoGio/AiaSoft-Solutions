@@ -1,4 +1,4 @@
-# 472. <!-- problem name -->
+# 472. ოთახის ფართობი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#472](https://aiasoft.ge/problem/472)
 

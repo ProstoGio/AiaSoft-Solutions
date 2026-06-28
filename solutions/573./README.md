@@ -1,4 +1,4 @@
-# 573. <!-- problem name -->
+# 573. სუნთქვა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#573](https://aiasoft.ge/problem/573)
 

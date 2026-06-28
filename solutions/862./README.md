@@ -1,4 +1,4 @@
-# 862. <!-- problem name -->
+# 862. ნახევარმატრიცა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#862](https://aiasoft.ge/problem/862)
 

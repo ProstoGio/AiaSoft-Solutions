@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 366. რამდენი ნულია?
 
 > Copied from [AiaSoft.ge #366](https://aiasoft.ge/problem/366)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+დაწერეთ პროგრამა, რომელიც დაადგენს, რამდენი ნულია მოცემული რიცხვის ათობით ჩანაწერში.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი მთელი არაუარყოფითი რიცხვი $n, 0<=n<=10^9$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი რიცხვი - ნულების რაოდენობა მოცემული რიცხვის ათობით ჩანაწერში.

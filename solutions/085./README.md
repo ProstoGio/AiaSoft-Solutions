@@ -1,6 +1,6 @@
-# 085. <!-- problem name -->
+# 085. გამრავლება
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#085](https://aiasoft.ge/problem/085)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#085](https://aiasoft.ge/problem/85)
 
 | Field | Info |
 |-------|------|

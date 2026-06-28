@@ -1,4 +1,4 @@
-# 530. <!-- problem name -->
+# 530. გზის აშენება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#530](https://aiasoft.ge/problem/530)
 

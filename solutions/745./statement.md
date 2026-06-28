@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 745. ციფრთა ჯამი - 2
 
 > Copied from [AiaSoft.ge #745](https://aiasoft.ge/problem/745)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $a$ და $b$ რიცხვები, იპოვეთ $a$-დან $b$-მდე რიცხვების ციფრთა ჯამებს შორის მაქსიმუმი.
 
 ## Input
 
-<!-- input format -->
+ერთადერთ ხაზზე მოცემულია ორი ნატურალური რიცხვი $a$ და $b$.
+$1<=a,b<=10^5$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+იპოვეთ $a$-დან $b$-მდე რიცხვების ციფრთა ჯამებს შორის მაქსიმუმი.

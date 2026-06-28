@@ -1,6 +1,6 @@
-# 022. <!-- problem name -->
+# 022. ღრმად ძებნაში შესვლის და გამოსვლის დრო
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#022](https://aiasoft.ge/problem/022)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#022](https://aiasoft.ge/problem/22)
 
 | Field | Info |
 |-------|------|

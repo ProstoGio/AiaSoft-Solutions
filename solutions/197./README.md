@@ -1,4 +1,4 @@
-# 197. <!-- problem name -->
+# 197. სიტყვების დათვლა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#197](https://aiasoft.ge/problem/197)
 

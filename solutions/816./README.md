@@ -1,4 +1,4 @@
-# 816. <!-- problem name -->
+# 816. ტყუპი წევრები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#816](https://aiasoft.ge/problem/816)
 

@@ -1,4 +1,4 @@
-# 704. <!-- problem name -->
+# 704. ინტერვალის ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#704](https://aiasoft.ge/problem/704)
 

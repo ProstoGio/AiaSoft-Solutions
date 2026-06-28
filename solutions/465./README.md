@@ -1,4 +1,4 @@
-# 465. <!-- problem name -->
+# 465. უდიდესი კომპონენტის წვეროები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#465](https://aiasoft.ge/problem/465)
 

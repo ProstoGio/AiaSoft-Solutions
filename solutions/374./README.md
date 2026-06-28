@@ -1,4 +1,4 @@
-# 374. <!-- problem name -->
+# 374. რიცხვთა ნაერთი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#374](https://aiasoft.ge/problem/374)
 

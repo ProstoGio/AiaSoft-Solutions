@@ -1,4 +1,4 @@
-# 416. <!-- problem name -->
+# 416. გივიკო, ნინიკო და კანფეტები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#416](https://aiasoft.ge/problem/416)
 

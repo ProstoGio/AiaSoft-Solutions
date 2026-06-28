@@ -1,4 +1,4 @@
-# 136. <!-- problem name -->
+# 136. ქეთი და კოტე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#136](https://aiasoft.ge/problem/136)
 

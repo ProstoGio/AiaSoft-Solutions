@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 423. ორი ერთიანი
 
 > Copied from [AiaSoft.ge #423](https://aiasoft.ge/problem/423)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+დაადგინეთ რამდენია ისეთი ნატურალური რიცხვი, რომლის ორობით ჩანაწერში მხოლოდ ორი ერთიანი შედის და რომელთა მნიშვნელობა არ აღემატება მოცემულ $N$-ს.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი ნატურალური რიცხვი $N, 0<N<10^9$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ერთი ნატურალური რიცხვი - ისეთი რიცხვების რაოდენობა, რომელთა მნიშვნელობაც არ აღემატება მოცემულ რიცხვს და რომელთა ორობით ჩანაწერში შედის მხოლოდ ორი ერთიანი.

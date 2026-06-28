@@ -1,4 +1,4 @@
-# 620. <!-- problem name -->
+# 620. მშვიდი მიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#620](https://aiasoft.ge/problem/620)
 

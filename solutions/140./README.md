@@ -1,4 +1,4 @@
-# 140. <!-- problem name -->
+# 140. მეორე ნომერი ცელქობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#140](https://aiasoft.ge/problem/140)
 

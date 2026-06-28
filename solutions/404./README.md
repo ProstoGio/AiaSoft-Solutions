@@ -1,4 +1,4 @@
-# 404. <!-- problem name -->
+# 404. აბა, ვინ მოიგებს ??
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#404](https://aiasoft.ge/problem/404)
 

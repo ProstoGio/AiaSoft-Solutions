@@ -1,4 +1,4 @@
-# 782. <!-- problem name -->
+# 782. სოკო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#782](https://aiasoft.ge/problem/782)
 

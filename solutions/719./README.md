@@ -1,4 +1,4 @@
-# 719. <!-- problem name -->
+# 719. მძლავრად ბმული კომპონენტების რაოდენობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#719](https://aiasoft.ge/problem/719)
 

@@ -1,4 +1,4 @@
-# 180. <!-- problem name -->
+# 180. სიტყვები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#180](https://aiasoft.ge/problem/180)
 

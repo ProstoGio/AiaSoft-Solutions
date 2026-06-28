@@ -1,4 +1,4 @@
-# 603. <!-- problem name -->
+# 603. მონეტების ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#603](https://aiasoft.ge/problem/603)
 

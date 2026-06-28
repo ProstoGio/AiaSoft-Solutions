@@ -1,4 +1,4 @@
-# 813. <!-- problem name -->
+# 813. სიმეტრიულის გამყოფები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#813](https://aiasoft.ge/problem/813)
 

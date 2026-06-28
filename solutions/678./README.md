@@ -1,4 +1,4 @@
-# 678. <!-- problem name -->
+# 678. დაშიფრული წერილი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#678](https://aiasoft.ge/problem/678)
 

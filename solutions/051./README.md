@@ -1,6 +1,6 @@
-# 051. <!-- problem name -->
+# 051. შესაკრებთა წყვილების პოვნა
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#051](https://aiasoft.ge/problem/051)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#051](https://aiasoft.ge/problem/51)
 
 | Field | Info |
 |-------|------|

@@ -1,4 +1,4 @@
-# 300. <!-- problem name -->
+# 300. ფასიანი კიბე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#300](https://aiasoft.ge/problem/300)
 

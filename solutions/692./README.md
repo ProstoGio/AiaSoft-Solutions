@@ -1,4 +1,4 @@
-# 692. <!-- problem name -->
+# 692. ორადი მეზობლები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#692](https://aiasoft.ge/problem/692)
 

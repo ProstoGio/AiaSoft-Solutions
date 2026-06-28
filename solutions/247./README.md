@@ -1,4 +1,4 @@
-# 247. <!-- problem name -->
+# 247. უდიდესი ციფრი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#247](https://aiasoft.ge/problem/247)
 

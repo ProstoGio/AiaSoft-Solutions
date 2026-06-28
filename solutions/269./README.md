@@ -1,4 +1,4 @@
-# 269. <!-- problem name -->
+# 269. ხე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#269](https://aiasoft.ge/problem/269)
 

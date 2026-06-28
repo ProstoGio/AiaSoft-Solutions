@@ -1,4 +1,4 @@
-# 470. <!-- problem name -->
+# 470. 0-ები და 1-ები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#470](https://aiasoft.ge/problem/470)
 

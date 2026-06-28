@@ -1,4 +1,4 @@
-# 783. <!-- problem name -->
+# 783. პირველობა რეიტინგში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#783](https://aiasoft.ge/problem/783)
 

@@ -1,4 +1,4 @@
-# 313. <!-- problem name -->
+# 313. 0 და 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#313](https://aiasoft.ge/problem/313)
 

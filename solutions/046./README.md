@@ -1,6 +1,6 @@
-# 046. <!-- problem name -->
+# 046. ათეულები და ასეულები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#046](https://aiasoft.ge/problem/046)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#046](https://aiasoft.ge/problem/46)
 
 | Field | Info |
 |-------|------|

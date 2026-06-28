@@ -1,4 +1,4 @@
-# 202. <!-- problem name -->
+# 202. უცნაური კიბე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#202](https://aiasoft.ge/problem/202)
 

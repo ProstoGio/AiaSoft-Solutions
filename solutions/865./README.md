@@ -1,4 +1,4 @@
-# 865. <!-- problem name -->
+# 865. კენტი რიცხვების ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#865](https://aiasoft.ge/problem/865)
 

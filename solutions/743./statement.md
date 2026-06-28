@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 743. ციფრთა ჯამი - 1
 
 > Copied from [AiaSoft.ge #743](https://aiasoft.ge/problem/743)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $a$ და $b$ რიცხვები, თქვენი დავალებაა $a$-დან $b$-მდე გამობეჭდოთ თითოეული რიცხვის ციფრთა ჯამი.
 
 ## Input
 
-<!-- input format -->
+ერთადერთ ხაზზე მოცემულია ორი ნატურალური რიცხვი $a$ და $b$.
+$1<=a,b<=10^5$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთ ხაზზე გამობეჭდეთ $a$-დან $b$-მდე ყველა რიცხვის ციფრთა ჯამი

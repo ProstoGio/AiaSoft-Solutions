@@ -1,4 +1,4 @@
-# 373. <!-- problem name -->
+# 373. გამოტოვებული რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#373](https://aiasoft.ge/problem/373)
 

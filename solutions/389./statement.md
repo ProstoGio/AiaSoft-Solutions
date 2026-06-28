@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 389. სრულყოფილი რიცხვი
 
 > Copied from [AiaSoft.ge #389](https://aiasoft.ge/problem/389)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+რიცხვს ეწოდება `bსრულყოფილი`, თუკი იგი საკუთარი გამყოფების (თავის თავის გარდა) ჯამის ტოლია. მაგალითად, რიცხვი 6 სრულყოფილია, რადგან $6 = 1 + 2 + 3$, ხოლო რიცხვი 10 არ არის სრულყოფილი, რადგან $10ne1+2+5$.
+დაადგინეთ, არის თუ არა მოცემული რიცხვი სრულყოფილი.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი ნატურალური რიცხვი $n, 1<=n<=10^5$.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ სიტყვა "yes", თუ რიცხვი სრულყოფილია და სიტყვა "no", თუ რიცხვი არაა სრულყოფილი.

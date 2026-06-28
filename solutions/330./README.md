@@ -1,4 +1,4 @@
-# 330. <!-- problem name -->
+# 330. კენტი რიცხვები 3
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#330](https://aiasoft.ge/problem/330)
 

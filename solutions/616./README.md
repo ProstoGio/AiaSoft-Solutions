@@ -1,4 +1,4 @@
-# 616. <!-- problem name -->
+# 616. ბიტებით თამაში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#616](https://aiasoft.ge/problem/616)
 

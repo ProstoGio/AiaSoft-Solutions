@@ -1,4 +1,4 @@
-# 624. <!-- problem name -->
+# 624. წიბოს ხარისხი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#624](https://aiasoft.ge/problem/624)
 

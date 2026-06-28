@@ -1,4 +1,4 @@
-# 558. <!-- problem name -->
+# 558. ზრდადი მიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#558](https://aiasoft.ge/problem/558)
 

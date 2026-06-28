@@ -1,4 +1,4 @@
-# 264. <!-- problem name -->
+# 264. კომპონენტების რაოდენობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#264](https://aiasoft.ge/problem/264)
 

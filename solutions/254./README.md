@@ -1,4 +1,4 @@
-# 254. <!-- problem name -->
+# 254. მასივის დალაგება - 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#254](https://aiasoft.ge/problem/254)
 

@@ -1,4 +1,4 @@
-# 866. <!-- problem name -->
+# 866. ლუწი რიცხვების ჯამი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#866](https://aiasoft.ge/problem/866)
 

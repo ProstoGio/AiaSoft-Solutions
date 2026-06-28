@@ -1,4 +1,4 @@
-# 711. <!-- problem name -->
+# 711. რიცხვებით თამაში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#711](https://aiasoft.ge/problem/711)
 

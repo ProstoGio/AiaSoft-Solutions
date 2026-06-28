@@ -1,4 +1,4 @@
-# 245. <!-- problem name -->
+# 245. ძაღლების თავშესაფარი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#245](https://aiasoft.ge/problem/245)
 

@@ -1,6 +1,6 @@
-# 098. <!-- problem name -->
+# 098. მაქსიმალური სხვაობა
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#098](https://aiasoft.ge/problem/098)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#098](https://aiasoft.ge/problem/98)
 
 | Field | Info |
 |-------|------|

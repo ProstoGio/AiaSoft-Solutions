@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 350. იძებნება თუ არა?
 
 > Copied from [AiaSoft.ge #350](https://aiasoft.ge/problem/350)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ მთელი რიცხვისგან შედგენილი მასივი. დაადგინეთ, არის თუ არა მოცემულ მასივში $x$-ის ტოლი ერთი ელემენტი მაინც.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე მოცემულია ორი მთელი რიცხვი: $N$ და $x$ - მასივის ელემენტების რაოდენობა და საძიებელი ელემენტი.
+მომდევნო ხაზზე მოცემულია $N$ რაოდენობის მთელი რიცხვი - $a_1, a_2, ..., a_n$
+
+$1 <= N, x, a_i <= 100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+თუ მასივში $x$-ის ტოლი ელემენტი მოიძებება, მაშინ გამობეჭდეთ `bYES`, წინააღმდეგ შემთხვევაში `bNO`.

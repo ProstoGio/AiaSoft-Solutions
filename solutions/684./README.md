@@ -1,4 +1,4 @@
-# 684. <!-- problem name -->
+# 684. კიტრი და პომიდორი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#684](https://aiasoft.ge/problem/684)
 

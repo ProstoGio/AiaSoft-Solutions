@@ -1,4 +1,4 @@
-# 897. <!-- problem name -->
+# 897. სად არის პირველად?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#897](https://aiasoft.ge/problem/897)
 

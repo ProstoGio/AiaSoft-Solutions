@@ -1,4 +1,4 @@
-# 755. <!-- problem name -->
+# 755. 2-ის ახარისხება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#755](https://aiasoft.ge/problem/755)
 

@@ -1,4 +1,4 @@
-# 849. <!-- problem name -->
+# 849. სად არის მინიმუმი?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#849](https://aiasoft.ge/problem/849)
 

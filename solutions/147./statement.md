@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 147. განსხვავებული რიცხვების რაოდენობა 1
 
 > Copied from [AiaSoft.ge #147](https://aiasoft.ge/problem/147)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $n$ ცალი მთელი რიცხვი $a_1,a_2,...,a_n$. დაადგინეთ და გამოიტანეთ რამდენი განსხვავებული რიცხვია მათ შორის.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე შემოდის $n$ ($1<=n<=100$), რიცხვების რაოდენობა. მეორე ხაზზე შემოდის $n$ ცალი მთელი რიცხვი, რომლებიც მოთავსებულია $[1, 1000]$ შუალედში.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ერთი რიცხვი, განსხვავებული რიცხვების რაოდენობა.

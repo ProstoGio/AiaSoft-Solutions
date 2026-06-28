@@ -1,4 +1,4 @@
-# 542. <!-- problem name -->
+# 542. ჯადოქარი ბიტუნა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#542](https://aiasoft.ge/problem/542)
 

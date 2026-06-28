@@ -1,4 +1,4 @@
-# 382. <!-- problem name -->
+# 382. საგუშაგოები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#382](https://aiasoft.ge/problem/382)
 

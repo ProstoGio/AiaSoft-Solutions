@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 902. ერთის გამოკლება
 
 > Copied from [AiaSoft.ge #902](https://aiasoft.ge/problem/902)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+შემოდის ნატურალური რიცხვი. 
+გამობეჭდეთ მისი წინა ნატურალური რიცხვი.
 
 ## Input
 
-<!-- input format -->
+პირველ სტრიქონზე შემოდის ერთი მთელი რიცხვი $a$ .
+$0<a<=10^1000$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ $a-1$

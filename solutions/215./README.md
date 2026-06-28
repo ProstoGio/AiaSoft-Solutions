@@ -1,4 +1,4 @@
-# 215. <!-- problem name -->
+# 215. მატრიცის შევსება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#215](https://aiasoft.ge/problem/215)
 

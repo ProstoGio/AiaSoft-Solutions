@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 011. საყვარელი რიცხვები
 
-> Copied from [AiaSoft.ge #011](https://aiasoft.ge/problem/011)
+> Copied from [AiaSoft.ge #11](https://aiasoft.ge/problem/11)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 128 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+გიორგის ძალიან უყვარს რიცხვები, განსაკუთრებით კი ისეთი რიცხვები, რომელთა ჩანაწერშიც მხოლოდ 9 და 8 მონაწილეობს და ერთმანეთის მეზობლად არ დგას ორი ერთნაირი ციფრი.
+გიორგის აინტერესებს რომელია უდიდესი N-ნიშნა რიცხვი, რომელიც ზემოთ ხსენებულ პირობებს აკმაყოფილებს.
+დაეხმარეთ გიორგის სასურველი რიცხვის პოვნაში.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი რიცხვი N.
+$1 \leq N \leq 100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთ ხაზზე გამოიტანეთ მოთხოვნილი N-ნიშნა რიცხვი.

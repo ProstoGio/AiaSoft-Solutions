@@ -1,6 +1,6 @@
-# 029. <!-- problem name -->
+# 029. ნულების ჯგუფები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#029](https://aiasoft.ge/problem/029)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#029](https://aiasoft.ge/problem/29)
 
 | Field | Info |
 |-------|------|

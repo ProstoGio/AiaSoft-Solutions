@@ -1,4 +1,4 @@
-# 380. <!-- problem name -->
+# 380. მთელი წერტილები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#380](https://aiasoft.ge/problem/380)
 

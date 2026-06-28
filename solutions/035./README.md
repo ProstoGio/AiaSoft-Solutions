@@ -1,6 +1,6 @@
-# 035. <!-- problem name -->
+# 035. ორი რიცხვის უდიდესი საერთო გამყოფი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#035](https://aiasoft.ge/problem/035)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#035](https://aiasoft.ge/problem/35)
 
 | Field | Info |
 |-------|------|

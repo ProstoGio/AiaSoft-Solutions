@@ -1,4 +1,4 @@
-# 206. <!-- problem name -->
+# 206. კენტები ლუწების წინააღმდეგ
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#206](https://aiasoft.ge/problem/206)
 

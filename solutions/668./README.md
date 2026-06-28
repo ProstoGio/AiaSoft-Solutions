@@ -1,4 +1,4 @@
-# 668. <!-- problem name -->
+# 668. ღობის შეღებვა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#668](https://aiasoft.ge/problem/668)
 

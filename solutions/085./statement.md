@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 085. გამრავლება
 
-> Copied from [AiaSoft.ge #085](https://aiasoft.ge/problem/085)
+> Copied from [AiaSoft.ge #85](https://aiasoft.ge/problem/85)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 32 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ორი მთელი რიცხვი $a$ და $b$. გამოიტანეთ მათი ნამრავლი.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე შემოდის ორი მთელი რიცხვი: $a, b$
+
+$0 <= |a|, |b| <= 100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ ნამრავლი: $a*b$

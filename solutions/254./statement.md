@@ -1,31 +1,20 @@
-# Problem Statement
+# Problem Statement — 254. მასივის დალაგება - 1
 
 > Copied from [AiaSoft.ge #254](https://aiasoft.ge/problem/254)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 64 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია მასივი, რომელიც შედგება $N$ მთელი რიცხვისგან.
+
+დაალაგეთ მოცემული მასივი არაკლებადი მიმდევრობით და შემდეგ გამობეჭდეთ.
 
 ## Input
 
-<!-- input format -->
+პირველ ხაზზე  მოცემულია ერთი მთელი რიცხვი: $N$ - მასივის სიგრძე $(1 <= N <= 100)$
+მეორე ხაზზე შემოდის $N$ ცალი მთელი რიცხვი: $a_1, a_2, ..., a_n$ - მასივის წევრები $(1 <= a_i <= 1000)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+რთ ხაზზე გამობეჭდეთ ჰარით დაშორებული $N$ ცალი მთელი რიცხვი - დალაგებული მასივის წევრები

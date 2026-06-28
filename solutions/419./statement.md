@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 419. ავზი
 
 > Copied from [AiaSoft.ge #419](https://aiasoft.ge/problem/419)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია $N$ ლიტრიანი წყლით სავსე ავზი. ავზიდან იღებენ წყალს 3 ლიტრიანი და 5 ლიტრიანი ჭურჭლებით, ავზის დაცლის მიზნით. მინიმუმ რა რაოდენობის წყალი დარჩება ავზში ყველაზე ოპტიმალურ შემთხვევაში.
+ჭურჭლებში მათ ტევადობაზე ნაკლები წყლის ჩასხმა არ შეიძლება.
 
 ## Input
 
-<!-- input format -->
+შემოდის $N$ - ავზში წყლის რაოდენობა. $1<=N<=10^9$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ ავზში დარჩენილი წყლის რაოდენობა.

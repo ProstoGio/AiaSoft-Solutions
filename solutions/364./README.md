@@ -1,4 +1,4 @@
-# 364. <!-- problem name -->
+# 364. ინიციალები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#364](https://aiasoft.ge/problem/364)
 

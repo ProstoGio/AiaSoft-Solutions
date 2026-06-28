@@ -1,4 +1,4 @@
-# 211. <!-- problem name -->
+# 211. სიმბოლო
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#211](https://aiasoft.ge/problem/211)
 

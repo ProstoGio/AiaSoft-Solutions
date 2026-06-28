@@ -1,4 +1,4 @@
-# 622. <!-- problem name -->
+# 622. სანაყინე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#622](https://aiasoft.ge/problem/622)
 

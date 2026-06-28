@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 826. სამნიშნას უდიდესი
 
 > Copied from [AiaSoft.ge #826](https://aiasoft.ge/problem/826)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სამნიშნა რიცხვი. იპოვეთ მისი უდიდესი ციფრის მნიშვნელობა.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი სამნიშნა დადებითი რიცხვი.
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამობეჭდეთ შემოსული რიცხვის უდიდესი ციფრის მნიშვნელობა.

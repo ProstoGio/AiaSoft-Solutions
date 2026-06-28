@@ -1,4 +1,4 @@
-# 688. <!-- problem name -->
+# 688. მაქსიმალური პალინდრომი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#688](https://aiasoft.ge/problem/688)
 

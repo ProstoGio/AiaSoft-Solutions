@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 043. მასივის ქვესეგმენტის შეტრიალება
 
-> Copied from [AiaSoft.ge #043](https://aiasoft.ge/problem/043)
+> Copied from [AiaSoft.ge #43](https://aiasoft.ge/problem/43)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთგანზომილებიანი მასივი, საჭიროა სიმეტრიულად შეტრიალდეს მისი ქვესეგმენტი $l$-დან  $r$ ინდექსების ჩათვლით.
 
 ## Input
 
-<!-- input format -->
+შემავალი მონაცემების პირველ სტრიქონზე შემოდის მასივის სიგრძე $1 leq n leq 100$, მეორე სტრიქონზე შემოდის მასივის ელემენტები. ხოლო მესამეზე შემოდის ქვესეგმენტის საზღვრები $0 leq l leq r leq n-1$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთ სტრიქონში გამოიტანეთ მიღებული მასივის ელემენტები. მონაცემებს შორის ჩასვით თითო ჰარი.

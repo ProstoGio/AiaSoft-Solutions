@@ -1,4 +1,4 @@
-# 606. <!-- problem name -->
+# 606. დათვალე ერთები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#606](https://aiasoft.ge/problem/606)
 

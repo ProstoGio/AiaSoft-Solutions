@@ -1,4 +1,4 @@
-# 901. <!-- problem name -->
+# 901. ერთის დამატება
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#901](https://aiasoft.ge/problem/901)
 

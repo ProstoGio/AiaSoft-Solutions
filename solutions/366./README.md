@@ -1,4 +1,4 @@
-# 366. <!-- problem name -->
+# 366. რამდენი ნულია?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#366](https://aiasoft.ge/problem/366)
 

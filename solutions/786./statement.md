@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 786. მარტივი რიცხვები N-მდე
 
 > Copied from [AiaSoft.ge #786](https://aiasoft.ge/problem/786)
 
+**Time limit:** 5.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია N რიცხვი.
+თქვენი დავალებაა იპოვოთ ყველა მარტივი რიცხვი [1,N] შუალედში.
 
 ## Input
 
-<!-- input format -->
+ერთ სტრიქონზე შემოდის ერთი მთელი დადებითი რიცხვი N.
+$1<=N<=2*10^5$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+თქვენ უნდა დაბეჭდოთ 1-დან N-ის ჩათვლით ყველა მარტივი რიცხვი ზრდადობით.

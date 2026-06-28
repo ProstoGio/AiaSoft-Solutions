@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 012. მართკუთხედი
 
-> Copied from [AiaSoft.ge #012](https://aiasoft.ge/problem/012)
+> Copied from [AiaSoft.ge #12](https://aiasoft.ge/problem/12)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთი მთელი რიცხვი $P$. დაადგინეთ, შესაძლოა თუ არა არსებობდეს მართკუთხედი, რომლის გვერდებიც მთელი რიცხვებია, ხოლო პერიმეტრი არის $P$-ს ტოლი.
+თუ შესაძლებელია მაშინ გამოიტანეთ $1$, წინააღმდეგ შემთხვევაში $0$.
 
 ## Input
 
-<!-- input format -->
+ერთ ხაზზე შემოდის ერთი მთელი რიცხვი - $P$, მართკუთხედის პერიმეტრი.
+$1 \leq P \leq 100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+თუ მოთხოვნილი პირობების შესრულება შესაზლებელია გამოპიტანეთ 1, თუ არადა გამოიტანეთ 0.

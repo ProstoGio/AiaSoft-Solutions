@@ -1,6 +1,6 @@
-# 033. <!-- problem name -->
+# 033. მასივის მაქსიმალური ელემენტი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#033](https://aiasoft.ge/problem/033)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#033](https://aiasoft.ge/problem/33)
 
 | Field | Info |
 |-------|------|

@@ -1,4 +1,4 @@
-# 390. <!-- problem name -->
+# 390. ნაკლული და ნამეტი რიცხვები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#390](https://aiasoft.ge/problem/390)
 

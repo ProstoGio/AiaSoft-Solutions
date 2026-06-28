@@ -1,4 +1,4 @@
-# 246. <!-- problem name -->
+# 246. სამი კუ
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#246](https://aiasoft.ge/problem/246)
 

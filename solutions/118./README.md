@@ -1,4 +1,4 @@
-# 118. <!-- problem name -->
+# 118. ჯვარი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#118](https://aiasoft.ge/problem/118)
 

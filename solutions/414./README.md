@@ -1,4 +1,4 @@
-# 414. <!-- problem name -->
+# 414. უდიდესი რიცხვი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#414](https://aiasoft.ge/problem/414)
 

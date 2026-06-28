@@ -1,4 +1,4 @@
-# 268. <!-- problem name -->
+# 268. ციკლი გრაფში
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#268](https://aiasoft.ge/problem/268)
 

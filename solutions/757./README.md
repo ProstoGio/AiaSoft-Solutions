@@ -1,4 +1,4 @@
-# 757. <!-- problem name -->
+# 757. მიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#757](https://aiasoft.ge/problem/757)
 

@@ -1,4 +1,4 @@
-# 689. <!-- problem name -->
+# 689. ფერადი კარტები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#689](https://aiasoft.ge/problem/689)
 

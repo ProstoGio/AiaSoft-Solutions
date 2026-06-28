@@ -1,4 +1,4 @@
-# 424. <!-- problem name -->
+# 424. ვინ არის მარტო?
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#424](https://aiasoft.ge/problem/424)
 

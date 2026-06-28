@@ -1,4 +1,4 @@
-# 328. <!-- problem name -->
+# 328. ლუწი რიცხვები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#328](https://aiasoft.ge/problem/328)
 

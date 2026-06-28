@@ -1,4 +1,4 @@
-# 870. <!-- problem name -->
+# 870. კარგი სამეული - 2
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#870](https://aiasoft.ge/problem/870)
 

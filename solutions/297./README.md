@@ -1,4 +1,4 @@
-# 297. <!-- problem name -->
+# 297. უმოკლესი გზა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#297](https://aiasoft.ge/problem/297)
 

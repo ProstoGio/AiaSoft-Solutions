@@ -1,4 +1,4 @@
-# 176. <!-- problem name -->
+# 176. კიბე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#176](https://aiasoft.ge/problem/176)
 

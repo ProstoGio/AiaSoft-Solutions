@@ -1,4 +1,4 @@
-# 666. <!-- problem name -->
+# 666. ლურსმნები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#666](https://aiasoft.ge/problem/666)
 

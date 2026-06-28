@@ -1,4 +1,4 @@
-# 789. <!-- problem name -->
+# 789. ლუწი მასივი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#789](https://aiasoft.ge/problem/789)
 

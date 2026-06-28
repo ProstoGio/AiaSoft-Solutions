@@ -1,4 +1,4 @@
-# 423. <!-- problem name -->
+# 423. ორი ერთიანი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#423](https://aiasoft.ge/problem/423)
 

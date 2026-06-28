@@ -1,4 +1,4 @@
-# 662. <!-- problem name -->
+# 662. ტყე
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#662](https://aiasoft.ge/problem/662)
 

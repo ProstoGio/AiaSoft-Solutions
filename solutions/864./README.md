@@ -1,4 +1,4 @@
-# 864. <!-- problem name -->
+# 864. დაითვალე ლუწები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#864](https://aiasoft.ge/problem/864)
 

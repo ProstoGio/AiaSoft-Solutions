@@ -1,4 +1,4 @@
-# 425. <!-- problem name -->
+# 425. სიმრავლეები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#425](https://aiasoft.ge/problem/425)
 

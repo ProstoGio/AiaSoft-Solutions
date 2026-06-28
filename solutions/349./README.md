@@ -1,4 +1,4 @@
-# 349. <!-- problem name -->
+# 349. იპოვე მინიმალური
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#349](https://aiasoft.ge/problem/349)
 

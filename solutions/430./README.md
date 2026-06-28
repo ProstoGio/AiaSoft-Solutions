@@ -1,4 +1,4 @@
-# 430. <!-- problem name -->
+# 430. ჭკვიანი თხუნელა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#430](https://aiasoft.ge/problem/430)
 

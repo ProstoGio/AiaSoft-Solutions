@@ -1,4 +1,4 @@
-# 318. <!-- problem name -->
+# 318. კეთილი ფერია
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#318](https://aiasoft.ge/problem/318)
 

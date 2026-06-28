@@ -1,6 +1,6 @@
-# 087. <!-- problem name -->
+# 087. N რიცხვის ჯამი
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#087](https://aiasoft.ge/problem/087)
+> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#087](https://aiasoft.ge/problem/87)
 
 | Field | Info |
 |-------|------|

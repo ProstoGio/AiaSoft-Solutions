@@ -1,31 +1,19 @@
-# Problem Statement
+# Problem Statement — 863. დაითვალე კენტები
 
 > Copied from [AiaSoft.ge #863](https://aiasoft.ge/problem/863)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია N ელემენტიანი მასივი. თქვენ უნდა დაადგინოთ მოცემულ მასივში კენტი რიცხვების რაოდენობა.
 
 ## Input
 
-<!-- input format -->
+პირველ სტრიქონზე შემოვა ერთი მთელი დადებითი რიცხვი N, შემდეგ სტრიქონზე შემოდის N ცალი მთელი დადებითი რიცხვი.
+$1<=N<=100$
+$1<=a_i<=100$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+დაბეჭდეთ მოცემულ მასივში კენტი რიცხვების რაოდენობა.

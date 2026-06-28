@@ -1,4 +1,4 @@
-# 327. <!-- problem name -->
+# 327. კენტი რიცხვები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#327](https://aiasoft.ge/problem/327)
 

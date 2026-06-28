@@ -1,4 +1,4 @@
-# 824. <!-- problem name -->
+# 824. ნინი და ხინკალი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#824](https://aiasoft.ge/problem/824)
 

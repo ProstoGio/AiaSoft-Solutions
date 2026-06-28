@@ -1,4 +1,4 @@
-# 538. <!-- problem name -->
+# 538. ჭადრაკის დაფა და დედოფლები
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#538](https://aiasoft.ge/problem/538)
 

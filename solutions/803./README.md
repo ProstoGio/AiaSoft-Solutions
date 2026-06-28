@@ -1,4 +1,4 @@
-# 803. <!-- problem name -->
+# 803. კრუიზი ავტობუსებით
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#803](https://aiasoft.ge/problem/803)
 

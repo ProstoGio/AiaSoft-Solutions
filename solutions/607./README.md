@@ -1,4 +1,4 @@
-# 607. <!-- problem name -->
+# 607. რიცხვების XOR - 1
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#607](https://aiasoft.ge/problem/607)
 

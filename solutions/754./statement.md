@@ -1,31 +1,18 @@
-# Problem Statement
+# Problem Statement — 754. ფაქტორიალი
 
 > Copied from [AiaSoft.ge #754](https://aiasoft.ge/problem/754)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია ერთი დადებითი რიცხვი $N$, თქვენი დავალებაა იპოვოთ N-ის ფაქტორიალი, რიცხვის ფაქტორიალი არის $1$-დან $N$-ის ჩათვლით ყველა რიცხვის ნამრავლი.
 
 ## Input
 
-<!-- input format -->
+ერთადერთ ხაზზე შემოდის ერთი მთელი დადებითი რიცხვი $N$.
+$1<=N<=15$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+ერთ ხაზზე გამობეჭდეთ $N!$

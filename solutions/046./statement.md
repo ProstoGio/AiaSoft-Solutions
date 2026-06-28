@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 046. ათეულები და ასეულები
 
-> Copied from [AiaSoft.ge #046](https://aiasoft.ge/problem/046)
+> Copied from [AiaSoft.ge #46](https://aiasoft.ge/problem/46)
+
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
 
 ## Task
 
-<!-- paste problem statement here -->
+მოცემულია სამნიშნა დადებითი რიცხვი, იპოვეთ მისი პირველი ორი ციფრის ჯამი.
 
 ## Input
 
-<!-- input format -->
+შემოდის ერთი სამნიშნა რიცხვი
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+პირველი ორი ციფრის ჯამი

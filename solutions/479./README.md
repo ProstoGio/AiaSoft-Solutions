@@ -1,4 +1,4 @@
-# 479. <!-- problem name -->
+# 479. სამშენებლო წელიწადი
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#479](https://aiasoft.ge/problem/479)
 

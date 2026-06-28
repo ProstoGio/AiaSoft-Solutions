@@ -1,31 +1,17 @@
-# Problem Statement
+# Problem Statement — 330. კენტი რიცხვები 3
 
 > Copied from [AiaSoft.ge #330](https://aiasoft.ge/problem/330)
 
+**Time limit:** 1.0s &nbsp;|&nbsp; **Memory limit:** 256 MB
+
 ## Task
 
-<!-- paste problem statement here -->
+გამოიტანეთ მოცემულ $a$ და $b$ რიცხვებს შორის მოთავსებული ყველა კენტი რიცხვი ზრდადი თანმიმდევრობით (თვით $a$ და $b$ რიცხვების ჩათვლით, თუ რომელიმე კენტია)
 
 ## Input
 
-<!-- input format -->
+შემოდის ორი ნატურალური რიცხვი $a$ და $b$. $(1<=a,b<=20)$
 
 ## Output
 
-<!-- output format -->
-
-## Constraints
-
-<!-- e.g. 1 ≤ n ≤ 10⁶ -->
-
-## Examples
-
-### Example 1
-
-**Input:**
-```
-```
-
-**Output:**
-```
-```
+გამოიტანეთ მოცემულ $a$ და $b$ რიცხვებს შორის მოთავსებული ყველა კენტი რიცხვი ზრდადი თანმიმდევრობით ამოცანის პირობის მიხედვით.

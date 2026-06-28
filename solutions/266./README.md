@@ -1,4 +1,4 @@
-# 266. <!-- problem name -->
+# 266. უდიდესი ზრდადი ქვემიმდევრობა
 
 > **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#266](https://aiasoft.ge/problem/266)
 
