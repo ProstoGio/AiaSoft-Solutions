@@ -4,15 +4,60 @@ import requests
 import time
 
 # ==================== CONFIGURATION ====================
-BEARER_TOKEN  = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODI2NzY4ODgsIm5iZiI6MTc4MjY3Njg4OCwianRpIjoiOWJjY2FmNzQtZDVjYi00NWMxLTk2NzgtZjIyNTU5MzQ5OGI0IiwiZXhwIjoxNzgyNjgwNDg4LCJpZGVudGl0eSI6MTQyOSwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.bhwKFkrtHsgqZOZx5ev9_NEu-eF_PeNaJZagMOzai5o"
 SOLUTIONS_DIR = "solutions"
 SLEEP_SEC     = 1
 # =======================================================
+
+print("Paste your Bearer token and press Enter:")
+BEARER_TOKEN = input().strip()
 
 headers = {
     'Authorization': f'Bearer {BEARER_TOKEN}',
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36'
 }
+
+# -------------------------------------------------------
+# Clean LaTeX/math notation into readable plain text
+# -------------------------------------------------------
+def clean_math(text):
+    if not text:
+        return text
+
+    # superscripts map
+    superscripts = str.maketrans('0123456789+-', '⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻')
+
+    def replace_math(m):
+        inner = m.group(1).strip()
+
+        # X^Y → X^Y with superscript digits e.g. 10^9 → 10⁹
+        inner = re.sub(
+            r'(\w+)\^(\{([^}]+)\}|(\w+))',
+            lambda x: x.group(1) + (x.group(3) or x.group(4)).translate(superscripts),
+            inner
+        )
+
+        # common symbols
+        inner = inner.replace(r'\leq', '≤').replace(r'\geq', '≥')
+        inner = inner.replace(r'\le',  '≤').replace(r'\ge',  '≥')
+        inner = inner.replace(r'\neq', '≠').replace(r'\ne',  '≠')
+        inner = inner.replace(r'\cdot', '·').replace(r'\times', '×')
+        inner = inner.replace(r'\infty', '∞')
+        inner = inner.replace(r'\sum', 'Σ').replace(r'\sqrt', '√')
+        inner = inner.replace(r'\left', '').replace(r'\right', '')
+        inner = inner.replace(r'\lfloor', '⌊').replace(r'\rfloor', '⌋')
+        inner = inner.replace(r'\lceil', '⌈').replace(r'\rceil', '⌉')
+        inner = inner.replace('{', '').replace('}', '')
+        inner = inner.replace('_', '')   # remove subscript markers
+
+        return inner
+
+    # replace $...$ blocks
+    text = re.sub(r'\$([^$]+)\$', replace_math, text)
+
+    # clean up any leftover stray $ signs
+    text = text.replace('$', '')
+
+    return text
 
 # -------------------------------------------------------
 # Fetch problem data from API
@@ -31,13 +76,12 @@ def fetch_problem(problem_id):
 def build_statement(data, problem_id):
     padded    = str(problem_id).zfill(3)
     title     = data.get('title', '?')
-    statement = data.get('statement', '').strip()
-    input_desc  = data.get('input_description', '').strip()
-    output_desc = data.get('output_description', '').strip()
+    statement   = clean_math(data.get('statement', '').strip())
+    input_desc  = clean_math(data.get('input_description', '').strip())
+    output_desc = clean_math(data.get('output_description', '').strip())
     time_limit   = data.get('time_limit', '?')
     memory_limit = data.get('memory_limit', '?')
 
-    # examples — try common field names
     examples = data.get('examples') or data.get('tests') or []
 
     lines = [
@@ -93,11 +137,8 @@ def update_problem_readme(folder_path, problem_id, title):
     with open(readme_path, encoding="utf-8") as f:
         content = f.read()
 
-    # replace placeholder title line
     new_title_line = f"# {padded}. {title}"
     content = re.sub(r'^# \d+\..*$', new_title_line, content, count=1, flags=re.MULTILINE)
-
-    # replace placeholder problem URL (problem/NNN)
     content = re.sub(
         r'https://aiasoft\.ge/problem/\d+',
         f'https://aiasoft.ge/problem/{problem_id}',
@@ -106,6 +147,23 @@ def update_problem_readme(folder_path, problem_id, title):
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
+
+# -------------------------------------------------------
+# Should we (re)fetch this statement?
+# -------------------------------------------------------
+def needs_fetch(statement_path):
+    if not os.path.exists(statement_path):
+        return True
+    with open(statement_path, encoding="utf-8") as f:
+        content = f.read()
+    # refetch if placeholder or still has $ signs (old bugged version)
+    if "paste problem statement here" in content:
+        return True
+    if "paste statement here" in content:
+        return True
+    if "$" in content:
+        return True
+    return False
 
 # -------------------------------------------------------
 # Main
@@ -135,15 +193,11 @@ def main():
     for folder_name, folder_path in solved:
         problem_id = int(folder_name.rstrip("."))
         padded = str(problem_id).zfill(3)
-
-        # skip if statement already filled in
         statement_path = os.path.join(folder_path, "statement.md")
-        if os.path.exists(statement_path):
-            with open(statement_path, encoding="utf-8") as f:
-                existing = f.read()
-            if "paste problem statement here" not in existing and "paste statement here" not in existing:
-                print(f"  ⏭️  {padded}. already has statement — skipping.")
-                continue
+
+        if not needs_fetch(statement_path):
+            print(f"  ⏭️  {padded}. already clean — skipping.")
+            continue
 
         print(f"⬇️  Fetching #{padded}...")
 
@@ -155,12 +209,10 @@ def main():
 
         title = data.get('title', '?')
 
-        # write statement.md
         statement_content = build_statement(data, problem_id)
         with open(statement_path, "w", encoding="utf-8") as f:
             f.write(statement_content)
 
-        # update problem README.md with real title
         update_problem_readme(folder_path, problem_id, title)
 
         print(f"  ✅ {padded}. {title}")

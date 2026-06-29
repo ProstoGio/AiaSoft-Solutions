@@ -3,11 +3,13 @@ import requests
 import time
 
 # ==================== CONFIGURATION ====================
-BEARER_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODI2NzMwMDEsIm5iZiI6MTc4MjY3MzAwMSwianRpIjoiYzQ0MzliZjMtMmMwMi00ODFkLTk1NTktZTQzN2FhYmU0NzUyIiwiZXhwIjoxNzgyNjc2NjAxLCJpZGVudGl0eSI6MTQyOSwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.2ZmoGAxov3W3ap0asJA6gGi_knuVFlh4K1CiFlboQow"
 USERNAME     = "ProstoV_G11O_17"
 REPO_ROOT    = "solutions"
 SLEEP_SEC    = 1.5           # delay between API calls to avoid 429
 # =======================================================
+
+print("Paste your Bearer token and press Enter:")
+BEARER_TOKEN = input().strip()
 
 headers = {
     'Authorization': f'Bearer {BEARER_TOKEN}',

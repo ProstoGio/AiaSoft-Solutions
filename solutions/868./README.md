@@ -1,14 +1,31 @@
 # 868. დაბეჭდე ლუწები
 
-> **Platform:** [AiaSoft.ge](https://aiasoft.ge) &nbsp;|&nbsp; **Problem:** [#868](https://aiasoft.ge/problem/868)
+<table>
+  <tr>
+    <td><b>Platform</b></td>
+    <td><a href="https://aiasoft.ge">AiaSoft.ge</a></td>
+  </tr>
+  <tr>
+    <td><b>Problem</b></td>
+    <td><a href="https://aiasoft.ge/problem/868">#868</a></td>
+  </tr>
+  <tr>
+    <td><b>Topic</b></td>
+    <td><!-- Topic --></td>
+  </tr>
+  <tr>
+    <td><b>Difficulty</b></td>
+    <td><!-- Easy / Medium / Hard / Very Hard --></td>
+  </tr>
+  <tr>
+    <td><b>Complexity</b></td>
+    <td><!-- O(?) --></td>
+  </tr>
+</table>
 
-| Field | Info |
-|-------|------|
-| 📂 Topic | <!-- Topic --> |
-| ⭐ Difficulty | <!-- Easy / Medium / Hard / Very Hard --> |
-| ⏱️ Complexity | <!-- O(?) --> |
+---
 
-## Files
+## 📄 Files
 
 | File | Description |
 |------|-------------|
@@ -18,4 +35,4 @@
 
 ---
 
-*Part of [AiaSoft Solutions](../../README.md) — solutions to AiaSoft.ge problems*
+<sub>Part of <a href="../../README.md">AiaSoft Solutions</a> — C++ solutions to AiaSoft.ge problems</sub>
