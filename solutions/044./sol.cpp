@@ -1,6 +1,6 @@
 // AiaSoft #044 — კუბიკების კიბე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n³)
+// Topics: Dynamic Programming, Math
 
 #include <iostream>
 using namespace std;

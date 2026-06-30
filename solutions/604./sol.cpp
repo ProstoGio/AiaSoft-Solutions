@@ -1,6 +1,6 @@
 // AiaSoft #604 — შეკითხვები ტყეზე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N² + Q)
+// Topics: Prefix Sums, Grid, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

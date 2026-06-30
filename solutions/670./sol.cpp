@@ -1,6 +1,6 @@
 // AiaSoft #670 — ბანკომატი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * k)
+// Topics: Dynamic Programming
 
 #include <bits/stdc++.h>
 using namespace std;

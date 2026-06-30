@@ -1,6 +1,6 @@
 // AiaSoft #766 — ჯამი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(Q)
+// Topics: Math, Sequences, Number Theory
 
 #include <bits/stdc++.h>
 using namespace std;

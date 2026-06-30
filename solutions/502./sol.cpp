@@ -1,6 +1,6 @@
 // AiaSoft #502 — პიცა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log(min(n, m)))
+// Topics: Math, Number Theory
 
 #include <bits/stdc++.h>
 

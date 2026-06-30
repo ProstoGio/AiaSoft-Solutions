@@ -1,6 +1,6 @@
 // AiaSoft #620 — მშვიდი მიმდევრობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Sequences, Math
 
 #include <bits/stdc++.h>
 using namespace std;

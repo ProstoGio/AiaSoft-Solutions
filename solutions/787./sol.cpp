@@ -1,6 +1,6 @@
 // AiaSoft #787 — დაადგინე არის თუ არა მარტივი(მარტივი ვერსია)
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N * max(A))
+// Topics: Math, Number Theory, Implementation
 
 #include <bits/stdc++.h>
 

@@ -1,6 +1,6 @@
 // AiaSoft #022 — ღრმად ძებნაში შესვლის და გამოსვლის დრო
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(m log m)
+// Topics: Graphs, Recursion, Sorting
 
 #include <bits/stdc++.h>
 using namespace std;

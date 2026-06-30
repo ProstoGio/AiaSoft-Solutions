@@ -1,6 +1,6 @@
 // AiaSoft #076 — ეგოისტი ბავშვები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n + m)
+// Topics: Strings, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

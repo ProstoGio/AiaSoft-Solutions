@@ -1,6 +1,6 @@
 // AiaSoft #719 — მძლავრად ბმული კომპონენტების რაოდენობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Graphs, Recursion
 
 #include <bits/stdc++.h>
 

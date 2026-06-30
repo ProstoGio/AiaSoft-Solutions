@@ -1,6 +1,6 @@
 // AiaSoft #897 — სად არის პირველად?
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n + q)
+// Topics: Implementation, Sets
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,6 @@
 // AiaSoft #587 — თამაში გადანაცვლებაზე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(T * n * 2^n)
+// Topics: Game Theory, Dynamic Programming, Bit Manipulation
 
 #include <bits/stdc++.h>
 #define pb push_back

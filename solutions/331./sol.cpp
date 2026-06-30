@@ -1,6 +1,6 @@
 // AiaSoft #331 — გამყოფები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Math, Number Theory, Implementation
 
 #include <bits/stdc++.h>
 

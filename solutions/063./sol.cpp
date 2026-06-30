@@ -1,6 +1,6 @@
 // AiaSoft #063 — ციფრების ჯამი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Strings, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

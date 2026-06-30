@@ -1,6 +1,6 @@
 // AiaSoft #051 — შესაკრებთა წყვილების პოვნა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Sorting, Greedy
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,6 @@
 // AiaSoft #058 — ფხაჭუნა კატები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * m)
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 

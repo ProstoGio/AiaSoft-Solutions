@@ -1,6 +1,6 @@
 // AiaSoft #425 — სიმრავლეები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n² log n)
+// Topics: Strings, Recursion, Sorting
 
 #include <bits/stdc++.h>
 #define pb push_back

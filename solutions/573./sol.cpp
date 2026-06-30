@@ -1,6 +1,6 @@
 // AiaSoft #573 — სუნთქვა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Implementation
 
 #include <iostream>
 using namespace std;

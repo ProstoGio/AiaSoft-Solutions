@@ -1,6 +1,6 @@
 // AiaSoft #854 — სრული პალინდრომი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Strings, Implementation
 
 #include <bits/stdc++.h>
 

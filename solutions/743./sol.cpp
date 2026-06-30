@@ -1,6 +1,6 @@
 // AiaSoft #743 — ციფრთა ჯამი - 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log(max(a, b)))
+// Topics: Implementation, Math
 
 #include <bits/stdc++.h>
 using namespace std;

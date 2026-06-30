@@ -1,6 +1,6 @@
 // AiaSoft #530 — გზის აშენება
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n + m)
+// Topics: Graphs, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

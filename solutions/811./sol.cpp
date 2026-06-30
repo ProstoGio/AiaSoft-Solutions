@@ -1,6 +1,6 @@
 // AiaSoft #811 — მასივის ორმოების რაოდენობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

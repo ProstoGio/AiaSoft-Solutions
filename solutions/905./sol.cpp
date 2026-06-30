@@ -1,6 +1,6 @@
 // AiaSoft #905 — ფიფქების სამკუთხედი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation
 
 #include <bits/stdc++.h>
 

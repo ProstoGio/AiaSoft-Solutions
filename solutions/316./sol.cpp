@@ -1,6 +1,6 @@
 // AiaSoft #316 — ნაყინები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Math, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,6 @@
 // AiaSoft #627 — ნიკოს მიმდევრობა - 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(k)
+// Topics: Implementation, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

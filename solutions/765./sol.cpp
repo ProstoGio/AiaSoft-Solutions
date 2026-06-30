@@ -1,6 +1,6 @@
 // AiaSoft #765 — დიაპაზონი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + M + max(V))
+// Topics: Implementation, Prefix Sums
 
 #include <bits/stdc++.h>
 using namespace std;

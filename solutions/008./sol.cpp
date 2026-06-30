@@ -1,6 +1,6 @@
 // AiaSoft #008 — ბავშვები და სტრიქონები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Strings, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

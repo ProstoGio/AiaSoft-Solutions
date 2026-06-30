@@ -1,6 +1,6 @@
 // AiaSoft #423 — ორი ერთიანი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log² N)
+// Topics: Bit Manipulation, Implementation
 
 #include <bits/stdc++.h>
 

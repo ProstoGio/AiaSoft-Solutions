@@ -1,6 +1,6 @@
 // AiaSoft #123 — სტრიქონის შეტრიალება
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Strings, Recursion, Implementation
 
 #include <iostream>
 #include <string>

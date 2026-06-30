@@ -1,6 +1,6 @@
 // AiaSoft #424 — ვინ არის მარტო?
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Bit Manipulation
 
 #include <bits/stdc++.h>
 

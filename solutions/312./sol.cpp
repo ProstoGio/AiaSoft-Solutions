@@ -1,6 +1,6 @@
 // AiaSoft #312 — უბრალოდ უმოკლესი მანძილი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(M * (N + M))
+// Topics: Graphs
 
 #include <bits/stdc++.h>
 using namespace std;

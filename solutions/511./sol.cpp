@@ -1,6 +1,6 @@
 // AiaSoft #511 — 2 - ის ხარისხი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log n)
+// Topics: Math, Recursion, Bit Manipulation
 
 #include <bits/stdc++.h>
 

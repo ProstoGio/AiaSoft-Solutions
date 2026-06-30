@@ -1,6 +1,6 @@
 // AiaSoft #617 — მართკუთხედების თანაკვეთა - 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Geometry, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

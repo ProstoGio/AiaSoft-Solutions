@@ -1,6 +1,6 @@
 // AiaSoft #014 — ლუწი ხე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Graphs, Trees, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

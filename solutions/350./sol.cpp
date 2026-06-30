@@ -1,6 +1,6 @@
 // AiaSoft #350 — იძებნება თუ არა?
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Implementation, Sorting, Binary Search
 
 #include <bits/stdc++.h>
 

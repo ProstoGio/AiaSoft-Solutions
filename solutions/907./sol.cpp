@@ -1,6 +1,6 @@
 // AiaSoft #907 — ფიფქების კვადრატი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 

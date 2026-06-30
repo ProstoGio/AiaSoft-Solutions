@@ -1,6 +1,6 @@
 // AiaSoft #323 — სიმბოლოს რიგითი ნომერი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Implementation, Strings
 
 #include <bits/stdc++.h>
 

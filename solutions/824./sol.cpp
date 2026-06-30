@@ -1,6 +1,6 @@
 // AiaSoft #824 — ნინი და ხინკალი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Strings, Implementation, Sorting
 
 #include <bits/stdc++.h>
 #include <algorithm>

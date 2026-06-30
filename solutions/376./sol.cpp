@@ -1,6 +1,6 @@
 // AiaSoft #376 — კომპონენტები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(M * (α(N) + N))
+// Topics: Graphs, Sets, Implementation
 
 #include <bits/stdc++.h>
 #define ll long long

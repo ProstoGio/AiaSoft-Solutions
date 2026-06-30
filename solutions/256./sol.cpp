@@ -1,6 +1,6 @@
 // AiaSoft #256 — რიცხვის ძიება მასივში - 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Binary Search
 
 #include <bits/stdc++.h>
 

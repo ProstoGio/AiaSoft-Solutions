@@ -1,6 +1,6 @@
 // AiaSoft #616 — ბიტებით თამაში
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(Q)
+// Topics: Bit Manipulation, Implementation
 
 #include <bits/stdc++.h>
 

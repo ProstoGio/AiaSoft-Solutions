@@ -1,6 +1,6 @@
 // AiaSoft #828 — კატო და საყვარელი სიმბოლო
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Strings
 
 #include <iostream>
 using namespace std;

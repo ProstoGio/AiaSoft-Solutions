@@ -1,6 +1,6 @@
 // AiaSoft #120 — ყუთები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Dynamic Programming, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

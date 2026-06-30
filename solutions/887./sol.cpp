@@ -1,6 +1,6 @@
 // AiaSoft #887 — πრველი კენტების ჯამი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

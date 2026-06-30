@@ -1,6 +1,6 @@
 // AiaSoft #346 — შეტყობინება
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Strings
 
 #include <bits/stdc++.h>
 using namespace std;

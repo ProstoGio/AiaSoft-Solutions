@@ -1,6 +1,6 @@
 // AiaSoft #299 — კიბე და ბურთულა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Sequences
 
 #include <bits/stdc++.h>
 

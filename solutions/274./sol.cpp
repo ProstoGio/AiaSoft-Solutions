@@ -1,6 +1,6 @@
 // AiaSoft #274 — ციკლები გრაფში - 2
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(M * α(N))
+// Topics: Graphs, Trees, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

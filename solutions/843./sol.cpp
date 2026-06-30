@@ -1,6 +1,6 @@
 // AiaSoft #843 — ევკლიდური საბავშვო ბაღი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Number Theory
 
 #include <bits/stdc++.h>
 

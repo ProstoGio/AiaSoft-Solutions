@@ -1,6 +1,6 @@
 // AiaSoft #062 — პირველკლასელი (ოღონდ მეორე)
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Strings, Math
 
 #include <bits/stdc++.h>
 

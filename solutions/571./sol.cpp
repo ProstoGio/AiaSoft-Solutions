@@ -1,6 +1,6 @@
 // AiaSoft #571 — ხაჭაპური
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math
 
 #include <bits/stdc++.h>
 

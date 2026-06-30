@@ -1,6 +1,6 @@
 // AiaSoft #790 — ბევრად ბევრი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n^2)
+// Topics: Implementation, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

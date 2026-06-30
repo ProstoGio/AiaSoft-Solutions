@@ -1,6 +1,6 @@
 // AiaSoft #126 — ფიბონაჩის მიმდევრობა 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Recursion, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

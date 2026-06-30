@@ -1,6 +1,6 @@
 // AiaSoft #225 — ხალისოს დერეფანი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * m)
+// Topics: Dynamic Programming, Grid
 
 #include <bits/stdc++.h>
 using namespace std;

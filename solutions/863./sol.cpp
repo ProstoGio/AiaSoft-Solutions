@@ -1,6 +1,6 @@
 // AiaSoft #863 — დაითვალე კენტები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation
 
 #include <bits/stdc++.h>
 

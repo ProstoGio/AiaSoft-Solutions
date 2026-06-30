@@ -1,6 +1,6 @@
 // AiaSoft #940 — მარტივი ციკლები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(M * α(N))
+// Topics: Graphs, Sets
 
 #include <bits/stdc++.h>
 using namespace std;

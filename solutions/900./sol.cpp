@@ -1,6 +1,6 @@
 // AiaSoft #900 — ორი მარტოხელა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Sorting, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

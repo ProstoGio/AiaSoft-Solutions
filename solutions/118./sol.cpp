@@ -1,6 +1,6 @@
 // AiaSoft #118 — ჯვარი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(T * (M + N))
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 using namespace std;

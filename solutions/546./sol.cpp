@@ -1,6 +1,6 @@
 // AiaSoft #546 — ყველაზე შორს
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Graphs, Trees
 
 #include <bits/stdc++.h>
 using namespace std;

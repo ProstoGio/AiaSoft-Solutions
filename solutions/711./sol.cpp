@@ -1,6 +1,6 @@
 // AiaSoft #711 — რიცხვებით თამაში
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(V + E)
+// Topics: Graphs, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

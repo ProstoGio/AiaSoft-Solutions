@@ -1,6 +1,6 @@
 // AiaSoft #149 — განსხვავებული სიმბოლოების რაოდენობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log k)
+// Topics: Strings, Sets, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

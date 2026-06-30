@@ -1,6 +1,6 @@
 // AiaSoft #861 — წაშალეთ სიმბოლო
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation, Strings
 
 #include <bits/stdc++.h>
 using namespace std;

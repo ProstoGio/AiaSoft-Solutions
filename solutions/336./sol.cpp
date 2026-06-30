@@ -1,6 +1,6 @@
 // AiaSoft #336 — მთავრული სიმბოლო
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Strings, Implementation
 
 #include <bits/stdc++.h>
 

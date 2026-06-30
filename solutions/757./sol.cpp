@@ -1,6 +1,6 @@
 // AiaSoft #757 — მიმდევრობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Sequences
 
 #include <bits/stdc++.h>
 

@@ -1,6 +1,6 @@
 // AiaSoft #142 — ისევ ბორანი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Greedy
 
 #include <bits/stdc++.h>
 

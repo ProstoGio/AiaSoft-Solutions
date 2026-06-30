@@ -1,6 +1,6 @@
 // AiaSoft #269 — ხე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + M)
+// Topics: Graphs, Trees, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

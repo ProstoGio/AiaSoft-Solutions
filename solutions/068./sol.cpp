@@ -1,6 +1,6 @@
 // AiaSoft #068 — ბიოლოგიური რიტმები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N)
+// Topics: Math, Implementation, Number Theory
 
 #include <iostream>
 //#include <numeric>

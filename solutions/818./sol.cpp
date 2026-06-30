@@ -1,6 +1,6 @@
 // AiaSoft #818 — ელემენტები დიაპაზონიდან
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation
 
 #include <bits/stdc++.h>
 

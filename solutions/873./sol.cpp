@@ -1,6 +1,6 @@
 // AiaSoft #873 — E = mc²
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

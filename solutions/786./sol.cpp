@@ -1,6 +1,6 @@
 // AiaSoft #786 — მარტივი რიცხვები N-მდე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * sqrt(n))
+// Topics: Math, Number Theory, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

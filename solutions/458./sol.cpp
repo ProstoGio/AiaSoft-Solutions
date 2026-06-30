@@ -1,6 +1,6 @@
 // AiaSoft #458 — პასკალის სამკუთხედი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Math, Implementation, Dynamic Programming
 
 #include <bits/stdc++.h>
 using namespace std;

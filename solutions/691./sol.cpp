@@ -1,6 +1,6 @@
-// AiaSoft #691 — უცნაური დალაგება 
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// AiaSoft #691 — უცნაური დალაგება
+// Complexity: O(n log n)
+// Topics: Sorting, Greedy, Implementation
 
 #include <bits/stdc++.h>
 

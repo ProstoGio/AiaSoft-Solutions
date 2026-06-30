@@ -1,6 +1,6 @@
 // AiaSoft #548 — ოთახების დათვლა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * m)
+// Topics: Graphs, Grid, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

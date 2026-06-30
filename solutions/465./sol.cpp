@@ -1,6 +1,6 @@
 // AiaSoft #465 — უდიდესი კომპონენტის წვეროები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + M)
+// Topics: Graphs, Recursion, Sorting
 
 #include <bits/stdc++.h>
 using namespace std;

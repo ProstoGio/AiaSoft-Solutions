@@ -1,6 +1,6 @@
 // AiaSoft #934 — დიდი რიცხვები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log(min(N, M)))
+// Topics: Math, Number Theory
 
 #include <bits/stdc++.h>
 using namespace std;

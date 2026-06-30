@@ -1,6 +1,6 @@
 // AiaSoft #035 — ორი რიცხვის უდიდესი საერთო გამყოფი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log(min(a, b)))
+// Topics: Math, Number Theory, Recursion
 
 #include <bits/stdc++.h>
 #define ll unsigned long long

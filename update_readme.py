@@ -51,6 +51,27 @@ def build_table(solved, progress):
         lines.append(f"| {link} | {title} | {topics} | {diff} |")
     return "\n".join(lines)
 
+def build_topic_table(solved, progress):
+    by_padded = {p["padded"]: p["num"] for p in solved}
+
+    topic_map = {}
+    for p in solved:
+        pid = str(p["num"])
+        info = progress.get(pid, {})
+        for topic in info.get("topics", []):
+            topic_map.setdefault(topic, []).append(p["padded"])
+
+    lines = [
+        "| Topic | Problems |",
+        "|-------|----------|",
+    ]
+    for topic in sorted(topic_map.keys()):
+        padded_list = sorted(topic_map[topic], key=lambda x: by_padded[x])
+        problems_str = ", ".join(padded_list)
+        lines.append(f"| {topic} | {problems_str} |")
+
+    return "\n".join(lines)
+
 def update_readme(table_str, count):
     with open(README_PATH, encoding="utf-8") as f:
         content = f.read()
@@ -69,6 +90,26 @@ def update_readme(table_str, count):
     match = re.search(pattern, content, flags=re.DOTALL)
     if not match:
         print("⚠️  Could not find '## 🗂️ Problem Index' in README.md")
+        return
+
+    new_content = re.sub(pattern, do_replace, content, flags=re.DOTALL)
+
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write(new_content)
+
+def update_topic_table(topic_table_str):
+    with open(README_PATH, encoding="utf-8") as f:
+        content = f.read()
+
+    # match the topic table heading through to the next --- or end-of-section divider
+    pattern = r'(##\s*[^\n]*Browse by Topic\s*\n+)(.+?)(\n+---|\n+<div)'
+
+    def do_replace(m):
+        return m.group(1) + topic_table_str + m.group(3)
+
+    match = re.search(pattern, content, flags=re.DOTALL)
+    if not match:
+        print("⚠️  Could not find '## 🔍 Browse by Topic' in README.md")
         return
 
     new_content = re.sub(pattern, do_replace, content, flags=re.DOTALL)
@@ -107,7 +148,11 @@ def main():
 
     table = build_table(solved, progress)
     update_readme(table, len(solved))
-    print(f"✅ README.md updated.")
+    print(f"✅ README.md problem index updated.")
+
+    topic_table = build_topic_table(solved, progress)
+    update_topic_table(topic_table)
+    print(f"✅ README.md topic table updated.")
 
 if __name__ == "__main__":
     main()

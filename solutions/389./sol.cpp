@@ -1,6 +1,6 @@
 // AiaSoft #389 — სრულყოფილი რიცხვი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Math, Implementation, Number Theory
 
 #include <bits/stdc++.h>
 using namespace std;

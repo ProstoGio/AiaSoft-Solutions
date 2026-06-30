@@ -1,6 +1,6 @@
 // AiaSoft #430 — ჭკვიანი თხუნელა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Dynamic Programming, Grid, Math
 
 #include <bits/stdc++.h>
 #define ln long long

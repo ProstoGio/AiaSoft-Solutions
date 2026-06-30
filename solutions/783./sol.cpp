@@ -1,6 +1,6 @@
 // AiaSoft #783 — პირველობა რეიტინგში
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Implementation
 
 #include <bits/stdc++.h>
 

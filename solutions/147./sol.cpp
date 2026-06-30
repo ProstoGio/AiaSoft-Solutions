@@ -1,6 +1,6 @@
 // AiaSoft #147 — განსხვავებული რიცხვების რაოდენობა 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Implementation, Sorting
 
 #include <bits/stdc++.h>
 

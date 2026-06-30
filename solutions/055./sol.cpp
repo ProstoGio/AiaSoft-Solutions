@@ -1,6 +1,6 @@
 // AiaSoft #055 — გაფუჭებული ვაშლები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N * M)
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 

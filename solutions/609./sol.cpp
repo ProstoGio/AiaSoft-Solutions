@@ -1,6 +1,6 @@
 // AiaSoft #609 — i-ური ბიტი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Bit Manipulation
 
 #include <bits/stdc++.h>
 

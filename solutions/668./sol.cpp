@@ -1,6 +1,6 @@
 // AiaSoft #668 — ღობის შეღებვა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

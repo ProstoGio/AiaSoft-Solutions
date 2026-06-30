@@ -1,6 +1,6 @@
 // AiaSoft #122 — სტრიქონი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation, Strings, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

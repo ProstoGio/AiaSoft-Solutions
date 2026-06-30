@@ -1,6 +1,6 @@
 // AiaSoft #452 — კვადრების ქვეყანა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * sqrt(n))
+// Topics: Dynamic Programming, Math
 
 #include <bits/stdc++.h>
 using namespace std;

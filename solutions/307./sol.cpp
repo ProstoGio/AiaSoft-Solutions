@@ -1,6 +1,6 @@
 // AiaSoft #307 — ჯამი მატრიცაში
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N * M + Q)
+// Topics: Prefix Sums, Grid
 
 #include <bits/stdc++.h>
 using namespace std;

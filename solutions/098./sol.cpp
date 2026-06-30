@@ -1,6 +1,6 @@
 // AiaSoft #098 — მაქსიმალური სხვაობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Sorting, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

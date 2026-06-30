@@ -1,6 +1,6 @@
 // AiaSoft #671 — ბილეთების გაყიდვა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming
 
 #include <bits/stdc++.h>
 

@@ -1,6 +1,6 @@
 // AiaSoft #246 — სამი კუ
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Implementation, Math
 
 #include <bits/stdc++.h>
 

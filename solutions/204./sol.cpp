@@ -1,6 +1,6 @@
 // AiaSoft #204 — კალია გრასი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

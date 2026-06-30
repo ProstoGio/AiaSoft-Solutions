@@ -1,6 +1,6 @@
 // AiaSoft #059 — კბილის ექიმი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation, Sorting, Greedy
 
 #include <bits/stdc++.h>
 using namespace std;

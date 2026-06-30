@@ -1,6 +1,6 @@
 // AiaSoft #048 — პირველკლასელი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Implementation, Strings, Math
 
 #include <bits/stdc++.h>
 

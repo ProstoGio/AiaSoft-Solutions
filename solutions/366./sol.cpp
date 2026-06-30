@@ -1,6 +1,6 @@
 // AiaSoft #366 — რამდენი ნულია?
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log n)
+// Topics: Implementation, Recursion, Math
 
 #include <bits/stdc++.h>
 #define ll long long

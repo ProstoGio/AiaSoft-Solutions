@@ -1,6 +1,6 @@
 // AiaSoft #306 — მარიამის დაბადების დღე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + M)
+// Topics: Graphs, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

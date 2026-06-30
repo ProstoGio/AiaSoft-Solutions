@@ -1,6 +1,6 @@
 // AiaSoft #179 — ცხრილი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(H * W)
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 using namespace std;

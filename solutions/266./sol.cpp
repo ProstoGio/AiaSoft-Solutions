@@ -1,6 +1,6 @@
 // AiaSoft #266 — უდიდესი ზრდადი ქვემიმდევრობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Dynamic Programming, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

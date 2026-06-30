@@ -1,6 +1,6 @@
 // AiaSoft #264 — კომპონენტების რაოდენობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(M * α(N))
+// Topics: Graphs, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

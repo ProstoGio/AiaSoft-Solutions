@@ -1,6 +1,6 @@
 // AiaSoft #362 — მკაცრი ლუწი რიცხვი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log n)
+// Topics: Implementation, Math
 
 #include <bits/stdc++.h>
 

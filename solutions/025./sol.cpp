@@ -1,6 +1,6 @@
 // AiaSoft #025 — მასივი და მისი ორი ელემენტი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Sorting, Binary Search
 
 #include <bits/stdc++.h>
 using namespace std;

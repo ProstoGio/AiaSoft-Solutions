@@ -1,6 +1,6 @@
 // AiaSoft #254 — მასივის დალაგება - 1
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation, Sorting
 
 #include <bits/stdc++.h>
 

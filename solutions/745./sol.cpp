@@ -1,6 +1,6 @@
 // AiaSoft #745 — ციფრთა ჯამი - 2
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O((b-a) * log10(b))
+// Topics: Implementation, Math
 
 #include <bits/stdc++.h>
 using namespace std;

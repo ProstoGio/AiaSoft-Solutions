@@ -1,6 +1,6 @@
 // AiaSoft #202 — უცნაური კიბე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Dynamic Programming, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

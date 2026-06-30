@@ -1,6 +1,6 @@
 // AiaSoft #219 — შავუჯროვანი კუ
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 

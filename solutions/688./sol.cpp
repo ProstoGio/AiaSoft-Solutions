@@ -1,6 +1,6 @@
 // AiaSoft #688 — მაქსიმალური პალინდრომი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Strings, Dynamic Programming
 
 #include <bits/stdc++.h>
 using namespace std;

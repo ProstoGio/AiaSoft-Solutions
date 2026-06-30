@@ -1,6 +1,6 @@
 // AiaSoft #608 — რიცხვების XOR - 2
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Bit Manipulation
 
 #include <bits/stdc++.h>
 

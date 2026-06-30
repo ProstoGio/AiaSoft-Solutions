@@ -1,6 +1,6 @@
 // AiaSoft #704 — ინტერვალის ჯამი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + Q)
+// Topics: Prefix Sums, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

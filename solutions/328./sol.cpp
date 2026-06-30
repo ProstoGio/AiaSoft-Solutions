@@ -1,6 +1,6 @@
 // AiaSoft #328 — ლუწი რიცხვები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Math
 
 #include <bits/stdc++.h>
 

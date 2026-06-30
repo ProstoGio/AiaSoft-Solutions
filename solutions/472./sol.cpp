@@ -1,6 +1,6 @@
 // AiaSoft #472 — ოთახის ფართობი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N²)
+// Topics: Graphs, Grid, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

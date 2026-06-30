@@ -1,6 +1,6 @@
 // AiaSoft #475 — ორის ხარისხების ჯამი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + max(ai))
+// Topics: Implementation, Math, Bit Manipulation
 
 #include<bits/stdc++.h>
 using namespace std;

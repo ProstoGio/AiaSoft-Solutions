@@ -1,6 +1,6 @@
 // AiaSoft #920 — წყალდიდობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + M)
+// Topics: Graphs, Recursion
 
 #include <bits/stdc++.h>
 using namespace std;

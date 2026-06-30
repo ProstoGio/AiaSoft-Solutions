@@ -1,6 +1,6 @@
 // AiaSoft #253 — დიპლომები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log(max(w, h) * n))
+// Topics: Binary Search, Math
 
 #include <bits/stdc++.h>
 #define ll long long

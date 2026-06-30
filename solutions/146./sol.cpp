@@ -1,6 +1,6 @@
 // AiaSoft #146 — სამკუთხედის ფართობი (გვერდებით)
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Geometry, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

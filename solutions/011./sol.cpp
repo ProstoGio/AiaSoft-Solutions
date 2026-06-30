@@ -1,6 +1,6 @@
 // AiaSoft #011 — საყვარელი რიცხვები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Greedy
 
 #include <bits/stdc++.h>
 using namespace std;

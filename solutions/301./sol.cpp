@@ -1,6 +1,6 @@
 // AiaSoft #301 — ლაბირინთი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N * M)
+// Topics: Graphs, Grid
 
 #include <bits/stdc++.h>
 using namespace std;

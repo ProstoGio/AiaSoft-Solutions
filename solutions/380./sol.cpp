@@ -1,6 +1,6 @@
 // AiaSoft #380 — მთელი წერტილები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log(min(|x1-x2|, |y1-y2|)))
+// Topics: Math, Number Theory, Geometry
 
 #include <bits/stdc++.h>
 using namespace std;

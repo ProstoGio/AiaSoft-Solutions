@@ -1,6 +1,6 @@
 // AiaSoft #813 — სიმეტრიულის გამყოფები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(sqrt(N))
+// Topics: Math, Implementation, Number Theory
 
 #include <bits/stdc++.h>
 using namespace std;

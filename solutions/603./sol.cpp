@@ -1,6 +1,6 @@
 // AiaSoft #603 — მონეტების ჯამი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n * Σx)
+// Topics: Dynamic Programming
 
 #include<bits/stdc++.h>
 using namespace std;

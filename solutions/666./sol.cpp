@@ -1,6 +1,6 @@
 // AiaSoft #666 — ლურსმნები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Dynamic Programming, Sorting
 
 #include <bits/stdc++.h>
 using namespace std;

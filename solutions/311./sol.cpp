@@ -1,6 +1,6 @@
 // AiaSoft #311 — ძლიერი სამეფო
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N³)
+// Topics: Graphs
 
 #include <bits/stdc++.h>
 using namespace std;

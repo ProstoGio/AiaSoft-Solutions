@@ -1,6 +1,6 @@
 // AiaSoft #916 — კომპილატორის ახალი ვერსია
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Strings
 
 #include <bits/stdc++.h>
 #include <algorithm>

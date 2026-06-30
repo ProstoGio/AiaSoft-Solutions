@@ -1,6 +1,6 @@
 // AiaSoft #417 — ორი ბაჭია
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Game Theory, Math
 
 #include <bits/stdc++.h>
 

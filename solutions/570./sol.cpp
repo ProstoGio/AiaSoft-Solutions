@@ -1,6 +1,6 @@
 // AiaSoft #570 — უახლოესი რიცხვი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(Q log N)
+// Topics: Binary Search, Sequences
 
 #include <bits/stdc++.h>
 using namespace std;

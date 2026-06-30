@@ -1,6 +1,6 @@
 // AiaSoft #262 — წიბოების რაოდენობა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n²)
+// Topics: Implementation, Graphs
 
 #include <bits/stdc++.h>
 using namespace std;

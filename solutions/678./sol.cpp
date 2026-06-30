@@ -1,6 +1,6 @@
 // AiaSoft #678 — დაშიფრული წერილი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n^2)
+// Topics: Strings, Implementation, Sets
 
 #include <bits/stdc++.h>
 using namespace std;

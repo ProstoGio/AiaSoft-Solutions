@@ -1,6 +1,6 @@
 // AiaSoft #622 — სანაყინე
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Math, Implementation
 
 #include <iostream>
 using namespace std;

@@ -1,6 +1,6 @@
 // AiaSoft #540 — უდიდესი AND
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log max(ai))
+// Topics: Bit Manipulation, Greedy
 
 #include <bits/stdc++.h>
 using namespace std;

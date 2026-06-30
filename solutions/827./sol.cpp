@@ -1,6 +1,6 @@
 // AiaSoft #827 — პალინდრომია?
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Strings, Implementation
 
 #include <bits/stdc++.h>
 #include <algorithm>

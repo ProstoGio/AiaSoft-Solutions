@@ -1,6 +1,6 @@
 // AiaSoft #234 — მოზაიკა
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n³)
+// Topics: Implementation, Grid
 
 #include <bits/stdc++.h>
 using namespace std;

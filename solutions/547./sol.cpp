@@ -1,6 +1,6 @@
 // AiaSoft #547 — ფოთლები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Graphs, Trees, Implementation
 
 #include <bits/stdc++.h>
 #define ll long long

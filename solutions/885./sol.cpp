@@ -1,6 +1,6 @@
 // AiaSoft #885 — წრის ფართობი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Geometry
 
 #include <bits/stdc++.h>
 using namespace std;

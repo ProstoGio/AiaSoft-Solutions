@@ -1,6 +1,6 @@
 // AiaSoft #419 — ავზი
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Greedy
 
 #include <bits/stdc++.h>
 

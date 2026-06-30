@@ -1,6 +1,6 @@
 // AiaSoft #148 — განსხვავებული რიცხვების რაოდენობა 2
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n log n)
+// Topics: Implementation, Sets
 
 #include <bits/stdc++.h>
 

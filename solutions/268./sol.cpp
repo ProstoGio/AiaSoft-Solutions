@@ -1,6 +1,6 @@
 // AiaSoft #268 — ციკლი გრაფში
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(m * α(n))
+// Topics: Graphs, Sets
 
 #include <bits/stdc++.h>
 using namespace std;

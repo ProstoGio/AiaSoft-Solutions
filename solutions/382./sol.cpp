@@ -1,6 +1,6 @@
 // AiaSoft #382 — საგუშაგოები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(N + M)
+// Topics: Graphs, Greedy
 
 #include <bits/stdc++.h>
 

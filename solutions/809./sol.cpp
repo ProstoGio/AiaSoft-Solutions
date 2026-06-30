@@ -1,6 +1,6 @@
 // AiaSoft #809 — 1 და 7
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(log x)
+// Topics: Implementation, Strings
 
 #include <iostream>
 #include <string>

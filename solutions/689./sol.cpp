@@ -1,6 +1,6 @@
 // AiaSoft #689 — ფერადი კარტები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Math, Implementation
 
 a, b=map(int, input().split())
 sum=a+b

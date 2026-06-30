@@ -1,6 +1,6 @@
 // AiaSoft #737 — ცვლილება რიცხვში
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(n)
+// Topics: Implementation, Greedy, Strings
 
 #include <bits/stdc++.h>
 using namespace std;

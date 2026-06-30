@@ -1,6 +1,6 @@
 // AiaSoft #829 — კატო და საყვარელი სიმბოლოები
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(|S| * |K|)
+// Topics: Strings, Implementation
 
 #include <bits/stdc++.h>
 using namespace std;

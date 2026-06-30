@@ -1,6 +1,6 @@
 // AiaSoft #412 — ავტობუსის გაჩერება
-// Complexity: O(?)
-// Topics: <!-- Topic1, Topic2 -->
+// Complexity: O(1)
+// Topics: Implementation, Math, Greedy
 
 #include <iostream>
 #include <algorithm>
