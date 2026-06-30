@@ -20,7 +20,8 @@ README_TEMPLATE = """\
 | File | Description |
 |------|-------------|
 | [`statement.md`](statement.md) | Problem statement |
-| [`explanation.md`](explanation.md) | Approach & analysis |
+| [`explanation-en.md`](explanation-en.md) | Approach & analysis (English) |
+| [`explanation-ge.md`](explanation-ge.md) | განმარტება (ქართულად) |
 | [`sol.cpp`](sol.cpp) | C++ solution |
 
 ---
@@ -62,7 +63,7 @@ STATEMENT_TEMPLATE = """\
 ```
 """
 
-EXPLANATION_TEMPLATE = """\
+EXPLANATION_EN_TEMPLATE = """\
 # Explanation — {num}. <!-- problem name -->
 
 ## Approach
@@ -87,6 +88,33 @@ EXPLANATION_TEMPLATE = """\
 ## Walkthrough
 
 <!-- optional: trace through a sample input step by step -->
+"""
+
+EXPLANATION_GE_TEMPLATE = """\
+# განმარტება — {num}. <!-- პრობლემის სახელი -->
+
+## მიდგომა
+
+<!-- ახსენით თქვენი სტრატეგია მარტივ ენაწე -->
+
+## სირთულე
+
+| | |
+|-|--|
+| დრო | O(?) |
+| მეხსიერება | O(?) |
+
+## მთავარი დაკვირვებები
+
+- <!-- პირველი დაკვირვება -->
+
+## ხშირი შეცდომები
+
+- <!-- არასავალდებულო -->
+
+## ნაბიჯ-ნაბიჯ ახსნა
+
+<!-- არასავალდებულო: გაიარეთ მაგალითი ნაბიჯ-ნაბიჯ -->
 """
 
 SOL_TEMPLATE = """\
@@ -124,10 +152,11 @@ def main():
         os.makedirs(folder)
 
         files = {
-            "README.md":     README_TEMPLATE.format(num=num),
-            "statement.md":  STATEMENT_TEMPLATE.format(num=num),
-            "explanation.md": EXPLANATION_TEMPLATE.format(num=num),
-            "sol.cpp":       SOL_TEMPLATE.format(num=num),
+            "README.md":        README_TEMPLATE.format(num=num),
+            "statement.md":     STATEMENT_TEMPLATE.format(num=num),
+            "explanation-en.md": EXPLANATION_EN_TEMPLATE.format(num=num),
+            "explanation-ge.md": EXPLANATION_GE_TEMPLATE.format(num=num),
+            "sol.cpp":          SOL_TEMPLATE.format(num=num),
         }
 
         for filename, content in files.items():

@@ -30,7 +30,8 @@
 | File | Description |
 |------|-------------|
 | [`statement.md`](statement.md) | Problem statement |
-| [`explanation.md`](explanation.md) | Approach & analysis |
+| [`explanation-en.md`](explanation-en.md) | Approach & analysis (English) |
+| [`explanation-ge.md`](explanation-ge.md) | განმარტება (ქართულად) |
 | [`sol.cpp`](sol.cpp) | C++ solution |
 
 ---
