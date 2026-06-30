@@ -11,15 +11,15 @@
   </tr>
   <tr>
     <td><b>Topic</b></td>
-    <td><!-- Topic --></td>
+    <td>Game Theory, Dynamic Programming, Bit Manipulation</td>
   </tr>
   <tr>
     <td><b>Difficulty</b></td>
-    <td><!-- Easy / Medium / Hard / Very Hard --></td>
+    <td>Medium</td>
   </tr>
   <tr>
     <td><b>Complexity</b></td>
-    <td><!-- O(?) --></td>
+    <td>O(T * n * 2^n)</td>
   </tr>
 </table>
 

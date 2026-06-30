@@ -61,13 +61,17 @@ def update_readme(table_str, count):
         content
     )
 
-    pattern = r'(## 🗂️ Problem Index\n\n)(.+?)(\n\n---)'
-    replacement = rf'\g<1>{table_str}\g<3>'
-    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    pattern = r'(##\s*[^\n]*Problem Index\s*\n+)(.+?)(\n+---)'
 
-    if new_content == content:
+    def do_replace(m):
+        return m.group(1) + table_str + m.group(3)
+
+    match = re.search(pattern, content, flags=re.DOTALL)
+    if not match:
         print("⚠️  Could not find '## 🗂️ Problem Index' in README.md")
         return
+
+    new_content = re.sub(pattern, do_replace, content, flags=re.DOTALL)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(new_content)
