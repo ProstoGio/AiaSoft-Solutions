@@ -1,10 +1,12 @@
 import os
 import re
+import json
 
 # ==================== CONFIGURATION ====================
-REPO_ROOT    = "."           # root of your repo
+REPO_ROOT     = "."
 SOLUTIONS_DIR = "solutions"
-README_PATH  = "README.md"
+README_PATH   = "README.md"
+PROGRESS_FILE = "classify_progress.json"
 # =======================================================
 
 def is_solved(folder_path):
@@ -12,71 +14,59 @@ def is_solved(folder_path):
     if not os.path.exists(sol_path):
         return False
     with open(sol_path, encoding="utf-8") as f:
-        content = f.read()
-    return "your solution here" not in content
+        return "your solution here" not in f.read()
 
-def get_problem_info(folder_path, folder_name):
-    # extract problem number from folder name e.g. "042."
-    num_str = folder_name.rstrip(".")
-    try:
-        num = int(num_str)
-    except ValueError:
-        return None
-
-    padded = num_str.zfill(3)
-
-    # try to read title from the problem's README.md
+def get_title(folder_path):
     readme_path = os.path.join(folder_path, "README.md")
-    title = None
-    if os.path.exists(readme_path):
-        with open(readme_path, encoding="utf-8") as f:
-            first_line = f.readline().strip()
-        # first line is like: # 042. პრობლემის სახელი
-        match = re.match(r'^#\s*\d+\.\s*(.+)$', first_line)
-        if match:
-            title = match.group(1).strip()
-            # ignore placeholder
-            if "problem name" in title.lower() or title == "":
-                title = None
+    if not os.path.exists(readme_path):
+        return None
+    with open(readme_path, encoding="utf-8") as f:
+        first_line = f.readline().strip()
+    match = re.match(r'^#\s*\d+\.\s*(.+)$', first_line)
+    if match:
+        title = match.group(1).strip()
+        if "problem name" not in title.lower() and title:
+            return title
+    return None
 
-    return {
-        "num": num,
-        "padded": padded,
-        "title": title or "<!-- name -->",
-        "folder": folder_name,
-    }
+def load_progress():
+    if os.path.exists(PROGRESS_FILE):
+        with open(PROGRESS_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
 
-def build_table(solved):
+def build_table(solved, progress):
     lines = [
         "| # | Problem | Topics | Difficulty |",
         "|---|---------|--------|------------|",
     ]
     for p in solved:
-        folder_encoded = p["folder"].replace(" ", "%20")
-        link = f"[{p['padded']}](solutions/{folder_encoded})"
-        title = p["title"]
-        lines.append(f"| {link} | {title} | | |")
+        pid     = str(p["num"])
+        folder  = p["folder"].replace(" ", "%20")
+        link    = f"[{p['padded']}](solutions/{folder})"
+        title   = p["title"] or "<!-- name -->"
+        info    = progress.get(pid, {})
+        topics  = ", ".join(info.get("topics", [])) or ""
+        diff    = info.get("difficulty", "")
+        lines.append(f"| {link} | {title} | {topics} | {diff} |")
     return "\n".join(lines)
 
 def update_readme(table_str, count):
     with open(README_PATH, encoding="utf-8") as f:
         content = f.read()
 
-    # update the badge count
     content = re.sub(
         r'problems%20solved-\d+-',
         f'problems%20solved-{count}-',
         content
     )
 
-    # replace the table between ## 🗂️ Problem Index and the next ---
     pattern = r'(## 🗂️ Problem Index\n\n)(.+?)(\n\n---)'
     replacement = rf'\g<1>{table_str}\g<3>'
     new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
     if new_content == content:
-        print("⚠️  Could not find the problem index section in README.md")
-        print("   Make sure it has '## 🗂️ Problem Index' as a heading.")
+        print("⚠️  Could not find '## 🗂️ Problem Index' in README.md")
         return
 
     with open(README_PATH, "w", encoding="utf-8") as f:
@@ -84,35 +74,36 @@ def update_readme(table_str, count):
 
 def main():
     solutions_path = os.path.join(REPO_ROOT, SOLUTIONS_DIR)
-
     if not os.path.exists(solutions_path):
-        print(f"❌ solutions/ folder not found at {solutions_path}")
+        print(f"❌ solutions/ folder not found.")
         return
 
-    solved = []
-    total = 0
+    progress = load_progress()
 
+    solved = []
     for folder_name in sorted(os.listdir(solutions_path)):
         folder_path = os.path.join(solutions_path, folder_name)
         if not os.path.isdir(folder_path):
             continue
         if not re.match(r'^\d+\.$', folder_name):
             continue
+        if not is_solved(folder_path):
+            continue
 
-        total += 1
-        if is_solved(folder_path):
-            info = get_problem_info(folder_path, folder_name)
-            if info:
-                solved.append(info)
+        num = int(folder_name.rstrip("."))
+        solved.append({
+            "num":    num,
+            "padded": str(num).zfill(3),
+            "title":  get_title(folder_path),
+            "folder": folder_name,
+        })
 
     solved.sort(key=lambda x: x["num"])
+    print(f"📊 {len(solved)} solved problems found.")
 
-    print(f"📊 {len(solved)} solved out of {total} total folders.")
-
-    table = build_table(solved)
+    table = build_table(solved, progress)
     update_readme(table, len(solved))
-
-    print(f"✅ README.md updated with {len(solved)} problems.")
+    print(f"✅ README.md updated.")
 
 if __name__ == "__main__":
     main()

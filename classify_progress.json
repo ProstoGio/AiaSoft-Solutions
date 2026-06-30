@@ -1,0 +1,2605 @@
+{
+  "1": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ორი რიცხვის ჯამი"
+  },
+  "8": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ბავშვები და სტრიქონები"
+  },
+  "11": {
+    "topics": [
+      "Implementation",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "საყვარელი რიცხვები"
+  },
+  "12": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "მართკუთხედი"
+  },
+  "13": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(Q * N)",
+    "title": "მოქმედებები ვექტორზე"
+  },
+  "14": {
+    "topics": [
+      "Graphs",
+      "Trees",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ლუწი ხე"
+  },
+  "22": {
+    "topics": [
+      "Graphs",
+      "Recursion",
+      "Sorting"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(m log m)",
+    "title": "ღრმად ძებნაში შესვლის და გამოსვლის დრო"
+  },
+  "25": {
+    "topics": [
+      "Sorting",
+      "Binary Search"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n log n)",
+    "title": "მასივი და მისი ორი ელემენტი"
+  },
+  "29": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ნულების ჯგუფები"
+  },
+  "33": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მასივის მაქსიმალური ელემენტი"
+  },
+  "35": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log(min(a, b)))",
+    "title": "ორი რიცხვის უდიდესი საერთო გამყოფი"
+  },
+  "43": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მასივის ქვესეგმენტის შეტრიალება"
+  },
+  "44": {
+    "topics": [
+      "Dynamic Programming",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n³)",
+    "title": "კუბიკების კიბე"
+  },
+  "46": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ათეულები და ასეულები"
+  },
+  "48": {
+    "topics": [
+      "Implementation",
+      "Strings",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "პირველკლასელი"
+  },
+  "51": {
+    "topics": [
+      "Sorting",
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n log n)",
+    "title": "შესაკრებთა წყვილების პოვნა"
+  },
+  "55": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N * M)",
+    "title": "გაფუჭებული ვაშლები"
+  },
+  "58": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n * m)",
+    "title": "ფხაჭუნა კატები"
+  },
+  "59": {
+    "topics": [
+      "Implementation",
+      "Sorting",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "კბილის ექიმი"
+  },
+  "62": {
+    "topics": [
+      "Implementation",
+      "Strings",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "პირველკლასელი (ოღონდ მეორე)"
+  },
+  "63": {
+    "topics": [
+      "Implementation",
+      "Strings",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ციფრების ჯამი"
+  },
+  "64": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ფრჩხილებიანი მეორეკლასელები"
+  },
+  "68": {
+    "topics": [
+      "Math",
+      "Implementation",
+      "Number Theory"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N)",
+    "title": "ბიოლოგიური რიტმები"
+  },
+  "76": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n + m)",
+    "title": "ეგოისტი ბავშვები"
+  },
+  "85": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "გამრავლება"
+  },
+  "86": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სტრიქონის სიგრძე"
+  },
+  "87": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "N რიცხვის ჯამი"
+  },
+  "88": {
+    "topics": [
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "გადაჭერი ლენტი"
+  },
+  "98": {
+    "topics": [
+      "Sorting",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "მაქსიმალური სხვაობა"
+  },
+  "106": {
+    "topics": [
+      "Implementation",
+      "Greedy",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ლიდერები"
+  },
+  "118": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(T * (M + N))",
+    "title": "ჯვარი"
+  },
+  "120": {
+    "topics": [
+      "Dynamic Programming",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n²)",
+    "title": "ყუთები"
+  },
+  "121": {
+    "topics": [
+      "Strings",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n^2)",
+    "title": "ციფრების ჯამი"
+  },
+  "122": {
+    "topics": [
+      "Implementation",
+      "Strings",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "სტრიქონი"
+  },
+  "123": {
+    "topics": [
+      "Strings",
+      "Recursion",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სტრიქონის შეტრიალება"
+  },
+  "126": {
+    "topics": [
+      "Dynamic Programming",
+      "Recursion",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ფიბონაჩის მიმდევრობა 1"
+  },
+  "136": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ქეთი და კოტე"
+  },
+  "138": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მასივი 1"
+  },
+  "139": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "პირველი ნომერი ცელქობა"
+  },
+  "140": {
+    "topics": [
+      "Sorting",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "მეორე ნომერი ცელქობა"
+  },
+  "141": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ბორანი"
+  },
+  "142": {
+    "topics": [
+      "Implementation",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ისევ ბორანი"
+  },
+  "145": {
+    "topics": [
+      "Math",
+      "Geometry"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სამკუთხედის ფართობი (კოორდინატებით)"
+  },
+  "146": {
+    "topics": [
+      "Math",
+      "Geometry",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სამკუთხედის ფართობი (გვერდებით)"
+  },
+  "147": {
+    "topics": [
+      "Implementation",
+      "Sorting"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "განსხვავებული რიცხვების რაოდენობა 1"
+  },
+  "148": {
+    "topics": [
+      "Implementation",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "განსხვავებული რიცხვების რაოდენობა 2"
+  },
+  "149": {
+    "topics": [
+      "Strings",
+      "Sets",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log k)",
+    "title": "განსხვავებული სიმბოლოების რაოდენობა"
+  },
+  "152": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ცათამბჯენი"
+  },
+  "176": {
+    "topics": [
+      "Dynamic Programming",
+      "Math",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კიბე"
+  },
+  "177": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ჩატეხილი კიბე 1"
+  },
+  "179": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(H * W)",
+    "title": "ცხრილი"
+  },
+  "180": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N * L^2)",
+    "title": "სიტყვები"
+  },
+  "188": {
+    "topics": [
+      "Dynamic Programming",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ჩქარა, ბაბი, ჩქარა!"
+  },
+  "196": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სიმბოლოთა ამომცნობი"
+  },
+  "197": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სიტყვების დათვლა"
+  },
+  "198": {
+    "topics": [
+      "Dynamic Programming",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "რეაქტიული ბაბი"
+  },
+  "202": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "უცნაური კიბე"
+  },
+  "203": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ბაბის უყვარს კომბოსტო"
+  },
+  "204": {
+    "topics": [
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "კალია გრასი"
+  },
+  "206": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კენტები ლუწების წინააღმდეგ"
+  },
+  "207": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ლებრონი და კალათბურთი"
+  },
+  "211": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სიმბოლო"
+  },
+  "212": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სიმბოლოთა ჯაჭვი"
+  },
+  "213": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სიმბოლოს გარდაქმნა"
+  },
+  "214": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "შეცვალეთ სიმბოლოები"
+  },
+  "215": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "მატრიცის შევსება"
+  },
+  "216": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "მარცხენა მთავარი დიაგონალი"
+  },
+  "217": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "მთავარი დიაგონალები"
+  },
+  "219": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "შავუჯროვანი კუ"
+  },
+  "221": {
+    "topics": [
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ქალაქი ჩე"
+  },
+  "224": {
+    "topics": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "გადათხრილი გზები"
+  },
+  "225": {
+    "topics": [
+      "Dynamic Programming",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n * m)",
+    "title": "ხალისოს დერეფანი"
+  },
+  "227": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "შუათანა ძმა"
+  },
+  "234": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n³)",
+    "title": "მოზაიკა"
+  },
+  "245": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ძაღლების თავშესაფარი"
+  },
+  "246": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სამი კუ"
+  },
+  "247": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "უდიდესი ციფრი"
+  },
+  "248": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მასივის შემობრუნება"
+  },
+  "253": {
+    "topics": [
+      "Binary Search",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(log(max(w, h) * n))",
+    "title": "დიპლომები"
+  },
+  "254": {
+    "topics": [
+      "Implementation",
+      "Sorting"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "მასივის დალაგება - 1"
+  },
+  "256": {
+    "topics": [
+      "Implementation",
+      "Binary Search"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "რიცხვის ძიება მასივში - 1"
+  },
+  "257": {
+    "topics": [
+      "Binary Search",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(M log N)",
+    "title": "რიცხვის ძიება მასივში - 2"
+  },
+  "260": {
+    "topics": [
+      "Implementation",
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "მარყუჟი"
+  },
+  "261": {
+    "topics": [
+      "Implementation",
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N² + M)",
+    "title": "მეზობლების მატრიცა"
+  },
+  "262": {
+    "topics": [
+      "Implementation",
+      "Graphs"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "წიბოების რაოდენობა"
+  },
+  "263": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "წვეროების რაოდენობა კომპონენტში"
+  },
+  "264": {
+    "topics": [
+      "Graphs",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(M * α(N))",
+    "title": "კომპონენტების რაოდენობა"
+  },
+  "265": {
+    "topics": [
+      "Graphs",
+      "Implementation",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "უდიდესი კომპონენტი"
+  },
+  "266": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n²)",
+    "title": "უდიდესი ზრდადი ქვემიმდევრობა"
+  },
+  "268": {
+    "topics": [
+      "Graphs",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(m * α(n))",
+    "title": "ციკლი გრაფში"
+  },
+  "269": {
+    "topics": [
+      "Graphs",
+      "Trees",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "ხე"
+  },
+  "274": {
+    "topics": [
+      "Graphs",
+      "Trees",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(M * α(N))",
+    "title": "ციკლები გრაფში - 2"
+  },
+  "275": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "ცხოველები - 1"
+  },
+  "286": {
+    "topics": [
+      "Graphs",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n^2)",
+    "title": "სინონიმები"
+  },
+  "287": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "არჩევნები"
+  },
+  "297": {
+    "topics": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "უმოკლესი გზა"
+  },
+  "298": {
+    "topics": [
+      "Graphs",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N*M)",
+    "title": "ცხენის სვლა"
+  },
+  "299": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კიბე და ბურთულა"
+  },
+  "300": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ფასიანი კიბე"
+  },
+  "301": {
+    "topics": [
+      "Graphs",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N * M)",
+    "title": "ლაბირინთი"
+  },
+  "306": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "მარიამის დაბადების დღე"
+  },
+  "307": {
+    "topics": [
+      "Prefix Sums",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N * M + Q)",
+    "title": "ჯამი მატრიცაში"
+  },
+  "309": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "შუა ციფრები"
+  },
+  "311": {
+    "topics": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N³)",
+    "title": "ძლიერი სამეფო"
+  },
+  "312": {
+    "topics": [
+      "Graphs"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(M * (N + M))",
+    "title": "უბრალოდ უმოკლესი მანძილი"
+  },
+  "313": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "0 და 1"
+  },
+  "315": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ირაკლი და მიმდევრობა"
+  },
+  "316": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ნაყინები"
+  },
+  "318": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "კეთილი ფერია"
+  },
+  "320": {
+    "topics": [
+      "Graphs",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N*M)",
+    "title": "ტალღა მატრიცაში"
+  },
+  "323": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სიმბოლოს რიგითი ნომერი"
+  },
+  "327": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კენტი რიცხვები"
+  },
+  "328": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ლუწი რიცხვები"
+  },
+  "329": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კენტი რიცხვები 2"
+  },
+  "330": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კენტი რიცხვები 3"
+  },
+  "331": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "გამყოფები"
+  },
+  "332": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "გამყოფები 1"
+  },
+  "333": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "გამყოფები 2"
+  },
+  "334": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ბაბის სიმბოლო"
+  },
+  "336": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "მთავრული სიმბოლო"
+  },
+  "337": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "რეგისტრის ცვლილება"
+  },
+  "338": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "საბავშვო მოედანი 1"
+  },
+  "339": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "საბავშვო მოედანი 2"
+  },
+  "346": {
+    "topics": [
+      "Dynamic Programming",
+      "Strings"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "შეტყობინება"
+  },
+  "347": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ბაბი კინოთეატრში"
+  },
+  "348": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ინდექსები"
+  },
+  "349": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "იპოვე მინიმალური"
+  },
+  "350": {
+    "topics": [
+      "Implementation",
+      "Sorting",
+      "Binary Search"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "იძებნება თუ არა?"
+  },
+  "361": {
+    "topics": [
+      "Math",
+      "Recursion",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log n)",
+    "title": "ციფრთა ჯამი"
+  },
+  "362": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log n)",
+    "title": "მკაცრი ლუწი რიცხვი"
+  },
+  "364": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ინიციალები"
+  },
+  "365": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "გაასწორეთ წინადადება"
+  },
+  "366": {
+    "topics": [
+      "Implementation",
+      "Recursion",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log n)",
+    "title": "რამდენი ნულია?"
+  },
+  "373": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "გამოტოვებული რიცხვი"
+  },
+  "374": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(L)",
+    "title": "რიცხვთა ნაერთი"
+  },
+  "376": {
+    "topics": [
+      "Graphs",
+      "Sets",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(M * (α(N) + N))",
+    "title": "კომპონენტები"
+  },
+  "380": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Geometry"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log(min(|x1-x2|, |y1-y2|)))",
+    "title": "მთელი წერტილები"
+  },
+  "382": {
+    "topics": [
+      "Graphs",
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "საგუშაგოები"
+  },
+  "389": {
+    "topics": [
+      "Math",
+      "Implementation",
+      "Number Theory"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სრულყოფილი რიცხვი"
+  },
+  "390": {
+    "topics": [
+      "Math",
+      "Implementation",
+      "Number Theory"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ნაკლული და ნამეტი რიცხვები"
+  },
+  "403": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ბატები და ბატკნები"
+  },
+  "404": {
+    "topics": [
+      "Game Theory",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "აბა, ვინ მოიგებს ??"
+  },
+  "409": {
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log n)",
+    "title": "გუგლიკო და შერჩევა"
+  },
+  "412": {
+    "topics": [
+      "Implementation",
+      "Math",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ავტობუსის გაჩერება"
+  },
+  "414": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "უდიდესი რიცხვი"
+  },
+  "415": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "რა დღეა?"
+  },
+  "416": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "გივიკო, ნინიკო და კანფეტები"
+  },
+  "417": {
+    "topics": [
+      "Game Theory",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(1)",
+    "title": "ორი ბაჭია"
+  },
+  "419": {
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ავზი"
+  },
+  "423": {
+    "topics": [
+      "Bit Manipulation",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log² N)",
+    "title": "ორი ერთიანი"
+  },
+  "424": {
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ვინ არის მარტო?"
+  },
+  "425": {
+    "topics": [
+      "Strings",
+      "Recursion",
+      "Sorting"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n² log n)",
+    "title": "სიმრავლეები"
+  },
+  "430": {
+    "topics": [
+      "Dynamic Programming",
+      "Grid",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n²)",
+    "title": "ჭკვიანი თხუნელა"
+  },
+  "446": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დაკარგული რიცხვი"
+  },
+  "452": {
+    "topics": [
+      "Dynamic Programming",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n * sqrt(n))",
+    "title": "კვადრების ქვეყანა"
+  },
+  "458": {
+    "topics": [
+      "Math",
+      "Implementation",
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "პასკალის სამკუთხედი"
+  },
+  "465": {
+    "topics": [
+      "Graphs",
+      "Recursion",
+      "Sorting"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N + M)",
+    "title": "უდიდესი კომპონენტის წვეროები"
+  },
+  "468": {
+    "topics": [
+      "Math",
+      "Geometry"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ირაკლის კვადრატი"
+  },
+  "470": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "0-ები და 1-ები"
+  },
+  "472": {
+    "topics": [
+      "Graphs",
+      "Grid",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N²)",
+    "title": "ოთახის ფართობი"
+  },
+  "473": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "არითმეტიკული ქვემიმდევრობა"
+  },
+  "475": {
+    "topics": [
+      "Implementation",
+      "Math",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + max(ai))",
+    "title": "ორის ხარისხების ჯამი"
+  },
+  "476": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n²)",
+    "title": "უდიდესი ზრდადი ქვემიმდევრობა - 2"
+  },
+  "479": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სამშენებლო წელიწადი"
+  },
+  "502": {
+    "topics": [
+      "Math",
+      "Number Theory"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log(min(n, m)))",
+    "title": "პიცა"
+  },
+  "511": {
+    "topics": [
+      "Math",
+      "Recursion",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log n)",
+    "title": "2 - ის ხარისხი"
+  },
+  "514": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "მიიღე მესამე"
+  },
+  "528": {
+    "topics": [
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ფერადი ბურთები"
+  },
+  "530": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n + m)",
+    "title": "გზის აშენება"
+  },
+  "532": {
+    "topics": [
+      "Graphs",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N * M)",
+    "title": "მოხეტიალე ცხენი"
+  },
+  "538": {
+    "topics": [
+      "Recursion",
+      "Grid"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(8^8)",
+    "title": "ჭადრაკის დაფა და დედოფლები"
+  },
+  "540": {
+    "topics": [
+      "Bit Manipulation",
+      "Greedy"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n log max(ai))",
+    "title": "უდიდესი AND"
+  },
+  "542": {
+    "topics": [
+      "Math",
+      "Bit Manipulation",
+      "Strings"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(log n)",
+    "title": "ჯადოქარი ბიტუნა"
+  },
+  "546": {
+    "topics": [
+      "Graphs",
+      "Trees"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ყველაზე შორს"
+  },
+  "547": {
+    "topics": [
+      "Graphs",
+      "Trees",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ფოთლები"
+  },
+  "548": {
+    "topics": [
+      "Graphs",
+      "Grid",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n * m)",
+    "title": "ოთახების დათვლა"
+  },
+  "558": {
+    "topics": [
+      "Implementation",
+      "Greedy",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ზრდადი მიმდევრობა"
+  },
+  "570": {
+    "topics": [
+      "Binary Search",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(Q log N)",
+    "title": "უახლოესი რიცხვი"
+  },
+  "571": {
+    "topics": [
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ხაჭაპური"
+  },
+  "573": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სუნთქვა"
+  },
+  "576": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ლუწი ინდექსები"
+  },
+  "587": {
+    "topics": [
+      "Game Theory",
+      "Dynamic Programming",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(T * n * 2^n)",
+    "title": "თამაში გადანაცვლებაზე"
+  },
+  "603": {
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n * Σx)",
+    "title": "მონეტების ჯამი"
+  },
+  "604": {
+    "topics": [
+      "Prefix Sums",
+      "Grid",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N² + Q)",
+    "title": "შეკითხვები ტყეზე"
+  },
+  "605": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log n)",
+    "title": "გადაიყვანე ორობითში"
+  },
+  "606": {
+    "topics": [
+      "Implementation",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დათვალე ერთები"
+  },
+  "607": {
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "რიცხვების XOR - 1"
+  },
+  "608": {
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(1)",
+    "title": "რიცხვების XOR - 2"
+  },
+  "609": {
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "i-ური ბიტი"
+  },
+  "611": {
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "XOR ოპერაცია"
+  },
+  "616": {
+    "topics": [
+      "Bit Manipulation",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(Q)",
+    "title": "ბიტებით თამაში"
+  },
+  "617": {
+    "topics": [
+      "Geometry",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "მართკუთხედების თანაკვეთა - 1"
+  },
+  "618": {
+    "topics": [
+      "Geometry",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მართკუთხედების თანაკვეთა - 2"
+  },
+  "620": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences",
+      "Math"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "მშვიდი მიმდევრობა"
+  },
+  "622": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სანაყინე"
+  },
+  "623": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სტრიქონები წიგნში"
+  },
+  "624": {
+    "topics": [
+      "Graphs",
+      "Trees"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "წიბოს ხარისხი"
+  },
+  "627": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(k)",
+    "title": "ნიკოს მიმდევრობა - 1"
+  },
+  "628": {
+    "topics": [
+      "Graphs",
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n + m)",
+    "title": "კლონების არმია"
+  },
+  "662": {
+    "topics": [
+      "Graphs",
+      "Trees",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n + m)",
+    "title": "ტყე"
+  },
+  "666": {
+    "topics": [
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n log n)",
+    "title": "ლურსმნები"
+  },
+  "667": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ბაბიმ თვლა ისწავლა"
+  },
+  "668": {
+    "topics": [
+      "Dynamic Programming",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ღობის შეღებვა"
+  },
+  "670": {
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n * k)",
+    "title": "ბანკომატი"
+  },
+  "671": {
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n)",
+    "title": "ბილეთების გაყიდვა"
+  },
+  "678": {
+    "topics": [
+      "Strings",
+      "Implementation",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n^2)",
+    "title": "დაშიფრული წერილი"
+  },
+  "684": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "კიტრი და პომიდორი"
+  },
+  "688": {
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n²)",
+    "title": "მაქსიმალური პალინდრომი"
+  },
+  "689": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ფერადი კარტები"
+  },
+  "691": {
+    "topics": [
+      "Sorting",
+      "Greedy",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "უცნაური დალაგება"
+  },
+  "692": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log x)",
+    "title": "ორადი მეზობლები"
+  },
+  "704": {
+    "topics": [
+      "Prefix Sums",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N + Q)",
+    "title": "ინტერვალის ჯამი"
+  },
+  "711": {
+    "topics": [
+      "Graphs",
+      "Implementation"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(V + E)",
+    "title": "რიცხვებით თამაში"
+  },
+  "719": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n²)",
+    "title": "მძლავრად ბმული კომპონენტების რაოდენობა"
+  },
+  "734": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "შებრუნებული რიცხვი"
+  },
+  "737": {
+    "topics": [
+      "Implementation",
+      "Greedy",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ცვლილება რიცხვში"
+  },
+  "738": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "ხელფასები"
+  },
+  "743": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log(max(a, b)))",
+    "title": "ციფრთა ჯამი - 1"
+  },
+  "745": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O((b-a) * log10(b))",
+    "title": "ციფრთა ჯამი - 2"
+  },
+  "754": {
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ფაქტორიალი"
+  },
+  "755": {
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "2-ის ახარისხება"
+  },
+  "757": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მიმდევრობა"
+  },
+  "762": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კონგრუენტულობა"
+  },
+  "765": {
+    "topics": [
+      "Implementation",
+      "Prefix Sums"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M + max(V))",
+    "title": "დიაპაზონი"
+  },
+  "766": {
+    "topics": [
+      "Math",
+      "Sequences",
+      "Number Theory"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(Q)",
+    "title": "ჯამი"
+  },
+  "782": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სოკო"
+  },
+  "783": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "პირველობა რეიტინგში"
+  },
+  "786": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n * sqrt(n))",
+    "title": "მარტივი რიცხვები N-მდე"
+  },
+  "787": {
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N * max(A))",
+    "title": "დაადგინე არის თუ არა მარტივი(მარტივი ვერსია)"
+  },
+  "788": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ვინ დგას შუაში?"
+  },
+  "789": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ლუწი მასივი"
+  },
+  "790": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n^2)",
+    "title": "ბევრად ბევრი"
+  },
+  "798": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "დათვალე ბურთები"
+  },
+  "799": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "კარგი სამეული"
+  },
+  "803": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "კრუიზი ავტობუსებით"
+  },
+  "809": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log x)",
+    "title": "1 და 7"
+  },
+  "811": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მასივის ორმოების რაოდენობა"
+  },
+  "812": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "უდიდესი კენტი"
+  },
+  "813": {
+    "topics": [
+      "Math",
+      "Implementation",
+      "Number Theory"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(sqrt(N))",
+    "title": "სიმეტრიულის გამყოფები"
+  },
+  "814": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ლამაზი წევრები"
+  },
+  "816": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ტყუპი წევრები"
+  },
+  "817": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მეგობრული წევრები"
+  },
+  "818": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ელემენტები დიაპაზონიდან"
+  },
+  "821": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ნულების გადასმა"
+  },
+  "824": {
+    "topics": [
+      "Strings",
+      "Implementation",
+      "Sorting"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "ნინი და ხინკალი"
+  },
+  "826": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "სამნიშნას უდიდესი"
+  },
+  "827": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "პალინდრომია?"
+  },
+  "828": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კატო და საყვარელი სიმბოლო"
+  },
+  "829": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(|S| * |K|)",
+    "title": "კატო და საყვარელი სიმბოლოები"
+  },
+  "843": {
+    "topics": [
+      "Math",
+      "Number Theory"
+    ],
+    "difficulty": "Hard",
+    "complexity": "O(1)",
+    "title": "ევკლიდური საბავშვო ბაღი"
+  },
+  "849": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სად არის მინიმუმი?"
+  },
+  "850": {
+    "topics": [
+      "Implementation",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მინიმალური კენტი"
+  },
+  "854": {
+    "topics": [
+      "Strings",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "სრული პალინდრომი"
+  },
+  "860": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "მასივის კენტები"
+  },
+  "861": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "წაშალეთ სიმბოლო"
+  },
+  "862": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "ნახევარმატრიცა"
+  },
+  "863": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დაითვალე კენტები"
+  },
+  "864": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დაითვალე ლუწები"
+  },
+  "865": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კენტი რიცხვების ჯამი"
+  },
+  "866": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ლუწი რიცხვების ჯამი"
+  },
+  "867": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დაბეჭდე კენტები"
+  },
+  "868": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დაბეჭდე ლუწები"
+  },
+  "870": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "კარგი სამეული - 2"
+  },
+  "871": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "კარგი სამეული - 3"
+  },
+  "873": {
+    "topics": [
+      "Math",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "E = mc²"
+  },
+  "880": {
+    "topics": [
+      "Math",
+      "Geometry"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "გრძელი მოედანი"
+  },
+  "885": {
+    "topics": [
+      "Math",
+      "Geometry"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "წრის ფართობი"
+  },
+  "887": {
+    "topics": [
+      "Math",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "πრველი კენტების ჯამი"
+  },
+  "888": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "πბონაჩის მიმდევრობა"
+  },
+  "891": {
+    "topics": [
+      "Implementation",
+      "Greedy"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "დაითვალე ლიდერები"
+  },
+  "897": {
+    "topics": [
+      "Implementation",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n + q)",
+    "title": "სად არის პირველად?"
+  },
+  "900": {
+    "topics": [
+      "Sorting",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n log n)",
+    "title": "ორი მარტოხელა"
+  },
+  "901": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ერთის დამატება"
+  },
+  "902": {
+    "topics": [
+      "Strings",
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "ერთის გამოკლება"
+  },
+  "903": {
+    "topics": [
+      "Graphs",
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n^2)",
+    "title": "ქალაქ ბაიას მერი"
+  },
+  "905": {
+    "topics": [
+      "Implementation"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "ფიფქების სამკუთხედი"
+  },
+  "906": {
+    "topics": [
+      "Implementation",
+      "Sequences"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "ფიფქების სამკუთხედი -1"
+  },
+  "907": {
+    "topics": [
+      "Implementation",
+      "Grid"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n²)",
+    "title": "ფიფქების კვადრატი"
+  },
+  "912": {
+    "topics": [
+      "Implementation",
+      "Math"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(1)",
+    "title": "საახალწლო ნათურები"
+  },
+  "913": {
+    "topics": [
+      "Math",
+      "Number Theory"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(log(min(N, M)))",
+    "title": "მანდარინები და ფორთოხლები"
+  },
+  "916": {
+    "topics": [
+      "Implementation",
+      "Strings"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(n)",
+    "title": "კომპილატორის ახალი ვერსია"
+  },
+  "917": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(N + M)",
+    "title": "ჭიანჭველები"
+  },
+  "920": {
+    "topics": [
+      "Graphs",
+      "Recursion"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(N + M)",
+    "title": "წყალდიდობა"
+  },
+  "928": {
+    "topics": [
+      "Dynamic Programming",
+      "Sequences"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(n * m)",
+    "title": "მიმდევრობები"
+  },
+  "934": {
+    "topics": [
+      "Math",
+      "Number Theory"
+    ],
+    "difficulty": "Medium",
+    "complexity": "O(log(min(N, M)))",
+    "title": "დიდი რიცხვები"
+  },
+  "940": {
+    "topics": [
+      "Graphs",
+      "Sets"
+    ],
+    "difficulty": "Easy",
+    "complexity": "O(M * α(N))",
+    "title": "მარტივი ციკლები"
+  }
+}
