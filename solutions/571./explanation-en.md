@@ -1,24 +1,21 @@
-# Explanation — 571. <!-- problem name -->
+# Explanation — 571. ხაჭაპური
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is basically a classic geometry puzzle disguised as a coding problem. If you take a circle and cut it once through the center, you get two halves. Add another cut that also goes through the center, and you've got four pieces. It’s pretty simple—every single cut through the middle doubles the number of pieces because each line splits two existing regions into four.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(1) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Zero cuts leave you with one whole piece of khachapuri.
+- Any cut passing through the center creates two new regions from the existing ones, resulting in 2*N total slices.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting that 0 cuts still result in 1 piece, leading to a wrong output for N=0.

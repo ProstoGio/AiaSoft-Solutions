@@ -1,24 +1,21 @@
-# Explanation — 789. <!-- problem name -->
+# Explanation — 789. ლუწი მასივი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is as straightforward as it gets. I just read the numbers into an array, iterate through them, and check if each element is odd using the modulo operator. If it's odd, I just add one to turn it into an even number. That's all there is to it, really.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The modulo operator (%) is your best friend here; checking if a number is odd is just a quick 'a[i] % 2 != 0'.
+- Since we only need to update odd numbers, we can process the logic in a separate pass or even right after reading input.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Confusing the condition for odd numbers and accidentally modifying even numbers instead.

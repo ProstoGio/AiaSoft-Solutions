@@ -1,24 +1,22 @@
-# Explanation — 704. <!-- problem name -->
+# Explanation — 704. ინტერვალის ჯამი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+If you try to sum the numbers for every query from scratch, you'll hit O(N*Q) and the time limit will crush you. The trick is to precalculate the prefix sums in a 'dp' array where each index stores the total from the start up to that point. This way, the sum of any range [l, r] becomes a simple subtraction of two precomputed values. It’s a classic way to turn a slow range query into an O(1) operation.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(N + Q) |
+| Space | O(N) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Prefix sums transform range sum queries from O(N) linear scans into O(1) math.
+- Always use long long because summing up 2*10^5 elements of size 10^9 will definitely overflow a standard 32-bit int.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to handle 1-based indexing correctly, leading to off-by-one errors when subtracting.
+- Using int instead of long long, which causes overflow on large inputs.

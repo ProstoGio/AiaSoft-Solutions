@@ -1,24 +1,21 @@
-# Explanation — 260. <!-- problem name -->
+# Explanation — 260. მარყუჟი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This problem is basically checking the main diagonal of the adjacency matrix. If you look at how a graph is stored this way, the diagonal element at row 'i' and column 'i' represents whether there's a path from node 'i' back to itself. That's literally the definition of a loop. So, I just read the whole matrix into a 2D array and checked if any g[i][i] equals 1. If I spot even one, I print 'YES' and bail out early, otherwise it's a solid 'NO'.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n²) |
+| Space | O(n²) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The main diagonal of an adjacency matrix holds the self-loop information.
+- You don't need to check every single element; if you find a 1 on the diagonal, you're done.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Accidentally trying to loop through all N*N cells and getting mixed up with indices or forgetting to return early.

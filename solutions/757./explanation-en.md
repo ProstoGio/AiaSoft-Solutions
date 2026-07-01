@@ -1,24 +1,21 @@
-# Explanation — 757. <!-- problem name -->
+# Explanation — 757. მიმდევრობა
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is as straightforward as it gets. You don't need to store all the heights in an array because the problem only asks for a count. I just keep a running total and increment it whenever the current input is strictly less than Misho's height K. It saves memory and keeps the code super clean.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- You don't need to save the input into an array; you can just process each number on the fly.
+- The condition is strictly 'less than', so make sure you don't accidentally include students who are exactly the same height as Misho.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Using <= instead of < in the comparison check.

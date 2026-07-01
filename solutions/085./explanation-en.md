@@ -1,24 +1,21 @@
-# Explanation — 085. <!-- problem name -->
+# Explanation — 085. გამრავლება
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This is about as straightforward as it gets. You just read two integers from the input stream and return their product. I wrapped the multiplication in a small function just to keep things organized, but honestly, even a one-liner would work. Since the constraints are tiny, the standard `int` type handles the product without any risk of overflow.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(1) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- No need to overthink data types since the constraints are extremely small.
+- A simple multiplication operator handles everything for you.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Overcomplicating the logic by using unnecessary loops or conditional checks.

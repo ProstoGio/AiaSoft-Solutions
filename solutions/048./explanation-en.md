@@ -1,24 +1,21 @@
-# Explanation — 048. <!-- problem name -->
+# Explanation — 048. პირველკლასელი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+Since the input is always a tiny, three-character string, we don't need any complex parsing. We just grab the characters at indices 0 and 2 for the numbers and index 1 for the operator. Converting a char digit to an int is dead simple—just subtract the ASCII value of '0', which is 48. After that, it's just a basic if-else check to decide whether to add or subtract.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(1) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Subtracting 48 (or '0') from a character digit is the classic way to get its integer value in C++.
+- The string index is fixed since the problem guarantees a three-character format.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to convert characters to integers, which leads to adding/subtracting ASCII values instead of the numbers themselves.

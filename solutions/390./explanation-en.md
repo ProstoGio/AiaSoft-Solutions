@@ -1,24 +1,21 @@
-# Explanation — 390. <!-- problem name -->
+# Explanation — 390. ნაკლული და ნამეტი რიცხვები
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+The core of the problem is simply finding all proper divisors and checking their sum. Since the input constraint goes up to 10⁵, a simple linear loop up to n/2 is perfectly fast enough. I just track the running sum of all numbers that divide n evenly, then perform a quick comparison against the original number to print the right label.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- A proper divisor can never be larger than n/2, which is why the loop condition p <= x/2 works perfectly.
+- The special case where the sum equals the number (like 6) is handled by the 'none' condition, just as the problem specifies.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Starting the divisor loop from 0, which would cause a division by zero error.

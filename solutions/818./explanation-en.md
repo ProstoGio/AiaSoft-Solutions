@@ -1,24 +1,21 @@
-# Explanation — 818. <!-- problem name -->
+# Explanation — 818. ელემენტები დიაპაზონიდან
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is as straightforward as it gets. I just set up a couple of variables to keep track of the count and the running sum, then checked each number as I pulled it from the input. Instead of storing everything in an array first and processing it later, I update my totals on the fly to save a tiny bit of overhead. The only edge case is when that counter stays at zero, which is my cue to just output -1.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- No need for a second pass; keeping a running count and sum while reading input is clean and efficient.
+- The -1 condition acts as a simple flag check at the end.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to initialize the counter and sum to zero, which can lead to garbage output if nothing matches.

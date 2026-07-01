@@ -1,24 +1,21 @@
-# Explanation — 350. <!-- problem name -->
+# Explanation — 350. იძებნება თუ არა?
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This is a classic search task, and while a simple linear scan works perfectly fine here, I went with binary search to practice the logic. First, you have to sort the array; otherwise, binary search is useless. Once it's sorted, the algorithm repeatedly halves the search space by checking the middle element. It's a clean way to handle things, especially if the array were much larger than 100 elements.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n log n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Binary search only works on sorted data, so the sort() call is non-negotiable.
+- By narrowing the range to l=m+1 or r=m, we converge on the target very quickly.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to sort the array before starting the binary search.

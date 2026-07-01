@@ -1,24 +1,25 @@
-# Explanation — 624. <!-- problem name -->
+# Explanation — 624. წიბოს ხარისხი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This problem is basically about identifying what happens to the tree when you remove a single edge. Removing any edge splits the graph into two separate components. If the sizes of these two components are A and B, then any path that uses this specific edge must start in one component and end in the other. That gives us A * B possible paths, which is exactly the 'quality' we're looking for.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The sum of the sizes of the two components will always be n, so if one side has size 'cnt', the other is simply 'n - cnt'.
+- A simple DFS is enough to precalculate the size of the subtree rooted at each node, which makes finding component sizes for any edge trivial.
 
 ## Common Mistakes
 
-- <!-- optional -->
+- Forgetting to use 'long long' for the result calculation, which will definitely overflow standard integers given the constraints.
 
 ## Walkthrough
 
-<!-- optional: trace through a sample input step by step -->
+For an edge connecting u and v, assume the subtree at the child node (say, v) has size 'cnt'. This subtree forms one component, and the rest of the tree forms the other. We multiply these two to get the answer.

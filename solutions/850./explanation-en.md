@@ -1,24 +1,21 @@
-# Explanation — 850. <!-- problem name -->
+# Explanation — 850. მინიმალური კენტი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+To solve this, I look for the first odd number in the array to use as a starting 'minimum'. Once I hit that first odd value, I trigger a nested loop to scan the rest of the array for anything even smaller. It’s a greedy approach; if I find an odd number, I immediately check if it's the smallest one available. If I finish the entire loop without ever spotting an odd number, I just print -1.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The first odd number acts as a baseline, and every subsequent odd number is compared against it.
+- The 'return 0' immediately after finding the smallest odd keeps the logic clean and prevents unnecessary searching.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to output -1 if the array contains only even numbers.

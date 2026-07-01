@@ -1,24 +1,21 @@
-# Explanation — 215. <!-- problem name -->
+# Explanation — 215. მატრიცის შევსება
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is as straightforward as it gets. You just need to initialize a square matrix of size n by n and fill every single cell with the integer x. I used a simple nested loop to assign x to every index, then another set of loops to print the result row by row. It's basically a warm-up for grid problems.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n²) |
+| Space | O(n²) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Since every cell must contain the same value, you don't actually need to store the matrix in memory if you want to optimize space; you could just print x inside the loop.
+- VLA (Variable Length Arrays) like `int matrix[n][n]` are non-standard in strict C++ but work fine on most competitive programming platforms like GCC.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting the space between numbers when printing, which leads to Wrong Answer.

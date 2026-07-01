@@ -1,24 +1,21 @@
-# Explanation — 373. <!-- problem name -->
+# Explanation — 373. გამოტოვებული რიცხვი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+Since the sequence is already sorted and we need the smallest non-negative integer missing, we just need to verify existence. I used a frequency array to mark every number that appears in the input. After marking them, the logic is trivial: just scan from 0 upwards and stop at the first index that hasn't been flagged. It’s an efficient way to solve this without needing a complex search or sorting overhead.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(N) |
+| Space | O(M) where M is the max value |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- If the first N numbers are present, the answer must be N, so we only need to check up to N.
+- Using a simple frequency array (or a boolean flag) makes checking for presence an O(1) operation.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Allocating an array that is too small for the max possible input constraint.

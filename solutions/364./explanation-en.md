@@ -1,24 +1,21 @@
-# Explanation — 364. <!-- problem name -->
+# Explanation — 364. ინიციალები
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is as straightforward as it gets. Since the problem guarantees two strings separated by a space, I just used standard input stream extraction to grab them into two variables. C++ handles whitespace-delimited reading automatically, which saved me from having to manually find the index of the space. From there, it's just picking the zero-th index of each string and appending the required period.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(1) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The cin operator stops at whitespace by default, making it perfect for capturing a name and surname without needing a full string search.
+- Building the output strings is trivial because the indices of the first letters are always fixed.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Overcomplicating the solution by reading the whole line and searching for the space index manually instead of letting cin do the work.

@@ -1,24 +1,21 @@
-# Explanation — 609. <!-- problem name -->
+# Explanation — 609. i-ური ბიტი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is basically the 'Hello World' of bitwise operations. Instead of converting the number to a string or doing weird math, you just shift the bits. By moving the bit you care about to the 0th position and checking if it's a 1, you get your answer instantly. It’s clean, it’s fast, and it avoids any potential overflows since we're using 64-bit integers.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(1) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The bitwise right shift (>>) operator drops the bits to the right of your target, leaving it at the very end.
+- Using the bitwise AND (&) with 1 is the standard way to isolate that last bit.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Using int instead of long long, which will fail for inputs near 10^18.

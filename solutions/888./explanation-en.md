@@ -1,24 +1,21 @@
-# Explanation — 888. <!-- problem name -->
+# Explanation — 888. πბონაჩის მიმდევრობა
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This is essentially just a Fibonacci sequence where you replace 1 with 3.14. Since n is only up to 35, there's no need for any fancy math; a simple array or even just three variables will handle the additions perfectly. Just make sure to use double for precision, because the numbers grow quite quickly.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Treat it exactly like a standard Fibonacci recurrence: next = current + previous.
+- The setprecision(2) manipulator is mandatory to pass the formatting check.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to use fixed with setprecision, which messes up the formatting of the trailing zeros.

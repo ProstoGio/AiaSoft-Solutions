@@ -1,24 +1,21 @@
-# Explanation — 798. <!-- problem name -->
+# Explanation — 798. დათვალე ბურთები
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is basically just simple math once you look past the giant numbers. Since we are adding 'a' blue balls followed by 'b' red ones, the pattern repeats every 'a + b' balls. To find the blue balls in the first 'n' positions, I just calculated how many full cycles fit into 'n' and multiplied that by 'a'. The only tricky bit is the leftover balls; if the remainder is bigger than 'a', we've finished the blue part of the cycle, so we just add 'a'. Otherwise, we add whatever the remainder is.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(1) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The problem boils down to integer division and the modulo operator.
+- You don't need a loop because the period of the sequence is fixed at a+b.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to handle the case where the remainder is less than 'a' when counting the final partial cycle.

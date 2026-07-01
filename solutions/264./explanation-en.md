@@ -1,24 +1,21 @@
-# Explanation — 264. <!-- problem name -->
+# Explanation — 264. კომპონენტების რაოდენობა
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+To find the number of connected components, I used the Disjoint Set Union (DSU) data structure. Basically, each vertex starts in its own individual set. Every time an edge connects two vertices, I merge their respective sets. Once all edges are processed, any vertex that is still its own parent represents the 'root' of a unique component. Just counting these roots gives the answer.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(M * α(N)) |
+| Space | O(N) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The DSU approach is much cleaner here than running BFS or DFS from every unvisited node.
+- Tracking the roots is the key; whenever a vertex points to itself, that's the canonical ID of a component.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to initialize the parent array where each index points to itself initially.

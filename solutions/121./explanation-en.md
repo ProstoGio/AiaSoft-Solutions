@@ -1,24 +1,21 @@
-# Explanation — 121. <!-- problem name -->
+# Explanation — 121. ციფრების ჯამი
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+Since the input can reach 10^200, we absolutely can't store it as an integer. I treated it as a string, which makes pulling digits off one by one easy. The logic is simple: take the current character, turn it into an int, and add it to the result of the same function called on the rest of the string. Recursion handles the rest until we're down to just one digit.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n^2) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The '-48' or '- '0'' trick is the standard way to convert a char to its integer value based on ASCII.
+- Using string::erase inside a recursive function makes this O(n^2) because each erase call shifts the remaining string elements.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to handle the negative sign at the start, since the problem specifies absolute value for inputs up to 10^200.

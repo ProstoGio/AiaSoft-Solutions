@@ -1,24 +1,21 @@
-# Explanation — 607. <!-- problem name -->
+# Explanation — 607. რიცხვების XOR - 1
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+Since the constraint is only 10⁵, a simple linear loop is perfectly fine here. I just initialize a variable with 1 and iterate from 2 up to N, XORing each number into the running total. The bitwise XOR operator in C++ makes this incredibly straightforward. No need for complex math patterns if the brute force is fast enough for the judge.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(1) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- For N=10⁵, an O(n) loop finishes in a fraction of a millisecond.
+- XOR is associative, so the order of operations doesn't change the result.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to initialize the answer to 1 (or starting the loop from 0 and messing up the initial XOR).

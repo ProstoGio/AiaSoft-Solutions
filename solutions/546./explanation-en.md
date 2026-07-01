@@ -1,24 +1,21 @@
-# Explanation — 546. <!-- problem name -->
+# Explanation — 546. ყველაზე შორს
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+Since we're dealing with a simple tree rooted at 1, a standard BFS is the most natural way to calculate the distance of every node from the root. As I traverse, I store the depth of each node in an array and keep track of the maximum distance found so far. Once the queue is empty, I just scan the depth array one more time to collect all nodes that match that maximum value. It's straightforward and gets the job done without any fancy tree algorithms.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- The distance between two nodes in a tree is defined here by the number of vertices, so starting the root at depth 0 or 1 doesn't matter as long as the relative difference is consistent.
+- BFS naturally processes nodes level by level, making it perfect for distance tracking in an unweighted graph.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to handle the graph as undirected by pushing both directions in the adjacency list.

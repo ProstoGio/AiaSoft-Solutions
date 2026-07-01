@@ -1,24 +1,21 @@
-# Explanation — 248. <!-- problem name -->
+# Explanation — 248. მასივის შემობრუნება
 
 ## Approach
 
-<!-- 3–8 sentences explaining your strategy in plain language -->
+This one is as straightforward as it gets. You read the size of the array, store the elements in a standard array, and then just iterate backwards starting from the last index down to zero. Printing them in this reverse order gives you exactly what the problem asks for. There's no need to swap elements in place or use extra memory for a second array because you can just output them while traversing the original sequence in reverse.
 
 ## Complexity
 
 | | |
 |-|--|
-| Time | O(?) |
-| Space | O(?) |
+| Time | O(n) |
+| Space | O(n) |
 
 ## Key Insights
 
-- <!-- first key insight -->
+- Instead of wasting time reversing the actual array in memory, just change your loop direction.
+- Starting your loop at n-1 and stopping at 0 is all you need to flip the output sequence.
 
 ## Common Mistakes
 
-- <!-- optional -->
-
-## Walkthrough
-
-<!-- optional: trace through a sample input step by step -->
+- Forgetting to decrement n before starting the loop, which causes an out-of-bounds access error.
