@@ -14,6 +14,7 @@ migrate_explanations.py
 generate_explanations.py
 classify_progress.json
 explain_progress.json
+generate_by_topic.py
 
 # Style guides (internal)
 EXPLANATION_GUIDE.md
