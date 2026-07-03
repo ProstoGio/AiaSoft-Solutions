@@ -3,18 +3,9 @@ __pycache__/
 .DS_Store
 
 # Internal tooling scripts
-create_folders.py
-sync_solutions.py
-fetch_statements.py
-classify_problems.py
-repair_readmes.py
-update_sol_headers.py
-update_readme.py
-migrate_explanations.py
-generate_explanations.py
+add_new_problems.py
 classify_progress.json
 explain_progress.json
-generate_by_topic.py
 
 # Style guides (internal)
 EXPLANATION_GUIDE.md
