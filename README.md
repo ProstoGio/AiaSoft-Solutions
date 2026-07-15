@@ -4,7 +4,7 @@
 
 **Clean, well-explained C++ solutions to [AiaSoft.ge](https://aiasoft.ge) programming problems**
 
-![Problems Solved](https://img.shields.io/badge/problems%20solved-286-brightgreen)
+![Problems Solved](https://img.shields.io/badge/problems%20solved-302-brightgreen)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-AiaSoft.ge-orange)
 
@@ -36,13 +36,16 @@ Each solution includes:
 | [013](solutions/013.) | მოქმედებები ვექტორზე | Implementation, Sequences | Easy |
 | [014](solutions/014.) | ლუწი ხე | Graphs, Trees, Recursion | Medium |
 | [022](solutions/022.) | ღრმად ძებნაში შესვლის და გამოსვლის დრო | Graphs, Recursion, Sorting | Medium |
+| [023](solutions/023.) | ინვერსიების რაოდენობა (მარტივი) | Implementation, Sorting | Easy |
 | [025](solutions/025.) | მასივი და მისი ორი ელემენტი | Sorting, Binary Search | Medium |
 | [029](solutions/029.) | ნულების ჯგუფები | Implementation, Sequences | Easy |
 | [033](solutions/033.) | მასივის მაქსიმალური ელემენტი | Implementation, Sequences | Easy |
 | [035](solutions/035.) | ორი რიცხვის უდიდესი საერთო გამყოფი | Math, Number Theory, Recursion | Easy |
+| [036](solutions/036.) | ასტერიქსი და ობელიქსი | Binary Search, Math | Medium |
 | [043](solutions/043.) | მასივის ქვესეგმენტის შეტრიალება | Implementation, Sequences | Easy |
 | [044](solutions/044.) | კუბიკების კიბე | Dynamic Programming, Math | Medium |
 | [046](solutions/046.) | ათეულები და ასეულები | Math, Implementation | Easy |
+| [047](solutions/047.) | ლამაზი წინადადება | Implementation, Strings | Easy |
 | [048](solutions/048.) | პირველკლასელი | Implementation, Strings, Math | Easy |
 | [051](solutions/051.) | შესაკრებთა წყვილების პოვნა | Sorting, Greedy | Medium |
 | [055](solutions/055.) | გაფუჭებული ვაშლები | Implementation, Grid | Easy |
@@ -85,6 +88,7 @@ Each solution includes:
 | [196](solutions/196.) | სიმბოლოთა ამომცნობი | Implementation, Strings | Easy |
 | [197](solutions/197.) | სიტყვების დათვლა | Strings, Implementation | Easy |
 | [198](solutions/198.) | რეაქტიული ბაბი | Dynamic Programming, Math | Easy |
+| [199](solutions/199.) | სეგმენტის შემობრუნება | Strings, Implementation | Easy |
 | [202](solutions/202.) | უცნაური კიბე | Dynamic Programming, Sequences | Medium |
 | [203](solutions/203.) | ბაბის უყვარს კომბოსტო | Dynamic Programming, Sequences | Medium |
 | [204](solutions/204.) | კალია გრასი | Dynamic Programming, Recursion | Medium |
@@ -107,6 +111,7 @@ Each solution includes:
 | [246](solutions/246.) | სამი კუ | Implementation, Math | Easy |
 | [247](solutions/247.) | უდიდესი ციფრი | Math, Implementation | Easy |
 | [248](solutions/248.) | მასივის შემობრუნება | Implementation, Sequences | Easy |
+| [249](solutions/249.) | მასივის ელემენტების წანაცვლება - 1 | Implementation, Sequences | Easy |
 | [253](solutions/253.) | დიპლომები | Binary Search, Math | Medium |
 | [254](solutions/254.) | მასივის დალაგება - 1 | Implementation, Sorting | Easy |
 | [256](solutions/256.) | რიცხვის ძიება მასივში - 1 | Implementation, Binary Search | Medium |
@@ -152,6 +157,7 @@ Each solution includes:
 | [337](solutions/337.) | რეგისტრის ცვლილება | Implementation, Strings | Easy |
 | [338](solutions/338.) | საბავშვო მოედანი 1 | Implementation, Math | Easy |
 | [339](solutions/339.) | საბავშვო მოედანი 2 | Math, Implementation | Easy |
+| [345](solutions/345.) | ბაბის მულტფილმი 2 | Math, Implementation | Easy |
 | [346](solutions/346.) | შეტყობინება | Dynamic Programming, Strings | Medium |
 | [347](solutions/347.) | ბაბი კინოთეატრში | Math, Implementation | Easy |
 | [348](solutions/348.) | ინდექსები | Implementation | Easy |
@@ -169,8 +175,10 @@ Each solution includes:
 | [382](solutions/382.) | საგუშაგოები | Graphs, Greedy | Medium |
 | [389](solutions/389.) | სრულყოფილი რიცხვი | Math, Implementation, Number Theory | Easy |
 | [390](solutions/390.) | ნაკლული და ნამეტი რიცხვები | Math, Implementation, Number Theory | Easy |
+| [401](solutions/401.) | საუკუნე | Implementation, Math | Easy |
 | [403](solutions/403.) | ბატები და ბატკნები | Math, Implementation | Easy |
 | [404](solutions/404.) | აბა, ვინ მოიგებს ?? | Game Theory, Math | Easy |
+| [407](solutions/407.) | თოვლის ბაბუა და საჩუქრები | Math, Implementation | Easy |
 | [409](solutions/409.) | გუგლიკო და შერჩევა | Math, Bit Manipulation | Easy |
 | [412](solutions/412.) | ავტობუსის გაჩერება | Implementation, Math, Greedy | Easy |
 | [414](solutions/414.) | უდიდესი რიცხვი | Math, Implementation | Easy |
@@ -178,6 +186,7 @@ Each solution includes:
 | [416](solutions/416.) | გივიკო, ნინიკო და კანფეტები | Math, Implementation | Easy |
 | [417](solutions/417.) | ორი ბაჭია | Game Theory, Math | Medium |
 | [419](solutions/419.) | ავზი | Math, Greedy | Easy |
+| [420](solutions/420.) | საფეხურები | Math, Implementation | Easy |
 | [423](solutions/423.) | ორი ერთიანი | Bit Manipulation, Implementation | Easy |
 | [424](solutions/424.) | ვინ არის მარტო? | Bit Manipulation | Easy |
 | [425](solutions/425.) | სიმრავლეები | Strings, Recursion, Sorting | Medium |
@@ -193,6 +202,8 @@ Each solution includes:
 | [475](solutions/475.) | ორის ხარისხების ჯამი | Implementation, Math, Bit Manipulation | Medium |
 | [476](solutions/476.) | უდიდესი ზრდადი ქვემიმდევრობა - 2 | Dynamic Programming, Sequences | Medium |
 | [479](solutions/479.) | სამშენებლო წელიწადი | Math, Implementation | Easy |
+| [486](solutions/486.) | მკაცრად ზრდადობა | Implementation, Sequences | Easy |
+| [487](solutions/487.) | მკაცრად მონოტონურობა | Implementation, Sequences | Easy |
 | [502](solutions/502.) | პიცა | Math, Number Theory | Easy |
 | [511](solutions/511.) | 2 - ის ხარისხი | Math, Recursion, Bit Manipulation | Easy |
 | [514](solutions/514.) | მიიღე მესამე | Math, Implementation | Easy |
@@ -240,6 +251,7 @@ Each solution includes:
 | [689](solutions/689.) | ფერადი კარტები | Math, Implementation | Easy |
 | [691](solutions/691.) | უცნაური დალაგება | Sorting, Greedy, Implementation | Easy |
 | [692](solutions/692.) | ორადი მეზობლები | Math, Implementation | Easy |
+| [701](solutions/701.) | მასივში ციფრთა ჯამი | Implementation, Math | Easy |
 | [704](solutions/704.) | ინტერვალის ჯამი | Prefix Sums, Implementation | Easy |
 | [711](solutions/711.) | რიცხვებით თამაში | Graphs, Implementation | Medium |
 | [719](solutions/719.) | მძლავრად ბმული კომპონენტების რაოდენობა | Graphs, Recursion | Medium |
@@ -248,6 +260,8 @@ Each solution includes:
 | [738](solutions/738.) | ხელფასები | Math, Implementation | Easy |
 | [743](solutions/743.) | ციფრთა ჯამი - 1 | Implementation, Math | Easy |
 | [745](solutions/745.) | ციფრთა ჯამი - 2 | Implementation, Math | Easy |
+| [747](solutions/747.) | გამყოფები - 4 | Implementation, Number Theory | Easy |
+| [752](solutions/752.) | ბედნიერი ბილეთი | Implementation, Math | Easy |
 | [754](solutions/754.) | ფაქტორიალი | Math, Recursion | Easy |
 | [755](solutions/755.) | 2-ის ახარისხება | Math, Recursion | Easy |
 | [757](solutions/757.) | მიმდევრობა | Implementation, Sequences | Easy |
@@ -298,6 +312,7 @@ Each solution includes:
 | [885](solutions/885.) | წრის ფართობი | Math, Geometry | Easy |
 | [887](solutions/887.) | πრველი კენტების ჯამი | Math, Sequences | Easy |
 | [888](solutions/888.) | πბონაჩის მიმდევრობა | Implementation, Sequences | Easy |
+| [889](solutions/889.) | πთაგორას სამკუთხედი | Math, Implementation, Geometry | Easy |
 | [891](solutions/891.) | დაითვალე ლიდერები | Implementation, Greedy | Easy |
 | [897](solutions/897.) | სად არის პირველად? | Implementation, Sets | Easy |
 | [900](solutions/900.) | ორი მარტოხელა | Sorting, Implementation | Easy |
@@ -314,6 +329,7 @@ Each solution includes:
 | [920](solutions/920.) | წყალდიდობა | Graphs, Recursion | Easy |
 | [928](solutions/928.) | მიმდევრობები | Dynamic Programming, Sequences | Medium |
 | [934](solutions/934.) | დიდი რიცხვები | Math, Number Theory | Medium |
+| [935](solutions/935.) | ეშმაკური იდეა | Math, Binary Search, Greedy | Medium |
 | [940](solutions/940.) | მარტივი ციკლები | Graphs, Sets | Easy |
 
 ---
@@ -339,23 +355,23 @@ aiasoft-solutions/
 
 | Topic | Problems |
 |-------|----------|
-| Binary Search | 025, 253, 256, 257, 350, 570 |
+| Binary Search | 025, 036, 253, 256, 257, 350, 570, 935 |
 | Bit Manipulation | 409, 423, 424, 475, 511, 540, 542, 587, 606, 607, 608, 609, 616 |
 | Dynamic Programming | 044, 120, 126, 176, 177, 188, 198, 202, 203, 204, 225, 266, 299, 300, 313, 315, 346, 430, 452, 458, 476, 587, 603, 611, 620, 628, 666, 667, 668, 670, 671, 688, 928 |
 | Game Theory | 404, 417, 587 |
-| Geometry | 145, 146, 380, 468, 617, 618, 880, 885 |
+| Geometry | 145, 146, 380, 468, 617, 618, 880, 885, 889 |
 | Graphs | 014, 022, 224, 260, 261, 262, 263, 264, 265, 268, 269, 274, 275, 286, 297, 298, 301, 306, 311, 312, 320, 376, 382, 465, 472, 530, 532, 546, 547, 548, 624, 628, 662, 711, 719, 903, 917, 920, 940 |
-| Greedy | 011, 051, 059, 106, 142, 221, 382, 412, 419, 540, 558, 691, 737, 850, 891 |
+| Greedy | 011, 051, 059, 106, 142, 221, 382, 412, 419, 540, 558, 691, 737, 850, 891, 935 |
 | Grid | 055, 058, 118, 179, 215, 216, 217, 219, 225, 234, 298, 301, 307, 320, 430, 472, 532, 538, 548, 604, 862, 907 |
-| Implementation | 001, 008, 011, 012, 013, 029, 033, 043, 046, 048, 055, 058, 059, 062, 063, 064, 068, 076, 085, 086, 087, 106, 118, 120, 122, 123, 136, 138, 139, 140, 141, 142, 146, 147, 148, 149, 152, 179, 180, 196, 197, 206, 207, 211, 212, 213, 214, 215, 216, 217, 219, 227, 234, 245, 246, 247, 248, 254, 256, 257, 260, 261, 262, 264, 265, 274, 287, 309, 316, 318, 323, 327, 328, 329, 330, 331, 332, 333, 334, 336, 337, 338, 339, 347, 348, 349, 350, 361, 362, 364, 365, 366, 373, 374, 376, 389, 390, 403, 412, 414, 415, 416, 423, 446, 458, 470, 473, 475, 479, 514, 547, 558, 573, 576, 604, 605, 606, 616, 617, 618, 622, 623, 627, 668, 678, 684, 689, 691, 692, 704, 711, 734, 737, 738, 743, 745, 757, 762, 765, 782, 783, 786, 787, 788, 789, 790, 798, 799, 803, 809, 811, 812, 813, 814, 816, 817, 818, 821, 824, 826, 827, 828, 829, 849, 850, 854, 860, 861, 862, 863, 864, 865, 866, 867, 868, 870, 871, 873, 888, 891, 897, 900, 901, 902, 903, 905, 906, 907, 912, 916 |
-| Math | 001, 012, 035, 044, 046, 048, 062, 068, 085, 088, 136, 141, 145, 146, 152, 176, 188, 198, 207, 227, 245, 246, 247, 253, 287, 309, 316, 318, 327, 328, 329, 330, 331, 332, 333, 338, 339, 347, 361, 362, 366, 380, 389, 390, 403, 404, 409, 412, 414, 415, 416, 417, 419, 430, 446, 452, 458, 468, 475, 479, 502, 511, 514, 528, 542, 571, 573, 605, 607, 608, 611, 620, 622, 623, 684, 689, 692, 734, 738, 743, 745, 754, 755, 766, 782, 783, 786, 787, 798, 799, 803, 813, 826, 843, 860, 864, 865, 870, 871, 873, 880, 885, 887, 902, 912, 913, 934 |
-| Number Theory | 035, 068, 331, 332, 333, 380, 389, 390, 502, 766, 786, 787, 813, 843, 913, 934 |
+| Implementation | 001, 008, 011, 012, 013, 023, 029, 033, 043, 046, 047, 048, 055, 058, 059, 062, 063, 064, 068, 076, 085, 086, 087, 106, 118, 120, 122, 123, 136, 138, 139, 140, 141, 142, 146, 147, 148, 149, 152, 179, 180, 196, 197, 199, 206, 207, 211, 212, 213, 214, 215, 216, 217, 219, 227, 234, 245, 246, 247, 248, 249, 254, 256, 257, 260, 261, 262, 264, 265, 274, 287, 309, 316, 318, 323, 327, 328, 329, 330, 331, 332, 333, 334, 336, 337, 338, 339, 345, 347, 348, 349, 350, 361, 362, 364, 365, 366, 373, 374, 376, 389, 390, 401, 403, 407, 412, 414, 415, 416, 420, 423, 446, 458, 470, 473, 475, 479, 486, 487, 514, 547, 558, 573, 576, 604, 605, 606, 616, 617, 618, 622, 623, 627, 668, 678, 684, 689, 691, 692, 701, 704, 711, 734, 737, 738, 743, 745, 747, 752, 757, 762, 765, 782, 783, 786, 787, 788, 789, 790, 798, 799, 803, 809, 811, 812, 813, 814, 816, 817, 818, 821, 824, 826, 827, 828, 829, 849, 850, 854, 860, 861, 862, 863, 864, 865, 866, 867, 868, 870, 871, 873, 888, 889, 891, 897, 900, 901, 902, 903, 905, 906, 907, 912, 916 |
+| Math | 001, 012, 035, 036, 044, 046, 048, 062, 068, 085, 088, 136, 141, 145, 146, 152, 176, 188, 198, 207, 227, 245, 246, 247, 253, 287, 309, 316, 318, 327, 328, 329, 330, 331, 332, 333, 338, 339, 345, 347, 361, 362, 366, 380, 389, 390, 401, 403, 404, 407, 409, 412, 414, 415, 416, 417, 419, 420, 430, 446, 452, 458, 468, 475, 479, 502, 511, 514, 528, 542, 571, 573, 605, 607, 608, 611, 620, 622, 623, 684, 689, 692, 701, 734, 738, 743, 745, 752, 754, 755, 766, 782, 783, 786, 787, 798, 799, 803, 813, 826, 843, 860, 864, 865, 870, 871, 873, 880, 885, 887, 889, 902, 912, 913, 934, 935 |
+| Number Theory | 035, 068, 331, 332, 333, 380, 389, 390, 502, 747, 766, 786, 787, 813, 843, 913, 934 |
 | Prefix Sums | 307, 604, 704, 765 |
 | Recursion | 014, 022, 035, 063, 121, 122, 123, 126, 204, 263, 269, 275, 306, 361, 366, 425, 465, 472, 511, 530, 538, 548, 662, 719, 754, 755, 917, 920 |
-| Sequences | 013, 029, 033, 043, 098, 106, 126, 138, 139, 176, 177, 202, 203, 248, 266, 299, 300, 313, 315, 349, 373, 473, 476, 558, 570, 576, 620, 627, 667, 757, 766, 788, 790, 811, 816, 817, 849, 887, 888, 906, 928 |
+| Sequences | 013, 029, 033, 043, 098, 106, 126, 138, 139, 176, 177, 202, 203, 248, 249, 266, 299, 300, 313, 315, 349, 373, 473, 476, 486, 487, 558, 570, 576, 620, 627, 667, 757, 766, 788, 790, 811, 816, 817, 849, 887, 888, 906, 928 |
 | Sets | 148, 149, 265, 268, 286, 376, 678, 897, 940 |
-| Sorting | 022, 025, 051, 059, 098, 140, 147, 254, 350, 425, 465, 666, 691, 824, 900 |
-| Strings | 008, 048, 062, 063, 064, 076, 086, 121, 122, 123, 149, 180, 196, 197, 206, 211, 212, 213, 214, 323, 334, 336, 337, 346, 364, 365, 374, 425, 470, 542, 678, 688, 737, 762, 809, 821, 824, 827, 828, 829, 854, 861, 901, 902, 916 |
+| Sorting | 022, 023, 025, 051, 059, 098, 140, 147, 254, 350, 425, 465, 666, 691, 824, 900 |
+| Strings | 008, 047, 048, 062, 063, 064, 076, 086, 121, 122, 123, 149, 180, 196, 197, 199, 206, 211, 212, 213, 214, 323, 334, 336, 337, 346, 364, 365, 374, 425, 470, 542, 678, 688, 737, 762, 809, 821, 824, 827, 828, 829, 854, 861, 901, 902, 916 |
 | Trees | 014, 269, 274, 546, 547, 624, 662 |
 
 ---
