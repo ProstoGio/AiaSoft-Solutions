@@ -389,6 +389,6 @@ aiasoft-solutions/
 
 *Solutions by a Georgian CS student — აიასოფტი, competitive programming, C++*
 
-![Last Updated](https://img.shields.io/badge/last%20updated-June%202026-lightgrey)
+![Last Updated](https://img.shields.io/badge/last%20updated-July%202026-lightgrey)
 
 </div>
