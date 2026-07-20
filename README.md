@@ -344,14 +344,18 @@ Each solution includes:
 ```
 aiasoft-solutions/
 ├── solutions/
-│   └── NNN. პრობლემის სახელი/
-│       ├── README.md       ← summary: title, difficulty, topics, links
-│       ├── statement.md    ← problem statement from aiasoft.ge
-│       ├── explanation.md  ← approach, complexity, insights
-│       └── sol.cpp         ← C++ solution
+│   └── NNN./
+│       ├── README.md          ← summary: title, difficulty, topics, links
+│       ├── statement.md       ← problem statement from aiasoft.ge
+│       ├── explanation-en.md  ← approach, complexity, insights (English)
+│       ├── explanation-ge.md  ← განმარტება (ქართულად)
+│       └── sol.cpp            ← C++ solution
 ├── by-topic/
-│   └── README.md           ← problems grouped by topic
-└── README.md               ← you are here
+│   ├── README.md              ← index of all topics
+│   └── topic-name/
+│       ├── README.md          ← problems in this topic
+│       └── NNN./              ← full copy of the problem folder
+└── README.md                  ← you are here
 ```
 
 ---
