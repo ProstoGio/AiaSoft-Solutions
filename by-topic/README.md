@@ -10,11 +10,11 @@ Problems from [AiaSoft Solutions](../README.md) grouped by topic.
 | [Game Theory](game-theory/) | 4 |
 | [Geometry](geometry/) | 10 |
 | [Graphs](graphs/) | 39 |
-| [Greedy](greedy/) | 19 |
+| [Greedy](greedy/) | 20 |
 | [Grid](grid/) | 24 |
-| [Implementation](implementation/) | 230 |
-| [Math](math/) | 136 |
-| [Number Theory](number-theory/) | 18 |
+| [Implementation](implementation/) | 232 |
+| [Math](math/) | 140 |
+| [Number Theory](number-theory/) | 20 |
 | [Prefix Sums](prefix-sums/) | 4 |
 | [Recursion](recursion/) | 29 |
 | [Sequences](sequences/) | 48 |
